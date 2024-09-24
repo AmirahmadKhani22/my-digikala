@@ -1,0 +1,7 @@
+[
+    {"href": "/faq/question/79" , "image": {"src": "/icon/express-delivery.svg"} , "info": "امکان تحویل اکسپرس"},
+    {"href": "/faq/question/81" , "image": {"src": "/icon/cash-on-delivery.svg"} , "info": "امکان پرداخت در محل"},
+    {"href": "/faq/page/contact-us" , "image": {"src": "/icon/support.svg"} , "info": "7 روز هفته، 24 ساعته"},
+    {"href": "/faq/question/83" , "image": {"src": "/icon/days-return.svg"} , "info": "هفت روز ضمانت بازگشت کالا"},
+    {"href": "/faq/question/82" , "image": {"src": "/icon/original-products.svg"} , "info": "ضمانت اصل بودن کالا"}
+]

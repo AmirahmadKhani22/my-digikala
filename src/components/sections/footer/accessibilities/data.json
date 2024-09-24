@@ -1,0 +1,31 @@
+[
+    {
+        "title": "با دیجی‌کالا",
+        "items": [
+            {"text": "اتاق خبر دیجی‌کالا" , "link": ""},
+            {"text": "فروش در دیجی‌کالا" , "link": "/landing/seller-introduction"},
+            {"text": "گزارش تخلف در دیجی‌کالا" , "link": ""},
+            {"text": "فرصت های شغلی" , "link": ""},
+            {"text": "تماس با دیجی‌کالا" , "link": "/page/contact-us"},
+            {"text": "درباره دیجی‌کالا" , "link": ""}
+        ]
+    },
+    {
+        "title": "خدمات مشتریان", 
+        "items": [
+            {"text": "پاسخ به پرسش های متداول" , "link": "/faq"}, 
+            {"text": "رویه بازگرداندن کالا" , "link": "/faq/question/83"},
+            {"text": "شرایط استفاده" , "link": "/page/terms"},
+            {"text": "حریم خصوصی" , "link": "/page/privacy"},
+            {"text": "گزارش باگ" , "link": "/page/bug-report"}
+        ]
+    },
+    {
+        "title": "راهنمای خرید از دیجی‌کالا",
+        "items": [
+            {"text": "نحوه ثبت سفارش" , "link": "/faq/question/649"},
+            {"text": "رویه ارسال سفارش" , "link": "/faq/question/79"},
+            {"text": "شیوه پرداخت" , "link": "/faq/question/81"}
+        ]
+    }
+]

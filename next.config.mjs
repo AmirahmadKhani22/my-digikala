@@ -1,6 +1,9 @@
 /** @type {import('next').NextConfig} */
 const nextConfig = {
-  reactStrictMode: true,
-};
+  reactStrictMode: false,
+  images: {
+    formats: ["image/webp"],
+  }
+}
 
-export default nextConfig;
+export default nextConfig

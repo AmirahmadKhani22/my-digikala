@@ -1,0 +1,12 @@
+<svg width="10" height="10" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="g">
+      <stop stop-color="#333" offset="20%" />
+      <stop stop-color="#222" offset="50%" />
+      <stop stop-color="#333" offset="70%" />
+    </linearGradient>
+  </defs>
+  <rect width="10" height="10" fill="#333" />
+  <rect id="r" width="10" height="10" fill="url(#g)" />
+  <animate xlink:href="#r" attributeName="x" from="-10" to="10" dur="1s" repeatCount="indefinite"  />
+</svg>

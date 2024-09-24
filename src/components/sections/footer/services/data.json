@@ -1,0 +1,21 @@
+[
+    [
+        {"href": "/mag" , "logo": {"src": "/icon/digimag.svg" , "alt": "digikala mag"}},
+        {"href": "" , "logo": {"src": "/icon/digipay.svg" , "alt": "digipay"}},
+        {"href": "" , "logo": {"src": "/icon/digistyle.svg" , "alt": "digistyle"}},
+        {"href": "" , "logo": {"src": "/icon/digiplus.svg" , "alt": "digiplus"}},
+        {"href": "/digiclub" , "logo": {"src": "/icon/digiclub.svg" , "alt": "digiclub"}},
+        {"href": "" , "logo": {"src": "/icon/digikalajet.svg" , "alt": "digijet"}},
+        {"href": "/landings/magnet" , "logo": {"src": "/icon/magnet.svg" , "alt": "magnet"}},
+        {"href": "/mehr" , "logo": {"src": "/icon/digimehr.svg" , "alt": "digimehr"}}
+    ],
+    [
+        {"href": "" , "logo": {"src": "/icon/diginext.svg" , "alt": "digi next"}},
+        {"href": "" , "logo": {"src": "/icon/digiexpress.svg" , "alt": "digi express"}},
+        {"href": "" , "logo": {"src": "/icon/ganjeh.svg" , "alt": "ganjeh"}},
+        {"href": "" , "logo": {"src": "/icon/digify.svg" , "alt": "digify"}},
+        {"href": "" , "logo": {"src": "/icon/smartech.svg" , "alt": "smartech"}},
+        {"href": "" , "logo": {"src": "/icon/digikala-business.svg" , "alt": "digikala business"}},
+        {"href": "" , "logo": {"src": "/icon/digikala-service.svg" , "alt": "digikala service"}}
+    ]
+]
