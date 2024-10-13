@@ -20,13 +20,19 @@ export default function Slides({item}) {
                 <Image
                     nextHandle={true}
                     fill={false}
-                    // src={item.circle_cover}
-                    // alt={item.title}
+                    src={item.circle_cover}
+                    alt={item.title}
+                    width={115}
+                    height={115}
                     className={`rounded-[inherit] m-auto w-full h-full object-cover ${styles["stories-image"]}`}
                 />
                 {
-                    item["badge_text"] && <div className="w- h- px-1.5 absolute bottom-0 m-auto border bg-[#fdecf5] text">
-
+                    item["badge_text"] && <div className="flex justify-center w-full absolute bottom-[-11px]">
+                        <span className="inline-block h-[22px] px-1.5 py-0.5 border border-white rounded bg-[#fdecf5] text-center text-xs text-[#e03e97]">
+                            {
+                                item["persian_calendar"]
+                            }
+                        </span>
                     </div>
                 }
             </div>
