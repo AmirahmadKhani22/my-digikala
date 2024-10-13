@@ -58,7 +58,7 @@ export default function NotifEmail() {
                 type="submit"
                 value="ثبت"
                 disabled={!submitData}
-                className={`text-white h-12 py-3 px-4 rounded-lg ${!submitData ? "cursor-[not-allowed] bg-button-disable" : "cursor-pointer bg-button-primary"}`}
+                className={`text-white h-12 py-3 px-4 rounded-lg ${!submitData ? "cursor-[not-allowed] bg-button-disable" : "cursor-pointer bg-icon-primary"}`}
             />
         </div>
         <p ref={hintRef} className="mt-2 text-xs text-hint-text-error"></p>

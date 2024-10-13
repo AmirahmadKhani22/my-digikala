@@ -1,5 +1,4 @@
 @import url("swiper/css");
-@import url("swiper/css/navigation");
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
@@ -29,6 +28,16 @@
         -ms-overflow-style: none;
         scrollbar-width: none;
     }
+    .ellipsis-2 {
+        display: -webkit-box;
+        -webkit-line-clamp: 2;
+        -webkit-box-orient: vertical;
+        overflow: hidden;
+    }
+    .aspect-4\/3 {
+        aspect-ratio: 4 / 3;
+        -eq-aspect-ratio: 4 / 3;
+    }
 }
 
 :root {
@@ -37,27 +46,3 @@
     --color-button-primery: #ef4056;
     --color-secondary-500: #19bfd3;
 }
-
-.nav-swiper-button {
-    @apply absolute top-[calc(50%-(24px+16px+2*1px)/2)] z-[2] p-2 bg-white border rounded-full cursor-pointer;
-}
-.nav-swiper-button-icon {
-    @apply text-[var(--color-icon-high-emphasis)] opacity-70 hover:opacity-100;
-}
-
-/* start footer show more */
-.show-more {
-    overflow-y: hidden;
-    position: relative;
-    width: 100%;
-    height: 125px;
-}
-.show-more::before {
-    content: "";
-    position: absolute;
-    inset: 0;
-    width: 100%;
-    height: 100%;
-    background-image: linear-gradient(180deg , transparent 50% , #fff);
-}
-/* end of footer show more */

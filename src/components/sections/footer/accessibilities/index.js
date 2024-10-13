@@ -1,4 +1,4 @@
-import Link from "@/components/utils/link"
+import Link from "@/components/utils/components/link"
 import data from "./data.json"
 import NotifEmail from "./contacts/notifEmail"
 import SocialMedias from "./contacts/socialMedias"

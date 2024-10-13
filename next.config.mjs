@@ -1,8 +1,29 @@
 /** @type {import('next').NextConfig} */
+const devImageRemotePattern = process.env.NODE_ENV === "development" ? [
+    {
+      protocol: "https",
+      hostname: "dkstatics-public.digikala.com",
+      pathname: "/**",
+    },
+    {
+      protocol: "https",
+      hostname: "dkms.digikala.com",
+      pathname: "/**",
+    },
+    {
+      protocol: "https",
+      hostname: "www.digikala.com",
+      pathname: "/**",
+    }
+  ] : []
+
 const nextConfig = {
-  reactStrictMode: false,
+  reactStrictMode: process.env.NODE_ENV === "test",
   images: {
     formats: ["image/webp"],
+    remotePatterns: [
+        
+    ].concat(devImageRemotePattern)
   }
 }
 

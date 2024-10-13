@@ -1,4 +1,4 @@
-import Image from "@/components/utils/image"
+import Image from "@/components/utils/components/image"
 import services from "./data.json"
 
 export default function Services() {
@@ -17,14 +17,10 @@ export default function Services() {
                             >
                                 <a href={service.href}>
                                     <Image 
-                                        nextHandle={true}
-                                        unoptimized={true}
-                                        fill={false}
-                                        height={20}
-                                        width={70}
-                                        imageClassName="w-auto h-5"
+                                        nextHandle={false}
                                         src={service.logo.src}
                                         alt={service.logo.alt}
+                                        style={{height: "20px" , width: "auto"}}
                                     />
                                 </a>
                             </div>

@@ -1,26 +1,26 @@
+import {Provider} from "@/contexts/homePageData"
+import Head from '@/components/home/head'
 import Header from '@/components/home/header'
 import Main from '@/components/home/main'
-import {FaBasketShopping} from "react-icons/fa6"
-import {LiaHeadsetSolid} from "react-icons/lia";
+import {getJsonData} from "@/components/utils/components/hooks/getData"
 
-export default function Home() {
-    return <>
+export default function Home({pageData}) {
+    console.log(pageData.data.widgets)
+    return pageData.data && <Provider value={pageData}>
+        <Head />
         <Header />
         <Main />
-        {/* <div className="fixed z-[9999] bottom-8 left-4">
-            <button className="rounded-full bg-fresh-700 text-white p-3 flex items-center">
-                <p className="ml-2">سوپرمارکت</p>
-                <FaBasketShopping 
-                    size="24px"
-                />
-            </button>
-        </div>
-        <div className="fixed z-[9999] bottom-8 right-14">
-            <button className="rounded-full bg-button-primary text-white p-3">
-                <LiaHeadsetSolid 
-                    size="24px"
-                />
-            </button>
-        </div> */}
-    </>
+    </Provider>
+}
+
+export async function getServerSideProps() {
+    const {data} = await getJsonData("v2/")
+    const extraData = data.widgets.filter(widget => widget.hasOwnProperty("endpoint"))
+    for(const item of extraData) {
+        item.data = (await getJsonData(`v1/${item.endpoint}`)).data
+    }
+    const pageData = {
+        data,
+    }
+    return {props: {pageData}}
 }

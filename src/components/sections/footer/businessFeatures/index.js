@@ -1,6 +1,6 @@
 import features from './data.json'
-import Link from "@/components/utils/link"
-import Image from "@/components/utils/image"
+import Link from "@/components/utils/components/link"
+import Image from "@/components/utils/components/image"
 
 export default function BusinessFeatures() {
     return <ul className="flex items-center justify-around w-full">
@@ -12,13 +12,10 @@ export default function BusinessFeatures() {
                         className="inline-block grid place-items-center"    
                     >
                         <Image 
-                            nextHandle={true}
-                            fill={false}
-                            width={56}
-                            height={56}
+                            nextHandle={false}
                             src={feature.image.src}
                             alt={feature.info}
-                            imageClassName="w-auto h-[56px]"
+                            style={{height: "56px" , width: "auto"}}
                         />
                         <p className="mt-2 text-xs">{feature.info}</p>
                     </Link>

@@ -1,5 +1,5 @@
 
-import Image from "@/components/utils/image"
+import Image from "@/components/utils/components/image"
 import licenses from "./data.json"
 
 export default function Licenses() {
@@ -18,7 +18,7 @@ export default function Licenses() {
                             height={75}
                             src={license.image.src}
                             alt={license.image.alt}
-                            imageClassName="w-auto h-[75px]"
+                            className="w-auto h-[75px]"
                         />
                     </a>
                 </li>
