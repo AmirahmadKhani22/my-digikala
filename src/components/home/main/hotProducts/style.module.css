@@ -1,0 +1,6 @@
+.outline-bottom {
+    @apply relative;
+}
+.outline-bottom::before {
+    @apply content-[""] absolute bottom-[-26px] left-0 right-0 z-50 h-[1.5px] w-full bg-neutral-100;
+}

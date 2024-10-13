@@ -1,0 +1,15 @@
+.type-2-swiper-button {
+    @apply opacity-70 text-[var(--color-icon-high-emphasis)] [transition:0.3s];
+}
+.type-2-swiper-button:hover {
+    @apply opacity-100 text-neutral-200;
+}
+.active-bullet {
+    @apply w-4 opacity-100 bg-white;
+}
+.show-hide-swiper-navigation-child {
+    @apply opacity-0 [transition:0.2s];
+}
+.show-hide-swiper-navigation-parent:hover .show-hide-swiper-navigation-child {
+    @apply opacity-100;
+}

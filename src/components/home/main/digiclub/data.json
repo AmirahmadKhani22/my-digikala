@@ -1,0 +1,47 @@
+[
+    {
+        "link": {
+            "href": "https://games.digikala.com/digiclub/wheel-spinner"
+        },
+        "image": {
+            "src": "/image/wheel-spinner.webp",
+            "alt": "چرخ و بخت",
+            "aspectRatio": "61/31"
+        },
+        "icon": {
+            "href": "/symbol/lucky-draw.svg",
+            "id": "lucky-draw"
+        },
+        "text": "چرخ و بخت"
+    },
+    {
+        "link": {
+            "href": "/digiclub/missions/"
+        },
+        "image": {
+            "src": "/image/missions.webp",
+            "alt": "ماموریت ها",
+            "aspectRatio": "124/63"
+        },
+        "icon": {
+            "href": "/symbol/club-missions.svg",
+            "id": "club-missions"
+        },
+        "text": "ماموریت ها"
+    },
+    {
+        "link": {
+            "href": "/digiclub/awards/"
+        },
+        "image": {
+            "src": "/image/awards.webp",
+            "alt": "جایزه ها",
+            "aspectRatio": "124/63"
+        },
+        "icon": {
+            "href": "/symbol/awards.svg",
+            "id": "awards"
+        },
+        "text": "جایزه ها"
+    }
+]
