@@ -5,7 +5,8 @@ import handleURL from "@/components/utils/handleURL"
 
 export default function MainCategory() {
     const {data} = useData("main_categories_grid")
-    return data && !!data.length && <div className="mt-4 pt-6 pb-10 flex flex-col justify-center gap-y-10">
+    console.log(data , !!data.length)
+    return data && !!data.categories.length && <div className="mt-4 pt-6 pb-10 flex flex-col justify-center gap-y-10">
         <h2 className="text-center text-xl font-bold">
             {data.title}
         </h2>

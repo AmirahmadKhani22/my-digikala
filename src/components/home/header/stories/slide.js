@@ -13,7 +13,7 @@ export default function Slide({item , now}) {
     // }
     return <div 
             className="swiper-slide w-auto flex items-center cursor-pointer"
-            // onClick={openModal}        
+            // onClick={openModal}
         >
         <div className="w-[84px]">
             <div className={`w-full h-[84px] relative rounded-full p-0.5 ${styles["stories-image-border"]}`}>
