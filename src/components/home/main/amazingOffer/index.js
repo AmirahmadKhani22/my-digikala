@@ -18,7 +18,8 @@ export default function AmazingOffer() {
         })
         
     })
-    if(data) {
+    const condition = data && data.products && !!data.products.length
+    if(condition) {
         const seeMore = data["see_more_url"]
         data.timer = {
             hour: "24",
