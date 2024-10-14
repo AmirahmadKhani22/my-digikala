@@ -27,10 +27,10 @@ export default function Slides({item}) {
                     className={`rounded-[inherit] m-auto w-full h-full object-cover ${styles["stories-image"]}`}
                 />
                 {
-                    item["badge_text"] && <div className="flex justify-center w-full absolute bottom-[-11px]">
+                    item["start_time"] && <div className="flex justify-center w-full absolute bottom-[-11px]">
                         <span className="inline-block h-[22px] px-1.5 py-0.5 border border-white rounded bg-[#fdecf5] text-center text-xs text-[#e03e97]">
                             {
-                                item["persian_calendar"]
+                                item["badge_text"]
                             }
                         </span>
                     </div>

@@ -27,13 +27,15 @@ export default function Stories() {
     if(stories) {
         stories.total = stories.lives.concat(stories.posts)
         console.log("magnet-stories: " , stories.total)
+        const nowUTC = Date.now()
+        console.log(nowUTC)
         return <div className="pt-4 m-auto w-full max-w-[1336px]">
             <SwiperType1Structure
                 id="magnet-stories-slides"
                 containerClassName=" w-full h-auto"
                 prefixSelector="magnet-stories"
             >
-                {stories.total.map((item , index) => <Slides key={index} item={item}/>)}
+                {stories.total.map((item , index) => <Slides key={index} item={item} now={nowUTC}/>)}
             </SwiperType1Structure>
         </div>
     } else {
