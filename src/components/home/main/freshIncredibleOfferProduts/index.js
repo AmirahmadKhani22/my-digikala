@@ -7,7 +7,8 @@ import Products from "./products"
 
 export default function FreshIncredibleOfferProducts() {
     const {data} = useData("fresh_incredible_offer_products_circle")
-    if(data && !!data.length) {
+    const condition = data && !!data.length
+    if(condition) {
         const seeMore = handleURL(data["see_more_url"])
         return <div className={`mt-4 relative bg-neutral-100 ${style["background-pattern"]} rounded-2xl`}>
             <Link
