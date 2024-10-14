@@ -6,7 +6,7 @@ import handleURL from "@/components/utils/handleURL"
 
 export default function MagazinePosts() {
     const {data} = useData("magazine_posts")
-    return <div className="mt-4">
+    return data && !!data.length && <div className="mt-4">
         <div className="flex items-center justify-between px-5 py-4">
             <h2 className="text-base font-bold">خواندنی&zwnj;ها</h2>
             <Link
