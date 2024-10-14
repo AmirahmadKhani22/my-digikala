@@ -1,12 +1,10 @@
 "use client"
-import ProductLink from "@/components/sections/productLink"
 import AddSVGIcon from "@/components/utils/components/addSVGIcon"
 import Image from "@/components/utils/components/image"
 import Link from "@/components/utils/components/link"
 import handleURL from "@/components/utils/handleURL"
 
 export default function Wrapper({categories , part}) {
-    console.log(categories)
     return <div className="flex items-center justify-between border rounded-2xl">
         {
             categories.map((category , categoryIndex) => {
