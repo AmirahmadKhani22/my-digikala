@@ -1,5 +1,5 @@
-import {useContext, useEffect} from "react"
-import homePageData from "@/contexts/homePageData"
+import {useEffect} from "react"
+import useData from "@/components/hooks/useData"
 import styles from "./styles.module.css"
 import swiperType1Config , {swiperType1Destroy} from "@/components/sections/swiper/type-1/config"
 import SwiperType1Structure from "@/components/sections/swiper/type-1/structure"
@@ -8,7 +8,7 @@ import ProductSlide from "./productSlide"
 import SeeAll from "./seeAll"
 
 export default function AmazingOffer() {
-    const {data} = useContext(homePageData)
+    const {data} = useData("incredible_offer_products_cart")
     useEffect(() => {
         const swiper = swiperType1Config({
             container: "#amazing-offer-swiper",
@@ -18,10 +18,9 @@ export default function AmazingOffer() {
         })
         
     })
-    const [widgets] = data.widgets.filter((widget , index) => widget.name === "incredible_offer_products_cart")
-    if(widgets) {
-        const seeMore = widgets.data["see_more_url"]
-        widgets.data.timer = {
+    if(data) {
+        const seeMore = data["see_more_url"]
+        data.timer = {
             hour: "24",
             minute: "0",
             second: "0"
@@ -36,12 +35,12 @@ export default function AmazingOffer() {
                 >
                     <IncredibleOffer 
                         link={seeMore} 
-                        title={widgets.data.title} 
-                        initialTime={widgets.data.timer}
+                        title={data.title} 
+                        initialTime={data.timer}
                         style={{width: slideWidth}}
                     />
                     {
-                        widgets.data.products.map((product , index) => <ProductSlide 
+                        data.products.map((product , index) => <ProductSlide 
                             key={index} 
                             product={product} 
                             index={index} 
