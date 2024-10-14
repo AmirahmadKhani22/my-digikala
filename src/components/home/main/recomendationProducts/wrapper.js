@@ -35,6 +35,7 @@ export default function Wrapper({categories , part}) {
                                     itemBorderTop = ""
                                 }
                                 return <Link
+                                    key={categoryIndex + itemIndex}
                                     href={handleURL(item.url)}
                                     className={`${itemBorderRight} ${itemBorderTop}`}
                                 >
