@@ -5,7 +5,8 @@ import handleURL from "@/components/utils/handleURL"
 
 export default function MainBanners({identifier,aspectRatio}) {
     const {data} = useData(identifier)
-    return <div className={`mt-4 flex items-center gap-4 flex-wrap`}>
+    const condition = data && !!data.length
+    return condition && <div className={`mt-4 flex items-center gap-4 flex-wrap`}>
         {
             data.map((item , index) => <Link 
                 key={index}
