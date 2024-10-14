@@ -17,7 +17,7 @@ export default function PopularBrands() {
         })
         
     })
-    return <div className="mt-4 py-5 border rounded-2xl">
+    return data && !!data.length && <div className="mt-4 py-5 border rounded-2xl">
         <div className="m-auto pb-5 flex items-center justify-center gap-x-3">
             <AddSVGIcon
                 href="/symbol/top-brands.svg"
