@@ -11,7 +11,7 @@ import Image from "@/components/utils/components/image"
 import {englishNumToPersianNum}  from "@/components/utils/persianNum"
 
 export default function HotProducts({identifier , prefixSelector}) {
-    const {data , endpoint} = useData(identifier)
+    const {data} = useData(identifier)
     useEffect(() => {
         const swiper = swiperType1Config({
             container: `#${prefixSelector}-swiper-slides`,
@@ -20,12 +20,7 @@ export default function HotProducts({identifier , prefixSelector}) {
             spaceBetween: 20
         })
     })
-
-    if(!data.length && endpoint) {
-
-    }
-
-    return !!Object.keys(data).length && <div className="mt-4 relative px-4 py-6 border rounded-2xl">
+    return data && data.length && <div className="mt-4 relative px-4 py-6 border rounded-2xl">
         {data["see_more_url"] && <Link
             href={handleURL(data["see_more_url"])}
             className="absolute left-4 top-5 text-sm font-bold text-cyan-500"
