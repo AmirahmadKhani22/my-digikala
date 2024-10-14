@@ -1,7 +1,7 @@
 import {useEffect} from "react"
 import useData from "@/components/hooks/useData"
 import styles from "./styles.module.css"
-import swiperType1Config , {swiperType1Destroy} from "@/components/sections/swiper/type-1/config"
+import swiperType1Config from "@/components/sections/swiper/type-1/config"
 import SwiperType1Structure from "@/components/sections/swiper/type-1/structure"
 import IncredibleOffer from "./IncredibleOffer"
 import ProductSlide from "./productSlide"

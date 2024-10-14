@@ -1,6 +1,6 @@
 import {useState , useEffect} from "react"
 import {getJsonData} from "@/components/utils/components/hooks/getData"
-import swiperType1Config , {swiperType1Destroy} from "@/components/sections/swiper/type-1/config"
+import swiperType1Config from "@/components/sections/swiper/type-1/config"
 import SwiperType1Structure from "@/components/sections/swiper/type-1/structure"
 import Slide from "./slide"
 
