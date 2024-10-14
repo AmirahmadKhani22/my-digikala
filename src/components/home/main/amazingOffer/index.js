@@ -18,7 +18,7 @@ export default function AmazingOffer() {
         })
         
     })
-    const [widgets] = data.widgets.filter((widget , index) => widget.name === "incredible_offer_products_cart9")
+    const [widgets] = data.widgets.filter((widget , index) => widget.name === "incredible_offer_products_cart")
     if(widgets) {
         const seeMore = widgets.data["see_more_url"]
         widgets.data.timer = {
