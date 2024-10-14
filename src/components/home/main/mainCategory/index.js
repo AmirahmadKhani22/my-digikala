@@ -16,7 +16,7 @@ export default function MainCategory() {
                     return <Link
                         key={index}
                         href={handleURL(category.url)}
-                        className="max-w-36 flex flex-col items-center"
+                        className="max-w-36 flex flex-col items-center px-4"
                     >
                         <Image
                             nextHandle={true}
@@ -28,7 +28,7 @@ export default function MainCategory() {
                             style={{height:"auto"}}
                             className="inline-block"
                         />
-                        <p className="mt-3 text-center text-xs font-bold ellipsis-2">{category.title}</p>
+                        <p className="mt-3 text-center text-xs font-bold leading-7 ellipsis-2">{category.title}</p>
                     </Link>
                 })
             }
