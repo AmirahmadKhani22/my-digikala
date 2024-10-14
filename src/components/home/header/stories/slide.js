@@ -3,7 +3,7 @@ import styles from "./styles.module.css"
 import Image from "@/components/utils/components/image"
 // import VideoModal from "./videoModal"
 
-export default function Slides({item}) {
+export default function Slide({item , now}) {
     // const [showVideo , setShowVideo] = useState(false)
     // const openModal = event => {
     //     setShowVideo(true)
