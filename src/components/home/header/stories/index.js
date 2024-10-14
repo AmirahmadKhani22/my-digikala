@@ -14,9 +14,6 @@ export default function Stories() {
                 spaceBetween: 24,
                 slidesPerView: "auto"
             })
-            return () => {
-                swiperType1Destroy(swiper)
-            }
         }
     })
     useEffect(() => {
