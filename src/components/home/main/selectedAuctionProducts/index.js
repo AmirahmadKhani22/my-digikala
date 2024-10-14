@@ -4,7 +4,7 @@ import AddSVGIcon from "@/components/utils/components/addSVGIcon"
 
 export default function SelectedAuctionProducts({identifier}) {
     const {data} = useData(identifier)
-    const condition = data && data.products && data.products.length
+    const condition = data && data.products && !!data.products.length
     return condition && <div className="mt-4 px-3 border rounded-lg">
         <div className="my-8 flex items-center justify-center gap-x-2">
             <AddSVGIcon
