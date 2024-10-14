@@ -3,7 +3,7 @@ import {createPortal} from "react-dom"
 import ModalBackground from "@/components/utils/components/modalBackground"
 import uniqueKey from "@/components/utils/generateRandomElementKey"
 import SwiperType1Structure from "@/components/sections/swiper/type-1/structure"
-import swiperType1Config , {swiperType1Destroy} from "@/components/sections/swiper/type-1/config"
+import swiperType1Config from "@/components/sections/swiper/type-1/config"
 
 export default function VideoModal({closeModal , item , index}) {
     useEffect(() => {

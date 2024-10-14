@@ -1,7 +1,7 @@
 import {useEffect} from "react"
 import useData from "@/components/hooks/useData"
 import AddSVGIcon from "@/components/utils/components/addSVGIcon"
-import swiperType1Config , {swiperType1Destroy} from "@/components/sections/swiper/type-1/config"
+import swiperType1Config from "@/components/sections/swiper/type-1/config"
 import SwiperType1Structure from "@/components/sections/swiper/type-1/structure"
 import Link from "@/components/utils/components/link"
 import handleURL from "@/components/utils/handleURL"
@@ -17,7 +17,8 @@ export default function PopularBrands() {
         })
         
     })
-    return <div className="mt-4 py-5 border rounded-2xl">
+    const condition = data && !!data.length
+    return condition && <div className="mt-4 py-5 border rounded-2xl">
         <div className="m-auto pb-5 flex items-center justify-center gap-x-3">
             <AddSVGIcon
                 href="/symbol/top-brands.svg"

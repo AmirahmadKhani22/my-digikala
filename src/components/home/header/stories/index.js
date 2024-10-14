@@ -1,8 +1,8 @@
 import {useState , useEffect} from "react"
 import {getJsonData} from "@/components/utils/components/hooks/getData"
-import swiperType1Config , {swiperType1Destroy} from "@/components/sections/swiper/type-1/config"
+import swiperType1Config from "@/components/sections/swiper/type-1/config"
 import SwiperType1Structure from "@/components/sections/swiper/type-1/structure"
-import Slides from "./slide"
+import Slide from "./slide"
 
 export default function Stories() {
     const [stories , setStories] = useState(null)
@@ -14,9 +14,6 @@ export default function Stories() {
                 spaceBetween: 24,
                 slidesPerView: "auto"
             })
-            return () => {
-                swiperType1Destroy(swiper)
-            }
         }
     })
     useEffect(() => {
@@ -27,13 +24,14 @@ export default function Stories() {
     if(stories) {
         stories.total = stories.lives.concat(stories.posts)
         console.log("magnet-stories: " , stories.total)
+        const nowUTC = Date.now()
         return <div className="pt-4 m-auto w-full max-w-[1336px]">
             <SwiperType1Structure
                 id="magnet-stories-slides"
                 containerClassName=" w-full h-auto"
                 prefixSelector="magnet-stories"
             >
-                {stories.total.map((item , index) => <Slides key={index} item={item}/>)}
+                {stories.total.map((item , index) => <Slide key={index} item={item} now={nowUTC}/>)}
             </SwiperType1Structure>
         </div>
     } else {
