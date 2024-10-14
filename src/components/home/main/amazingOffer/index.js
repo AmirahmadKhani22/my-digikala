@@ -18,40 +18,44 @@ export default function AmazingOffer() {
         })
         
     })
-    const [widgets] = data.widgets.filter((widget , index) => widget.name === "incredible_offer_products_cart")
-    const seeMore = widgets.data["see_more_url"]
-    widgets.data.timer = {
-        hour: "24",
-        minute: "0",
-        second: "0"
-    }
-    const slideWidth = "160px"
-    return widgets.data.length && <div className="pt-6 m-auto w-full max-w-[1336px]">
-        <div className={`${styles["background"]} py-5 rounded-2xl`}>
-            <SwiperType1Structure
-                id="amazing-offer-swiper"
-                prefixSelector="amazing-offer"
-                containerClassName="w-full h-auto"
-            >
-                <IncredibleOffer 
-                    link={seeMore} 
-                    title={widgets.data.title} 
-                    initialTime={widgets.data.timer}
-                    style={{width: slideWidth}}
-                />
-                {
-                    widgets.data.products.map((product , index) => <ProductSlide 
-                        key={index} 
-                        product={product} 
-                        index={index} 
+    const [widgets] = data.widgets.filter((widget , index) => widget.name === "incredible_offer_products_cart9")
+    if(widgets) {
+        const seeMore = widgets.data["see_more_url"]
+        widgets.data.timer = {
+            hour: "24",
+            minute: "0",
+            second: "0"
+        }
+        const slideWidth = "160px"
+        return <div className="pt-6 m-auto w-full max-w-[1336px]">
+            <div className={`${styles["background"]} py-5 rounded-2xl`}>
+                <SwiperType1Structure
+                    id="amazing-offer-swiper"
+                    prefixSelector="amazing-offer"
+                    containerClassName="w-full h-auto"
+                >
+                    <IncredibleOffer 
+                        link={seeMore} 
+                        title={widgets.data.title} 
+                        initialTime={widgets.data.timer}
                         style={{width: slideWidth}}
-                    />)
-                }
-                <SeeAll 
-                    link={seeMore} 
-                    style={{width: slideWidth}}
-                />
-            </SwiperType1Structure>
+                    />
+                    {
+                        widgets.data.products.map((product , index) => <ProductSlide 
+                            key={index} 
+                            product={product} 
+                            index={index} 
+                            style={{width: slideWidth}}
+                        />)
+                    }
+                    <SeeAll 
+                        link={seeMore} 
+                        style={{width: slideWidth}}
+                    />
+                </SwiperType1Structure>
+            </div>
         </div>
-    </div>
+    } else {
+        return null
+    }
 }
