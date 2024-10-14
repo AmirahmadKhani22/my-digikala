@@ -8,8 +8,8 @@ import ModalHeader from "./modalHeader"
 
 export default function ShowMore({widgets}) {
     const [showMore , setShowMore] = useState(false)
-    const services = widgets.data.filter((widget , index) => !widget["is_digikala_group_service"])
-    const groupServices = widgets.data.filter((widget , index) => widget["is_digikala_group_service"] && widget.description)
+    const services = widgets.filter((widget , index) => !widget["is_digikala_group_service"])
+    const groupServices = widgets.filter((widget , index) => widget["is_digikala_group_service"] && widget.description)
     const handleShowMore = event => {
         setShowMore(true)
     }
