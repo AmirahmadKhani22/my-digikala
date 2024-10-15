@@ -13,7 +13,7 @@ export default function ExtendedSearchBar({openModal}) {
         .catch(console.log)
     },[])
     return <div 
-        className="absolute z-2 w-full h-auto border overflow-x-hidden overflow-y-auto bg-white py-5 rounded-[inherit] shadow-md"
+        className="absolute z-2 w-full max-h-[80vh] border overflow-x-hidden overflow-y-auto bg-white py-5 rounded-[inherit] shadow-md"
         onClick={event => event.stopPropagation()}
     >
         <div className="mx-4 [border-bottom:1px_solid_var(--color-secondary-500)]">
