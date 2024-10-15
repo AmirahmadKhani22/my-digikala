@@ -10,7 +10,7 @@ export default function Middle() {
             <Search />
         </div>
         <div className="flex items-center justify-end">
-            <div className="flex items-center gap-x-2 pt-2 pb-[10px] px-4 border rounded-lg">
+            <div className="shrink-0 flex items-center gap-x-2 pt-2 pb-[10px] px-4 border rounded-lg">
                 <AddSVGIcon
                     href="/symbol/login-1.svg"
                     id="login-1"
@@ -18,7 +18,7 @@ export default function Middle() {
                 />
                 <Link href="/login" className="text-xs font-semibold">ورود | ثبت&zwnj;نام</Link>
             </div>
-            <span className="mx-3 inline-block bg-neutral-200 w-px h-6"></span>
+            <span className="shrink-0 mx-3 inline-block bg-neutral-200 w-px h-6"></span>
             <Link 
                 href="/checkout/cart"
                 className="p-2"
