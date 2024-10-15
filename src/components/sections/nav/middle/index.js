@@ -3,6 +3,7 @@ import Logo from '../../logo'
 import Search from './search'
 import {HiOutlineLogin} from "react-icons/hi"
 import {CiShoppingCart} from "react-icons/ci"
+import AddSVGIcon from '@/components/utils/components/addSVGIcon'
 
 export default function Middle() {
     // get this data from server
@@ -32,9 +33,10 @@ export default function Middle() {
                 href="/checkout/cart"
                 className="p-2"
             >
-                <CiShoppingCart 
-                    size="28px" 
-                    title="cart"
+                <AddSVGIcon
+                    href="/symbol/cart-off.svg"
+                    id="cart-off"
+                    className="size-6 fill-icon-high-emphasis"
                 />
             </Link>
         </div>
