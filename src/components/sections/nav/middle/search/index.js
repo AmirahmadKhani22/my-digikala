@@ -90,6 +90,7 @@ export default function Search({relatedSearchSlidesInfo}) {
                     createPortal(
                         <ModalBackground
                             backgrondClassName="bg-[rgba(0,0,0,0.5)]"
+                            onClickCB={handleCloseModal}
                         />, 
                         document.body, 
                         uniqueKey()
