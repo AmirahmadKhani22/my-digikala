@@ -20,7 +20,7 @@ export default function Middle() {
             <Search relatedSearchSlidesInfo={relatedSearchSlidesInfo}/>
         </div>
         <div className="flex-1 flex items-center justify-end">
-            <div className="flex items-center pt-2 pb-[10px] px-4 border rounded-lg">
+            <div className="flex items-center gap-x-2 pt-2 pb-[10px] px-4 border rounded-lg">
                 <AddSVGIcon
                     href="/symbol/login-1.svg"
                     id="login-1"
