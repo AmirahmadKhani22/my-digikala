@@ -4,6 +4,7 @@ import Link from '@/components/utils/components/link'
 import SwiperType1Structure from '@/components/sections/swiper/type-1/structure'
 import swiperType1Config, {swiperType1Destroy} from '../../swiper/type-1/config'
 import uniqueKey from '@/components/utils/generateRandomElementKey'
+import AddSVGIcon from '@/components/utils/components/addSVGIcon'
 
 export default function Search({relatedSearchSlidesInfo}) {
     const [openModal , setOpenModal] = useState(false)
@@ -70,7 +71,11 @@ export default function Search({relatedSearchSlidesInfo}) {
                                                     >
                                                         {info.text}
                                                     </Link>
-                                                    <Type1PrevNavigation />
+                                                    <AddSVGIcon
+                                                        href="/symbol/left-1.svg"
+                                                        id="left-1"
+                                                        className="size-6"
+                                                    />
                                                 </div>
                                             </div>
                                         ))
