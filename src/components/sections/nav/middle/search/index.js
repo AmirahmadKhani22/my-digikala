@@ -5,6 +5,7 @@ import SwiperType1Structure from '@/components/sections/swiper/type-1/structure'
 import swiperType1Config, {swiperType1Destroy} from '../../swiper/type-1/config'
 import uniqueKey from '@/components/utils/generateRandomElementKey'
 import AddSVGIcon from '@/components/utils/components/addSVGIcon'
+import ModalBackground from '@/components/utils/components/modalBackground'
 
 export default function Search({relatedSearchSlidesInfo}) {
     const [openModal , setOpenModal] = useState(false)
@@ -87,13 +88,9 @@ export default function Search({relatedSearchSlidesInfo}) {
                 </div>                
                 {
                     createPortal(
-                        <div 
-                            className="absolute inset-0 z-[999] w-full h-screen bg-black opacity-45"
-                            onClick={event => {
-                                event.stopPropagation()
-                                handleCloseModal()
-                            }}
-                        ></div>, 
+                        <ModalBackground
+                            backgrondClassName="bg-[rgba(0,0,0,0.5)]"
+                        />, 
                         document.body, 
                         uniqueKey()
                     )
