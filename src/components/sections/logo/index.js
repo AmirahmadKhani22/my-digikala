@@ -10,6 +10,8 @@ export default function Logo() {
             nextHandle={false}
             src="/icon/logo-full-horizontal.svg"
             alt="digikala logo"
+            width={195}
+            height={30}
             className="object-contain"
         />
     </Link>
