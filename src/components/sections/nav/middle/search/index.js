@@ -1,8 +1,8 @@
 import {useState} from 'react'
 import ExtendedSearchBar from './extendedSearchbar'
+import ModalBackground from '@/components/utils/components/modalBackground'
 import uniqueKey from '@/components/utils/generateRandomElementKey'
 import AddSVGIcon from '@/components/utils/components/addSVGIcon'
-import ModalBackground from '@/components/utils/components/modalBackground'
 
 export default function Search() {
     const [openModal , setOpenModal] = useState(false)
@@ -42,7 +42,7 @@ export default function Search() {
                 <AddSVGIcon
                     href="/symbol/magnify-glass-1.svg"
                     id="search-1"
-                    className="size-6 cursor-pointer"
+                    className="size-8 fill-icon-low-emphasis cursor-pointer"
                 />
                 <p className="text-[var(--color-icon-low-empahsis)] text-xs cursor-text">جستجو</p>
             </div>
