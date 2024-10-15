@@ -21,10 +21,10 @@ export default function Middle() {
         </div>
         <div className="flex-1 flex items-center justify-end">
             <div className="flex items-center pt-2 pb-[10px] px-4 border rounded-lg">
-                <HiOutlineLogin 
-                    size="24px" 
-                    title="login"
-                    className="ml-2"
+                <AddSVGIcon
+                    href="/symbol/login-1.svg"
+                    id="login-1"
+                    className="size-6"
                 />
                 <Link href="/login" className="text-xs font-semibold">ورود | ثبت&zwnj;نام</Link>
             </div>
