@@ -19,7 +19,7 @@ export default function TrendsSearches({data , openModal}) {
         }
     })
     const condition = data && !!data.length
-    return <div className="w-full border-b">
+    return <div className="mt-6 w-full border-b">
         <div className="px-4 flex items-center gap-x-3">
             <AddSVGIcon
                 href="/symbol/search-trend.svg"
