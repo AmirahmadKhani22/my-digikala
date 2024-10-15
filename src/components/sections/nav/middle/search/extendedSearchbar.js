@@ -38,21 +38,21 @@ export default function ExtendedSearchBar({data , openModal}) {
                 <AddSVGIcon
                     href="/symbol/search-trend.svg"
                     id="search-trend"
-                    className="size-7 fill icon-low-emphasis"
+                    className="size-6 fill-icon-low-emphasis"
                 />
                 <p>جستجو&zwnj;های پرطرفدار</p>
             </div>
             {
                 data && <div className="my-4 w-full">
                     <SwiperType1Structure
-                        id="nav-related-searches-swiper"
+                        id="nav-related-searches-swiper-slides"
                         prefixSelector="nav-related-searches"
                         containerClassName="w-full h-auto pr-4 py-1"
                     >
                         {
                             data.map((info , index) => (
                                 <div key={index} className="swiper-slide w-auto">
-                                    <div className="flex gap-x-2 items-center w-fit pl-1 ml-2 py-2 pr-3 border rounded-full">
+                                    <div className="flex gap-x-1 items-center w-fit pl-1 ml-2 py-2 pr-3 border rounded-full">
                                         <Link 
                                             href={info.href}
                                             className="cursor-text text-sm"
@@ -62,7 +62,7 @@ export default function ExtendedSearchBar({data , openModal}) {
                                         <AddSVGIcon
                                             href="/symbol/left-1.svg"
                                             id="left-1"
-                                            className="size-6"
+                                            className="m-2 size-3 fill-icon-high-emphasis"
                                         />
                                     </div>
                                 </div>
