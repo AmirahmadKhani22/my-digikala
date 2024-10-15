@@ -7,7 +7,7 @@ import ModalBackground from '@/components/utils/components/modalBackground'
 export default function Search() {
     const [openModal , setOpenModal] = useState(false)
     // get this data from server
-    const relatedSearchSlidesInfo = [
+    const relatedSearches = [
         {href: "" , text: "ظرف غذا لانچ باکس"},
         {href: "" , text: "چراغ عقب"},
         {href: "" , text: "هودی بچگانه"},
@@ -24,7 +24,7 @@ export default function Search() {
         {openModal ? 
             <>
                 <ExtendedSearchBar
-                    data={relatedSearchSlidesInfo}
+                    data={relatedSearches}
                     openModal={openModal}
                 />
                 {
