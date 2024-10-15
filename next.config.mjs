@@ -20,6 +20,11 @@ const devImageRemotePattern = process.env.NODE_ENV === "development" ? [
       hostname: "images.interactify.live",
       pathname: "/**",
     },
+    {
+      protocol: "https",
+      hostname: "digikala.arvanvod.ir",
+      pathname: "/**"
+    }
   ] : []
 
 const nextConfig = {

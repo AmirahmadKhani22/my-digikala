@@ -1,22 +1,31 @@
 import {useState , useEffect} from 'react'
 import Image from "@/components/utils/components/image"
 import Link from "@/components/utils/components/link"
+// import axios from 'axios'
 
 export default function Banner() {
     const [data , setData] = useState(null)
     useEffect(() => {
         // banner data api
-        // fetch("")
-        //     .then(async data => setData(await data.json()))
-        //     .catch(console.log)
+        // axios.get("")
+        // .then((response) => console.log(response))
+        // .catch(error => {
+        //     console.log("get Nav banner error!" , "========>")
+        //     console.log(error)
+        //     console.log("========>")
+        // })
     })
     return data && <Link 
         href={data.link}
-        className="block w-full"    
+        className="block w-full h-16 relative"    
     >
         <Image
+            nextHandle={true}
+            fill={true}
             src={data.image.src}
             alt={data.image.alt}
+            sizes="100vw"
+            className="absolute inset-0 w-full h-full"
         />
     </Link>
 }
