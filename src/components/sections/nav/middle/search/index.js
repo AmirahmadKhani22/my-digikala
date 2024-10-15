@@ -100,11 +100,6 @@ export default function Search({relatedSearchSlidesInfo}) {
                 }
             </> :
             <div className="w-full h-11 py-3 px-5 bg-neutral-100 flex items-center gap-x-5 rounded-[inherit]">
-                <FaMagnifyingGlass 
-                    size="24px" 
-                    color="var(--color-icon-low-empahsis)"
-                    className=""
-                />
                 <AddSVGIcon
                     href="/symbol/magnify-glass-1.svg"
                     id="search-1"
