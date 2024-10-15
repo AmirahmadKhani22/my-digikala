@@ -1,13 +1,13 @@
 import {useState , useEffect} from 'react'
 import axios from 'axios'
 import TrendsSearches from "./trendsSearches"
+import Banner from './banner'
 
 export default function ExtendedSearchBar({openModal}) {
     const [data , setData] = useState(null)
     useEffect(() => {
         axios.get("http://localhost:3001/v1/autocomplete/?q=")
         .then(({data}) => {
-            console.log(data.data)
             setData(data.data)
         })
         .catch(console.log)
@@ -23,11 +23,10 @@ export default function ExtendedSearchBar({openModal}) {
                 className="px-3 w-full outline-none pb-3 text-xs"
             />
         </div>
-        <div className="px-4">
-            <picture className="px-4"></picture>
-        </div>
+        {
+            data && data.banner && <Banner data={data.banner} />
+        }
         {/* searches history */}
-        {}
         {
             data && data.trends && <TrendsSearches data={data.trends} openModal={openModal} />
         }
