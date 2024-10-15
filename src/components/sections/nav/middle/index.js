@@ -5,7 +5,7 @@ import AddSVGIcon from '@/components/utils/components/addSVGIcon'
 
 export default function Middle() {
     return <div className="mb-7 h-11 flex justify-between items-center">
-        <div className="flex-1 flex gap-x-5 items-center">
+        <div className="flex-1 flex gap-x-5">
             <Logo />
             <Search />
         </div>
