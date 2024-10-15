@@ -1,8 +1,6 @@
 import Link from '@/components/utils/components/link'
 import Logo from '../../logo'
 import Search from './search'
-import {HiOutlineLogin} from "react-icons/hi"
-import {CiShoppingCart} from "react-icons/ci"
 import AddSVGIcon from '@/components/utils/components/addSVGIcon'
 
 export default function Middle() {
