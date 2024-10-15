@@ -1,20 +1,18 @@
-import {useContext} from "react"
-import homePageData from "@/contexts/homePageData"
+import useData from "@/components/hooks/useData"
 import ShowMore from "./showMore"
 import LinkItem from "./link"
 
 export default function DeepLink() {
-    const {data} = useContext(homePageData)
-    const [widgets] = data.widgets.filter((widget , index) => {
-        return widget.name === "deep_links"
-    })
-    return <div className="pt-6">
+    const {data} = useData("deep_links")
+    const condition = data && !!data.length
+    const visibleItemsCount = 8
+    return condition && <div className="pt-6">
         <div className="flex justify-around">
             {
-                widgets.data.map((widget , index) => index <= 8 && <LinkItem key={index} widget={widget}/>)
+                data.map((item , index) => (index <= visibleItemsCount) && <LinkItem key={index} widget={item}/>)
             }
             <div>
-                <ShowMore widgets={widgets}/>
+                <ShowMore widgets={data}/>
             </div>
         </div>
     </div>

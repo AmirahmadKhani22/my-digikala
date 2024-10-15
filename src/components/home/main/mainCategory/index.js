@@ -5,7 +5,8 @@ import handleURL from "@/components/utils/handleURL"
 
 export default function MainCategory() {
     const {data} = useData("main_categories_grid")
-    return <div className="mt-4 pt-6 pb-10 flex flex-col justify-center gap-y-10">
+    const condition = data && data.categories && !!data.categories.length
+    return condition && <div className="mt-4 pt-6 pb-10 flex flex-col justify-center gap-y-10">
         <h2 className="text-center text-xl font-bold">
             {data.title}
         </h2>
@@ -15,7 +16,7 @@ export default function MainCategory() {
                     return <Link
                         key={index}
                         href={handleURL(category.url)}
-                        className="max-w-36 flex flex-col items-center"
+                        className="max-w-36 flex flex-col items-center px-4"
                     >
                         <Image
                             nextHandle={true}
@@ -27,7 +28,7 @@ export default function MainCategory() {
                             style={{height:"auto"}}
                             className="inline-block"
                         />
-                        <p className="mt-3 text-center text-xs font-bold ellipsis-2">{category.title}</p>
+                        <p className="mt-3 text-center text-xs font-bold leading-7 ellipsis-2">{category.title}</p>
                     </Link>
                 })
             }

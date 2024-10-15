@@ -14,7 +14,12 @@ const devImageRemotePattern = process.env.NODE_ENV === "development" ? [
       protocol: "https",
       hostname: "www.digikala.com",
       pathname: "/**",
-    }
+    },
+    {
+      protocol: "https",
+      hostname: "images.interactify.live",
+      pathname: "/**",
+    },
   ] : []
 
 const nextConfig = {

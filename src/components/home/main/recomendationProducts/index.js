@@ -17,7 +17,8 @@ export default function RecomendationProducts({part}) {
             console.log("=========>")
         })
     },[])
-    return data.categories && <div className="mt-4">
+    const condition = data.categories && !!data.categories.length
+    return condition && <div className="mt-4">
         <Wrapper categories={data.categories} part={part} />
     </div>
 }
