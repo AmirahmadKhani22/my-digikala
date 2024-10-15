@@ -1,5 +1,4 @@
 import {useState , useEffect} from 'react'
-import {FaMagnifyingGlass} from "react-icons/fa6"
 import Link from '@/components/utils/components/link'
 import SwiperType1Structure from '@/components/sections/swiper/type-1/structure'
 import swiperType1Config, {swiperType1Destroy} from '../../swiper/type-1/config'
