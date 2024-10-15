@@ -4,7 +4,7 @@ import Image from '@/components/utils/components/image'
 export default function Logo() {
     return <Link 
         href="/"
-        className="shrink-0 inline-block w-48 h-8"    
+        className="shrink-0 self-center inline-block w-48 h-8"    
     >
         <Image 
             nextHandle={false}
