@@ -1,8 +1,7 @@
 import {useState , useEffect} from 'react'
-import {createPortal} from 'react-dom'
 import {FaMagnifyingGlass , FaFireFlameCurved} from "react-icons/fa6"
 import Link from '@/components/utils/components/link'
-import Type1Navigation , {Type1PrevNavigation} from '../../swiper/type-1/navigation'
+import SwiperType1Structure from '@/components/sections/swiper/type-1/structure'
 import swiperType1Config, {swiperType1Destroy} from '../../swiper/type-1/config'
 import uniqueKey from '@/components/utils/generateRandomElementKey'
 
@@ -12,8 +11,8 @@ export default function Search({relatedSearchSlidesInfo}) {
     useEffect(() => {
         if(openModal) {
             const swiper = swiperType1Config({
-                prefixSelector: "nav", 
-                container: "#nav-related-searches-swiper",
+                prefixSelector: "nav-related-searches", 
+                container: "#nav-related-searches-swiper-slides",
                 slidesPerView: "auto",
             })
             return () => {
@@ -54,9 +53,13 @@ export default function Search({relatedSearchSlidesInfo}) {
                             />
                             <p>جستجو&zwnj;های پرطرفدار</p>
                         </div>
-                        {relatedSearchSlidesInfo && <div className="my-4 w-full">
-                            <div id="nav-related-searches-swiper" className="swiper w-full h-auto pr-4 py-1">
-                                <div className="swiper-wrapper">
+                        {
+                            relatedSearchSlidesInfo && <div className="my-4 w-full">
+                                <SwiperType1Structure
+                                    id="nav-related-searches-swiper"
+                                    prefixSelector="nav-related-searches"
+                                    containerClassName="w-full h-auto pr-4 py-1"
+                                >
                                     {
                                         relatedSearchSlidesInfo.map((info , index) => (
                                             <div key={index} className="swiper-slide w-auto">
@@ -72,12 +75,9 @@ export default function Search({relatedSearchSlidesInfo}) {
                                             </div>
                                         ))
                                     }
-                                </div>
-                                <Type1Navigation 
-                                    prefixSelector="nav"
-                                />
+                                </SwiperType1Structure>
                             </div>
-                        </div>}
+                        }
                     </div>
                 </div>                
                 {
