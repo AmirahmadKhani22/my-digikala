@@ -4,8 +4,16 @@ import uniqueKey from '@/components/utils/generateRandomElementKey'
 import AddSVGIcon from '@/components/utils/components/addSVGIcon'
 import ModalBackground from '@/components/utils/components/modalBackground'
 
-export default function Search({relatedSearchSlidesInfo}) {
+export default function Search() {
     const [openModal , setOpenModal] = useState(false)
+    // get this data from server
+    const relatedSearchSlidesInfo = [
+        {href: "" , text: "ظرف غذا لانچ باکس"},
+        {href: "" , text: "چراغ عقب"},
+        {href: "" , text: "هودی بچگانه"},
+        {href: "" , text: "خودکار کیان آبی"},
+        {href: "" , text: "جالباسی ایستاده"},
+    ]
     // get searches history from local-storage
     const handleOpenModal = () => setOpenModal(true)
     const handleCloseModal = () => setOpenModal(false)
