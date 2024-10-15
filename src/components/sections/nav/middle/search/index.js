@@ -7,14 +7,6 @@ import AddSVGIcon from '@/components/utils/components/addSVGIcon'
 
 export default function Search() {
     const [openModal , setOpenModal] = useState(false)
-    // get this data from server
-    const relatedSearches = [
-        {href: "" , text: "ظرف غذا لانچ باکس"},
-        {href: "" , text: "چراغ عقب"},
-        {href: "" , text: "هودی بچگانه"},
-        {href: "" , text: "خودکار کیان آبی"},
-        {href: "" , text: "جالباسی ایستاده"},
-    ]
     // get searches history from local-storage
     const handleOpenModal = () => setOpenModal(true)
     const handleCloseModal = () => setOpenModal(false)
@@ -24,10 +16,7 @@ export default function Search() {
     >
         {openModal ? 
             <>
-                <ExtendedSearchBar
-                    data={relatedSearches}
-                    openModal={openModal}
-                />
+                <ExtendedSearchBar openModal={openModal} />
                 {
                     createPortal(
                         <ModalBackground
