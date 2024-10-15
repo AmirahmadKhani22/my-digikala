@@ -1,5 +1,5 @@
 /** @type {import('tailwindcss').Config} */
-
+// 320-360-640-768-1024-1280-1336-1440-1676 breakpoints min-width
 module.exports = {
   content: [
     "./src/pages/**/*.{js,ts,jsx,tsx,mdx}",
