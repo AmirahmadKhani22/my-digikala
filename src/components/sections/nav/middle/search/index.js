@@ -1,11 +1,12 @@
 import {useState , useEffect} from 'react'
-import {FaMagnifyingGlass , FaFireFlameCurved} from "react-icons/fa6"
+import {FaMagnifyingGlass} from "react-icons/fa6"
 import Link from '@/components/utils/components/link'
 import SwiperType1Structure from '@/components/sections/swiper/type-1/structure'
 import swiperType1Config, {swiperType1Destroy} from '../../swiper/type-1/config'
 import uniqueKey from '@/components/utils/generateRandomElementKey'
 import AddSVGIcon from '@/components/utils/components/addSVGIcon'
 import ModalBackground from '@/components/utils/components/modalBackground'
+import ExtendedSearchBar from './extendedSearchbar'
 
 export default function Search({relatedSearchSlidesInfo}) {
     const [openModal , setOpenModal] = useState(false)
@@ -30,6 +31,7 @@ export default function Search({relatedSearchSlidesInfo}) {
     >
         {openModal ? 
             <>
+                <ExtendedSearchBar />
                 <div 
                     className="absolute z-2 w-full h-auto border overflow-x-hidden overflow-y-auto bg-white py-5 rounded-[inherit] shadow-md"
                     onClick={event => event.stopPropagation()}
@@ -48,10 +50,10 @@ export default function Search({relatedSearchSlidesInfo}) {
                     {}
                     <div className="w-full border-b">
                         <div className="px-4 flex items-center gap-x-3">
-                            <FaFireFlameCurved 
-                                size="24px" 
-                                color="var(--color-icon-low-empahsis)"
-                                className="cursor-pointer"
+                            <AddSVGIcon
+                                href="/symbol/search-trend.svg"
+                                id="search-trend"
+                                className="size-7 fill icon-low-emphasis"
                             />
                             <p>جستجو&zwnj;های پرطرفدار</p>
                         </div>
@@ -85,7 +87,7 @@ export default function Search({relatedSearchSlidesInfo}) {
                             </div>
                         }
                     </div>
-                </div>                
+                </div>               
                 {
                     createPortal(
                         <ModalBackground
