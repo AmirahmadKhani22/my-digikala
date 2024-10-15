@@ -20,7 +20,7 @@ export default function Search() {
                 {
                     createPortal(
                         <ModalBackground
-                            backgrondClassName="z-20 bg-[rgba(0,0,0,0.5)]"
+                            backgrondClassName="z-[999] bg-[rgba(0,0,0,0.5)]"
                             onClickCB={handleCloseModal}
                         />, 
                         document.body, 
