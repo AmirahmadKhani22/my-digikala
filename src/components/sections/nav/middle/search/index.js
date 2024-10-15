@@ -11,7 +11,7 @@ export default function Search() {
     const handleOpenModal = () => setOpenModal(true)
     const handleCloseModal = () => setOpenModal(false)
     return <div 
-        className="lg:w-[600px] relative z-0 rounded-lg"
+        className="xl:w-[600px] lg:w-2/4 relative z-0 rounded-lg"
         onClick={event => handleOpenModal()}
     >
         {openModal ? 
