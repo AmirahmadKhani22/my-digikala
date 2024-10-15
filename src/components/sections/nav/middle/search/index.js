@@ -31,7 +31,7 @@ export default function Search() {
                 {
                     createPortal(
                         <ModalBackground
-                            backgrondClassName="bg-[rgba(0,0,0,0.5)]"
+                            backgrondClassName="z-20 bg-[rgba(0,0,0,0.5)]"
                             onClickCB={handleCloseModal}
                         />, 
                         document.body, 
