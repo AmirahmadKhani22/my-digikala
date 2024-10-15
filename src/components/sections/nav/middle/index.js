@@ -13,7 +13,7 @@ export default function Middle() {
         {href: "" , text: "خودکار کیان آبی"},
         {href: "" , text: "جالباسی ایستاده"},
     ]
-    return <div className="mb-7 flex justify-between items-center">
+    return <div className="mb-7 h-11 flex justify-between items-center">
         <div className="flex-1 flex gap-x-5 items-center">
             <Logo />
             <Search relatedSearchSlidesInfo={relatedSearchSlidesInfo}/>
