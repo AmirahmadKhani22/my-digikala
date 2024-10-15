@@ -1,8 +1,8 @@
 import {useState} from 'react'
+import ExtendedSearchBar from './extendedSearchbar'
 import uniqueKey from '@/components/utils/generateRandomElementKey'
 import AddSVGIcon from '@/components/utils/components/addSVGIcon'
 import ModalBackground from '@/components/utils/components/modalBackground'
-import ExtendedSearchBar from './extendedSearchbar'
 
 export default function Search({relatedSearchSlidesInfo}) {
     const [openModal , setOpenModal] = useState(false)

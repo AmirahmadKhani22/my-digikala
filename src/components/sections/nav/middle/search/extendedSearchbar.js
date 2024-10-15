@@ -1,7 +1,7 @@
 import {useEffect} from 'react'
 import Link from '@/components/utils/components/link'
 import SwiperType1Structure from '@/components/sections/swiper/type-1/structure'
-import swiperType1Config, {swiperType1Destroy} from '../../swiper/type-1/config'
+import swiperType1Config, {swiperType1Destroy} from '@/components/sections/swiper/type-1/config'
 import AddSVGIcon from '@/components/utils/components/addSVGIcon'
 
 export default function ExtendedSearchBar({data , openModal}) {
