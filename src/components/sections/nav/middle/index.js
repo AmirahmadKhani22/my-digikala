@@ -28,7 +28,7 @@ export default function Middle() {
                 />
                 <Link href="/login" className="text-xs font-semibold">ورود | ثبت&zwnj;نام</Link>
             </div>
-            <span className="mx-3 inline-block bg-slate-300 w-px h-6"></span>
+            <span className="mx-3 inline-block bg-neutral-200 w-px h-6"></span>
             <Link 
                 href="/checkout/cart"
                 className="p-2"
