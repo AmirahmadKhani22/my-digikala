@@ -14,12 +14,11 @@ export default function Middle() {
         {href: "" , text: "جالباسی ایستاده"},
     ]
     return <div className="mb-7 flex justify-between items-center">
-        <div className="flex-1 gap-x-5 flex items-center
-        ">
+        <div className="flex-1 flex gap-x-5 items-center">
             <Logo />
             <Search relatedSearchSlidesInfo={relatedSearchSlidesInfo}/>
         </div>
-        <div className="flex items-center">
+        <div className="flex-1 flex items-center justify-end">
             <div className="flex items-center pt-2 pb-[10px] px-4 border rounded-lg">
                 <HiOutlineLogin 
                     size="24px" 

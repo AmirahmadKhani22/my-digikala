@@ -3,7 +3,7 @@ import {createPortal} from 'react-dom'
 import {FaMagnifyingGlass , FaFireFlameCurved} from "react-icons/fa6"
 import Link from '@/components/utils/components/link'
 import Type1Navigation , {Type1PrevNavigation} from '../../swiper/type-1/navigation'
-import swiperType1Config, { swiperType1Destroy } from '../../swiper/type-1/config'
+import swiperType1Config, {swiperType1Destroy} from '../../swiper/type-1/config'
 import uniqueKey from '@/components/utils/generateRandomElementKey'
 
 export default function Search({relatedSearchSlidesInfo}) {
@@ -24,7 +24,7 @@ export default function Search({relatedSearchSlidesInfo}) {
     const handleOpenModal = () => setOpenModal(true)
     const handleCloseModal = () => setOpenModal(false)
     return <div 
-        className="w-6/12 relative z-0 rounded-lg"
+        className="w-full relative z-0 rounded-lg"
         onClick={event => handleOpenModal()}
     >
         {openModal ? 
