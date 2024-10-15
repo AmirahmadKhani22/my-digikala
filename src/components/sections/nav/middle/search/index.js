@@ -1,4 +1,5 @@
 import {useState} from 'react'
+import {createPortal} from 'react-dom'
 import ExtendedSearchBar from './extendedSearchbar'
 import ModalBackground from '@/components/utils/components/modalBackground'
 import uniqueKey from '@/components/utils/generateRandomElementKey'
