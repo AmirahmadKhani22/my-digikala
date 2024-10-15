@@ -105,6 +105,11 @@ export default function Search({relatedSearchSlidesInfo}) {
                     color="var(--color-icon-low-empahsis)"
                     className="cursor-pointer"
                 />
+                <AddSVGIcon
+                    href="/symbol/magnify-glass-1.svg"
+                    id="search-1"
+                    className="size-6"
+                />
                 <p className="text-[var(--color-icon-low-empahsis)] text-xs cursor-text">جستجو</p>
             </div>
         }
