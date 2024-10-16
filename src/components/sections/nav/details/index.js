@@ -1,5 +1,5 @@
-import Categories from './categories'
-import Menu from './menu'
+import Categories from "./categories"
+import Menu from "./menu"
 import Location from "./location"
 
 export default function Details() {
