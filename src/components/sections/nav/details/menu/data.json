@@ -1,0 +1,37 @@
+[
+    {
+        "icon": {
+            "href": "/symbol/amazing.svg",
+            "id": "amazing"
+        },
+        "title": "شگفت‌انگیزها"
+    },
+    {
+        "icon": {
+            "href": "",
+            "id": ""
+        },
+        "title": "سوپرمارکت"
+    },
+    {
+        "icon": {
+            "href": "/symbol/gift-card.svg",
+            "id": "gift-card"
+        },
+        "title": "کارت هدیه"
+    },
+    {
+        "icon": {
+            "href": "",
+            "id": ""
+        },
+        "title": "پرفروش‌ترین‌ها"
+    },
+    {
+        "icon": {
+            "href": "",
+            "id": ""
+        },
+        "title": "تخفیف‌ها و پیشنهادها"
+    }
+]
