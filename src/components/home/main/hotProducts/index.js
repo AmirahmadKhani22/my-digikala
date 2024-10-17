@@ -20,7 +20,7 @@ export default function HotProducts({identifier , prefixSelector}) {
             spaceBetween: 20
         })
     })
-    const condition = data && !!data.length 
+    const condition = data && data.products && !!data.products.length 
     return condition && <div className="mt-4 relative px-4 py-6 border rounded-2xl">
         {data["see_more_url"] && <Link
             href={handleURL(data["see_more_url"])}
