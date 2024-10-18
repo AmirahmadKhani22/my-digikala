@@ -4,34 +4,39 @@
             "href": "/symbol/amazing.svg",
             "id": "amazing"
         },
-        "title": "شگفت‌انگیزها"
+        "title": "شگفت‌انگیزها",
+        "link": "/incredible-offers/"
     },
     {
         "icon": {
             "href": "",
             "id": ""
         },
-        "title": "سوپرمارکت"
+        "title": "سوپرمارکت",
+        "link": "/fresh/"
     },
     {
         "icon": {
             "href": "/symbol/gift-card.svg",
             "id": "gift-card"
         },
-        "title": "کارت هدیه"
+        "title": "کارت هدیه",
+        "link": "/main/dk-ds-gift-card/"
     },
     {
         "icon": {
             "href": "",
             "id": ""
         },
-        "title": "پرفروش‌ترین‌ها"
+        "title": "پرفروش‌ترین‌ها",
+        "link": "/best-selling/"
     },
     {
         "icon": {
             "href": "",
             "id": ""
         },
-        "title": "تخفیف‌ها و پیشنهادها"
+        "title": "تخفیف‌ها و پیشنهادها",
+        "link": "/promotion-center/"
     }
 ]
