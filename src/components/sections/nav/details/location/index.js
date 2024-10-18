@@ -1,4 +1,4 @@
-import AddSVGIcon from "@/components/utils/components/addSVGIcon";
+import AddSVGIcon from "@/components/utils/components/addSVGIcon"
 
 export default function Location() {
     return <div className="flex items-center gap-x-2 cursor-pointer">
