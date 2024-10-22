@@ -1,7 +1,7 @@
 import Link from "@/components/utils/components/link"
 import data from "./data.json"
 import NotifEmail from "./contacts/notifEmail"
-import SocialMedias from "./contacts/socialMedias"
+import SocialMedias from "./contacts/socialMedia"
 
 export default function Accessibilities() {
     return <div className="w-full flex justify-between">
