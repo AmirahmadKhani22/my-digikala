@@ -1,4 +1,4 @@
-import styles from "./hover.module.css"
+import styles from "../hover.module.css"
 import AddSVGIcon from "@/components/utils/components/addSVGIcon"
 
 export default function Categories() {
