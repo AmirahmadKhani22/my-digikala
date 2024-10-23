@@ -1,5 +1,5 @@
 import data from "./data.json"
-import styles from "./hover.module.css"
+import styles from "../hover.module.css"
 import Link from "@/components/utils/components/link"
 import AddSVGIcon from "@/components/utils/components/addSVGIcon"
 
