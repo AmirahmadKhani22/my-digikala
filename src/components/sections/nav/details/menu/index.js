@@ -1,4 +1,5 @@
 import data from "./data.json"
+import styles from "./hover.module.css"
 import Link from "@/components/utils/components/link"
 import AddSVGIcon from "@/components/utils/components/addSVGIcon"
 
@@ -9,6 +10,7 @@ export default function Menu() {
                 data.map((item , index) => {
                     return <li 
                         key={index}
+                        className={`${styles["on-hover-underline"]}`}
                     >
                         <Link
                             href={item.link}
@@ -26,7 +28,9 @@ export default function Menu() {
             }
         </menu>
         <ul className="flex items-center gap-x-6">
-            <li>
+            <li
+                className={`${styles["on-hover-underline"]}`}
+            >
                 <Link
                     href="/faq/"
                     className="w-full h-full flex items-center"
@@ -34,7 +38,9 @@ export default function Menu() {
                     <span className="text-[12px] leading-4 text-neutral-600">سوالی دارید؟</span>
                 </Link>
             </li>
-            <li>
+            <li
+                className={`${styles["on-hover-underline"]}`}
+            >
                 <Link
                     href="/landings/seller-introduction/"
                     className="w-full h-full flex items-center"
