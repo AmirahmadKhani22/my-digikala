@@ -1,0 +1,9 @@
+.on-hover-underline {
+    @apply relative;
+}
+.on-hover-underline::before {
+    @apply content-[""] bg-icon-primary block absolute bottom-[calc(-100%+0.5*4px)] left-0 right-0 h-0.5 w-full opacity-0 origin-[center_left] -translate-x-full [transition:0.3s]; 
+}
+.on-hover-underline:hover::before {
+    @apply opacity-100 translate-x-0; 
+}
