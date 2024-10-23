@@ -4,7 +4,7 @@ import Middle from './middle'
 import Details from './details'
 
 export default function Navbar() {
-    return <nav className="p-4 w-full relative z-[9999] bg-white shadow">
+    return <nav className="px-4 py-3 w-full relative z-[9999] bg-white shadow">
         {/* <Banner /> */}
         <Middle />
         <Details />
