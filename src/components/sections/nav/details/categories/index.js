@@ -11,12 +11,12 @@ export default function Categories() {
     const handleOnMouseLeave = event => {
         setShowDetails(false)
     }
-    return <div className="relative">
-        <button 
-            className={`flex items-center gap-x-2 ${styles["on-hover-underline"]}`}
-            onMouseEnter={handleOnMouseEnter}
-            onMouseLeave={handleOnMouseLeave}
-        >
+    return <div 
+        className="relative"
+        onMouseEnter={handleOnMouseEnter}
+        onMouseLeave={handleOnMouseLeave}    
+    >
+        <button className={`flex items-center gap-x-2 ${styles["on-hover-underline"]}`}>
             <AddSVGIcon 
                 href="/symbol/hamburger-menu.svg"
                 id="hamburger-menu"
