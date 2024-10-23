@@ -1,0 +1,42 @@
+[
+    {
+        "icon": {
+            "href": "/symbol/amazing.svg",
+            "id": "amazing"
+        },
+        "title": "شگفت‌انگیزها",
+        "link": "/incredible-offers/"
+    },
+    {
+        "icon": {
+            "href": "/symbol/shopping-basket.svg",
+            "id": "shopping-basket"
+        },
+        "title": "سوپرمارکت",
+        "link": "/fresh/"
+    },
+    {
+        "icon": {
+            "href": "/symbol/gift-card.svg",
+            "id": "gift-card"
+        },
+        "title": "کارت هدیه",
+        "link": "/main/dk-ds-gift-card/"
+    },
+    {
+        "icon": {
+            "href": "/symbol/search-trend.svg",
+            "id": "search-trend"
+        },
+        "title": "پرفروش‌ترین‌ها",
+        "link": "/best-selling/"
+    },
+    {
+        "icon": {
+            "href": "/symbol/discount.svg",
+            "id": "discount"
+        },
+        "title": "تخفیف‌ها و پیشنهادها",
+        "link": "/promotion-center/"
+    }
+]

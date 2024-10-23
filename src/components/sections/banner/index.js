@@ -1,21 +1,21 @@
 import {useState , useEffect} from 'react'
 import Image from "@/components/utils/components/image"
 import Link from "@/components/utils/components/link"
-// import axios from 'axios'
+import axios from 'axios'
 
 export default function Banner() {
     const [data , setData] = useState(null)
     useEffect(() => {
-        // banner data api
-        // axios.get("")
-        // .then((response) => console.log(response))
-        // .catch(error => {
-        //     console.log("get Nav banner error!" , "========>")
-        //     console.log(error)
-        //     console.log("========>")
-        // })
+        axios.get("")
+        .then((response) => console.log(response))
+        .catch(error => {
+            console.log("get Nav banner error!" , "========>")
+            console.log(error)
+            console.log("========>")
+        })
     })
-    return data && <Link 
+    const condition = data
+    return condition && <Link 
         href={data.link}
         className="block w-full h-16 relative"    
     >
