@@ -1,5 +1,5 @@
 "use client"
-import Banner from '../banner'
+// import Banner from '../banner'
 import Middle from './middle'
 import Details from './details'
 
