@@ -5,7 +5,7 @@ import Details from './details'
 
 export default function Navbar() {
     return <nav className="p-4 w-full relative z-[9999] bg-white shadow">
-        <Banner />
+        {/* <Banner /> */}
         <Middle />
         <Details />
     </nav>
