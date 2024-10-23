@@ -1,6 +1,7 @@
 import {useState} from "react"
 import styles from "../hover.module.css"
 import AddSVGIcon from "@/components/utils/components/addSVGIcon"
+import Modal from "./modal"
 
 export default function Categories() {
     const [showDetails , setShowDetails] = useState(false)
