@@ -6,10 +6,17 @@ import Modal from "./modal"
 export default function Categories() {
     const [showDetails , setShowDetails] = useState(false)
     const handleOnMouseEnter = event => {
-        setShowDetails(true)
+        const timeout = setTimeout(() => {
+            setShowDetails(true)
+            clearTimeout(timeout)
+        },200)
     }
     const handleOnMouseLeave = event => {
         setShowDetails(false)
+        const timeout = setTimeout(() => {
+            setShowDetails(false)
+            clearTimeout(timeout)
+        },200)
     }
     return <div 
         className="relative"
