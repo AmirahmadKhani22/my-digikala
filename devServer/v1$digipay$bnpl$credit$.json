@@ -1,0 +1,9 @@
+{
+    "status": 200,
+    "data": {
+        "credit": 0,
+        "debt": 0,
+        "debt_pay_link": "",
+        "threshold": 1000000
+    }
+}

@@ -1,0 +1,59 @@
+{
+    "status": 200,
+    "data": {
+        "trends": [
+            {
+                "keyword": "جوراب یلدا",
+                "url": {
+                    "uri": "/search/?q=%D8%AC%D9%88%D8%B1%D8%A7%D8%A8+%DB%8C%D9%84%D8%AF%D8%A7"
+                }
+            },
+            {
+                "keyword": "هدیه یلدا",
+                "url": {
+                    "uri": "/search/?q=%D9%87%D8%AF%DB%8C%D9%87+%DB%8C%D9%84%D8%AF%D8%A7"
+                }
+            },
+            {
+                "keyword": "گردنبند یلدا",
+                "url": {
+                    "uri": "/search/?q=%DA%AF%D8%B1%D8%AF%D9%86%D8%A8%D9%86%D8%AF+%DB%8C%D9%84%D8%AF%D8%A7"
+                }
+            },
+            {
+                "keyword": "پارچه قرمز",
+                "url": {
+                    "uri": "/search/?q=%D9%BE%D8%A7%D8%B1%DA%86%D9%87+%D9%82%D8%B1%D9%85%D8%B2"
+                }
+            },
+            {
+                "keyword": "تل یلدا",
+                "url": {
+                    "uri": "/search/?q=%D8%AA%D9%84+%DB%8C%D9%84%D8%AF%D8%A7"
+                }
+            }
+        ],
+        "banner": [
+            {
+                "id": 190622,
+                "image": "",
+                "webp_image": "?x-oss-process=image/format,webp",
+                "title": "طلای دیجیتال",
+                "is_ad": false,
+                "url": {
+                    "uri": "/gold/?utm_source=DK&utm_medium=searchbar&utm_campaign=Digitalgold&utm_content=&hideHeader=1&promo_name=%D8%B7%D9%84%D8%A7%DB%8C+%D8%AF%DB%8C%D8%AC%DB%8C%D8%AA%D8%A7%D9%84&promo_position=search_bar_search_bar&promo_creative=190622&bCode=190622"
+                },
+                "video": "",
+                "description": "",
+                "action_title": "",
+                "show_percentage": 50,
+                "opening_type": "opening_type_new_tab",
+                "ratio_type": "type_b",
+                "display_option": "home_page",
+                "hex_code": "",
+                "is_smart_ads": false,
+                "zone": "web_zone_search_bar"
+            }
+        ]
+    }
+}
