@@ -17,7 +17,7 @@ export default function PopularBrands() {
         })
         
     })
-    const condition = data && !!data.length
+    const condition = data && !!Object.keys(data).length && data.brands && !!data.brands.length
     return condition && <div className="mt-4 py-5 border rounded-2xl">
         <div className="m-auto pb-5 flex items-center justify-center gap-x-3">
             <AddSVGIcon
