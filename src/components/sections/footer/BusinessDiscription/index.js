@@ -1,6 +1,6 @@
 import {useState} from "react"
 import Content from './content'
-import {FaAngleLeft} from "react-icons/fa"
+import AddSVGIcon from "@/components/utils/components/addSVGIcon"
 
 export default function BusinessDiscription() {
     const [showMore , setShowMore] = useState(false)
@@ -14,7 +14,11 @@ export default function BusinessDiscription() {
             onClick={handleShowMoreClick}
         >
             {showMore ? "بستن" : "مشاهده بیشتر"}
-            <FaAngleLeft className="mr-1"/>
+            <AddSVGIcon 
+                href="/symbol/left-1.svg"
+                id="left-1"
+                className="size-3 mr-1"
+            />
         </button>
     </div>
 }

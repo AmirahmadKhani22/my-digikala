@@ -1,0 +1,42 @@
+[
+    {
+        "link": {
+            "href": "https://instagram.com/digikalcom"
+        },
+        "icon": {
+            "title": "instagram page",
+            "href": "/symbol/instagram.svg",
+            "id": "instagram"
+        }
+    },
+    {
+        "link": {
+            "href": "https://twitter.com/digikalcom"
+        },
+        "icon": {
+            "title": "twitter page",
+            "href": "/symbol/twitter.svg",
+            "id": "twitter"
+        }
+    },
+    {
+        "link": {
+            "href": "https://linkedin.com/company/digikal/mycompany"
+        },
+        "icon": {
+            "title": "linkedin page",
+            "href": "/symbol/linkedin.svg",
+            "id": "linkedin"
+        }
+    },
+    {
+        "link": {
+            "href": "https://aparat.com/digikal"
+        },
+        "icon": {
+            "title": "aparat page",
+            "href": "/symbol/aparat.svg",
+            "id": "aparat"
+        }
+    }
+]

@@ -1,4 +1,4 @@
-import {HiChevronUp} from "react-icons/hi"
+import AddSVGIcon from "@/components/utils/components/addSVGIcon"
 
 export default function GoTop() {
     const handleScrollTop = event => {
@@ -9,9 +9,10 @@ export default function GoTop() {
         onClick={handleScrollTop}
     >
         <p className="text-sm text-neutral-400">بازگشت به بالا</p>
-        <HiChevronUp 
-            size="24px"
-            className="text-neutral-400"
+        <AddSVGIcon 
+            href="/symbol/top-1.svg"
+            id="top-1"
+            className="size-6 fill-neutral-400"
         />
     </button>
 }
