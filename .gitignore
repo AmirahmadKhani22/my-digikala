@@ -3,6 +3,9 @@
 # api list
 /.apis
 
+# thinking js tests
+/js-tests
+
 # dependencies
 /node_modules
 /.pnp

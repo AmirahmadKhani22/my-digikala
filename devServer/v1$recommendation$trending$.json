@@ -1,0 +1,3832 @@
+{
+    "status": 200,
+    "data": {
+        "title": "داغ ترین چند ساعت گذشته",
+        "discount_percent": null,
+        "see_more_url": null,
+        "products": [
+            {
+                "id": 15316932,
+                "title_fa": "هدفون بلوتوثی اکسیژن مدل E10",
+                "title_en": "",
+                "url": {
+                    "base": null,
+                    "uri": "/product/dkp-15316932/هدفون-بلوتوثی-اکسیژن-مدل-e10"
+                },
+                "status": "marketable",
+                "has_quick_view": false,
+                "data_layer": {
+                    "brand": "اکسیژن",
+                    "category": "[AC,هدفون و هندزفری]",
+                    "metric6": 75,
+                    "dimension2": 0,
+                    "dimension6": 0,
+                    "dimension7": "none",
+                    "dimension9": 4.4,
+                    "dimension11": 0,
+                    "dimension20": "marketable",
+                    "item_category2": "کالای دیجیتال",
+                    "item_category3": "هدفون، هدست و هندزفری",
+                    "item_category4": "",
+                    "item_category5": "",
+                    "dimension19": "carousel-recommendation-trending"
+                },
+                "product_type": "product",
+                "test_title_fa": "",
+                "test_title_en": "",
+                "digiplus": {
+                    "services": [
+                        "۴ ارسال رایگان عادی",
+                        "۲ ارسال سوپرمارکت",
+                        "پشتیبانی اختصاصی",
+                        "ارسال فوری برای شهر تهران (رایگان)"
+                    ],
+                    "services_summary": [
+                        "ارسال فوری برای شهر تهران (رایگان)"
+                    ],
+                    "is_jet_eligible": true,
+                    "cash_back": 0,
+                    "is_general_location_jet_eligible": false,
+                    "fast_shipping_text": "ارسال امروز"
+                },
+                "has_fresh_touchpoint": false,
+                "platforms": [
+                    "digikala"
+                ],
+                "images": {
+                    "main": {
+                        "storage_ids": [],
+                        "url": [
+                            "https://dkstatics-public.digikala.com/digikala-products/dbcc5e7970308c0e2b71cf5391a5babc04564c8c_1715165863.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80"
+                        ],
+                        "thumbnail_url": null,
+                        "temporary_id": null,
+                        "webp_url": [
+                            "https://dkstatics-public.digikala.com/digikala-products/dbcc5e7970308c0e2b71cf5391a5babc04564c8c_1715165863.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/format,webp/quality,q_80"
+                        ]
+                    }
+                },
+                "properties": {
+                    "is_fast_shipping": false,
+                    "is_ship_by_seller": false,
+                    "free_shipping_badge": false,
+                    "is_multi_warehouse": false,
+                    "is_fake": false,
+                    "has_gift": false,
+                    "min_price_in_last_month": 4490000,
+                    "is_non_inventory": false,
+                    "is_ad": false,
+                    "ad": [],
+                    "is_jet_eligible": false,
+                    "is_medical_supplement": false
+                },
+                "badges": [],
+                "rating": {
+                    "rate": 87.73333333333333,
+                    "count": 75
+                },
+                "default_variant": {
+                    "id": 60271721,
+                    "lead_time": 0,
+                    "rank": 99.94,
+                    "rate": 94.2,
+                    "statistics": {
+                        "totally_satisfied": {
+                            "rate_count": 10,
+                            "rate": 71.43
+                        },
+                        "satisfied": {
+                            "rate_count": 4,
+                            "rate": 28.57
+                        },
+                        "neutral": {
+                            "rate_count": 0,
+                            "rate": 0
+                        },
+                        "dissatisfied": {
+                            "rate_count": 0,
+                            "rate": 0
+                        },
+                        "totally_dissatisfied": {
+                            "rate_count": 0,
+                            "rate": 0
+                        },
+                        "total_count": 14,
+                        "total_rate": 94.2
+                    },
+                    "status": "marketable",
+                    "properties": {
+                        "is_fast_shipping": false,
+                        "is_ship_by_seller": false,
+                        "is_multi_warehouse": false,
+                        "has_similar_variants": true,
+                        "is_rural": false,
+                        "in_digikala_warehouse": true
+                    },
+                    "digiplus": {
+                        "services": [
+                            "۴ ارسال رایگان عادی",
+                            "۲ ارسال سوپرمارکت",
+                            "پشتیبانی اختصاصی",
+                            "ارسال فوری برای شهر تهران (رایگان)"
+                        ],
+                        "services_summary": [
+                            "ارسال فوری برای شهر تهران (رایگان)"
+                        ],
+                        "is_jet_eligible": true,
+                        "cash_back": 0,
+                        "is_general_location_jet_eligible": false,
+                        "fast_shipping_text": "ارسال امروز"
+                    },
+                    "warranty": {
+                        "id": 10053,
+                        "title_fa": "گارانتی 6 ماهه سیب همراه آینده",
+                        "title_en": "گارانتی 6 ماهه سیب همراه آینده"
+                    },
+                    "color": {
+                        "id": 77,
+                        "title": "سبز کله غازی",
+                        "hex_code": "#01554b"
+                    },
+                    "seller": {
+                        "id": 382179,
+                        "title": "پخش آرتین",
+                        "code": "CFFYX",
+                        "url": "https://www.digikala.com/seller/CFFYX/",
+                        "rating": {
+                            "total_rate": 82,
+                            "total_count": 4159,
+                            "commitment": 100,
+                            "no_return": 99.7,
+                            "on_time_shipping": 99.6
+                        },
+                        "properties": {
+                            "is_trusted": true,
+                            "is_official": false,
+                            "is_roosta": false,
+                            "is_new": false
+                        },
+                        "stars": 5,
+                        "grade": {
+                            "label": "عالی",
+                            "color": "#00a049"
+                        },
+                        "logo": null,
+                        "registration_date": "4 سال و 5 ماه"
+                    },
+                    "digiclub": {
+                        "point": 61
+                    },
+                    "price": {
+                        "selling_price": 6100000,
+                        "rrp_price": 6100000,
+                        "order_limit": 30,
+                        "is_incredible": false,
+                        "is_promotion": false,
+                        "is_locked_for_digiplus": false,
+                        "bnpl_active": false,
+                        "discount_percent": 0,
+                        "is_plus_early_access": false
+                    },
+                    "shipment_methods": {
+                        "description": "موجود در انبار دیجی‌کالا",
+                        "has_lead_time": true,
+                        "providers": [
+                            {
+                                "title": "ارسال دیجی‌کالا",
+                                "description": "این کالا در انبار دیجی‌کالا موجود و آماده پردازش است و توسط پیک دیجی‌کالا در بازه انتخابی ارسال خواهد شد.",
+                                "has_lead_time": false,
+                                "type": "digikala"
+                            },
+                            {
+                                "title": "ارسال امروز (فعلا در شهر تهران و کرج)",
+                                "description": "اگر سفارش را قبل از ساعت ۶ عصر ثبت کنید، همان روز ارسال می‌شود. در صورت ثبت سفارش بعد از ساعت ۶ عصر، فردا ارسال خواهد شد.",
+                                "has_lead_time": false,
+                                "type": "jet"
+                            }
+                        ]
+                    },
+                    "has_importer_price": false,
+                    "manufacture_price_not_exist": false,
+                    "has_best_price_in_last_month": false,
+                    "buy_box_notices": [],
+                    "variant_badges": []
+                }
+            },
+            {
+                "id": 16943580,
+                "title_fa": "چراغ دیواری 6 وات اکو ماورا مدل قطاری طرح دکوراتیو دوطرفه",
+                "title_en": "",
+                "url": {
+                    "base": null,
+                    "uri": "/product/dkp-16943580/چراغ-دیواری-6-وات-اکو-ماورا-مدل-قطاری-طرح-دکوراتیو-دوطرفه"
+                },
+                "status": "marketable",
+                "has_quick_view": false,
+                "data_layer": {
+                    "brand": "متفرقه",
+                    "category": "[TL,نور و روشنایی]",
+                    "metric6": 42,
+                    "dimension2": 0,
+                    "dimension6": 0,
+                    "dimension7": "none",
+                    "dimension9": 4.3,
+                    "dimension11": 0,
+                    "dimension20": "marketable",
+                    "item_category2": "خانه و آشپزخانه",
+                    "item_category3": "روشنایی و الکتریکی",
+                    "item_category4": "نور و روشنایی",
+                    "item_category5": "لامپ و چراغ",
+                    "dimension19": "carousel-recommendation-trending"
+                },
+                "product_type": "product",
+                "test_title_fa": "",
+                "test_title_en": "",
+                "digiplus": {
+                    "services": [
+                        "۴ ارسال رایگان عادی",
+                        "۲ ارسال سوپرمارکت",
+                        "پشتیبانی اختصاصی",
+                        "ارسال فوری برای شهر تهران (رایگان)"
+                    ],
+                    "services_summary": [
+                        "ارسال فوری برای شهر تهران (رایگان)"
+                    ],
+                    "is_jet_eligible": true,
+                    "cash_back": 0,
+                    "is_general_location_jet_eligible": false,
+                    "fast_shipping_text": "ارسال امروز"
+                },
+                "has_fresh_touchpoint": false,
+                "platforms": [
+                    "digikala"
+                ],
+                "images": {
+                    "main": {
+                        "storage_ids": [],
+                        "url": [
+                            "https://dkstatics-public.digikala.com/digikala-products/60ed2444baacf6bb6220ba716ed76d87ad2a3142_1728384755.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80"
+                        ],
+                        "thumbnail_url": null,
+                        "temporary_id": null,
+                        "webp_url": [
+                            "https://dkstatics-public.digikala.com/digikala-products/60ed2444baacf6bb6220ba716ed76d87ad2a3142_1728384755.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/format,webp/quality,q_80"
+                        ]
+                    }
+                },
+                "properties": {
+                    "is_fast_shipping": false,
+                    "is_ship_by_seller": false,
+                    "free_shipping_badge": false,
+                    "is_multi_warehouse": false,
+                    "is_fake": false,
+                    "has_gift": false,
+                    "min_price_in_last_month": 2150000,
+                    "is_non_inventory": false,
+                    "is_ad": false,
+                    "ad": [],
+                    "is_jet_eligible": false,
+                    "is_medical_supplement": false
+                },
+                "badges": [],
+                "rating": {
+                    "rate": 85.23809523809524,
+                    "count": 42
+                },
+                "default_variant": {
+                    "id": 60237650,
+                    "lead_time": 0,
+                    "rank": 99.82,
+                    "rate": 82.2,
+                    "statistics": {
+                        "totally_satisfied": {
+                            "rate_count": 10,
+                            "rate": 52.63
+                        },
+                        "satisfied": {
+                            "rate_count": 5,
+                            "rate": 26.32
+                        },
+                        "neutral": {
+                            "rate_count": 2,
+                            "rate": 10.53
+                        },
+                        "dissatisfied": {
+                            "rate_count": 0,
+                            "rate": 0
+                        },
+                        "totally_dissatisfied": {
+                            "rate_count": 2,
+                            "rate": 10.53
+                        },
+                        "total_count": 19,
+                        "total_rate": 82.2
+                    },
+                    "status": "marketable",
+                    "properties": {
+                        "is_fast_shipping": false,
+                        "is_ship_by_seller": false,
+                        "is_multi_warehouse": false,
+                        "has_similar_variants": true,
+                        "is_rural": false,
+                        "in_digikala_warehouse": true
+                    },
+                    "digiplus": {
+                        "services": [
+                            "۴ ارسال رایگان عادی",
+                            "۲ ارسال سوپرمارکت",
+                            "پشتیبانی اختصاصی",
+                            "ارسال فوری برای شهر تهران (رایگان)"
+                        ],
+                        "services_summary": [
+                            "ارسال فوری برای شهر تهران (رایگان)"
+                        ],
+                        "is_jet_eligible": true,
+                        "cash_back": 0,
+                        "is_general_location_jet_eligible": false,
+                        "fast_shipping_text": "ارسال امروز"
+                    },
+                    "warranty": {
+                        "id": 272,
+                        "title_fa": "گارانتی اصالت و سلامت فیزیکی کالا",
+                        "title_en": "گارانتی اصالت و سلامت فیزیکی کالا"
+                    },
+                    "color": {
+                        "id": 57,
+                        "title": "آفتابی",
+                        "hex_code": "#fdf9d6"
+                    },
+                    "seller": {
+                        "id": 1,
+                        "title": "دیجی‌کالا",
+                        "code": "5A52N",
+                        "url": "https://www.digikala.com/seller/5A52N/",
+                        "rating": {
+                            "total_rate": 0,
+                            "total_count": 0,
+                            "commitment": 100,
+                            "no_return": 99.9,
+                            "on_time_shipping": 100
+                        },
+                        "properties": {
+                            "is_trusted": false,
+                            "is_official": false,
+                            "is_roosta": false,
+                            "is_new": false
+                        },
+                        "stars": 5,
+                        "grade": {
+                            "label": "عالی",
+                            "color": "#00a049"
+                        },
+                        "logo": null,
+                        "registration_date": "8 سال و 4 ماه"
+                    },
+                    "digiclub": {
+                        "point": 28
+                    },
+                    "price": {
+                        "selling_price": 2750000,
+                        "rrp_price": 2750000,
+                        "order_limit": 30,
+                        "is_incredible": false,
+                        "is_promotion": false,
+                        "is_locked_for_digiplus": false,
+                        "bnpl_active": false,
+                        "discount_percent": 0,
+                        "is_plus_early_access": false
+                    },
+                    "shipment_methods": {
+                        "description": "موجود در انبار دیجی‌کالا",
+                        "has_lead_time": true,
+                        "providers": [
+                            {
+                                "title": "ارسال دیجی‌کالا",
+                                "description": "این کالا در انبار دیجی‌کالا موجود و آماده پردازش است و توسط پیک دیجی‌کالا در بازه انتخابی ارسال خواهد شد.",
+                                "has_lead_time": false,
+                                "type": "digikala"
+                            },
+                            {
+                                "title": "ارسال امروز (فعلا در شهر تهران و کرج)",
+                                "description": "اگر سفارش را قبل از ساعت ۶ عصر ثبت کنید، همان روز ارسال می‌شود. در صورت ثبت سفارش بعد از ساعت ۶ عصر، فردا ارسال خواهد شد.",
+                                "has_lead_time": false,
+                                "type": "jet"
+                            }
+                        ]
+                    },
+                    "has_importer_price": false,
+                    "manufacture_price_not_exist": false,
+                    "has_best_price_in_last_month": false,
+                    "buy_box_notices": [],
+                    "variant_badges": []
+                }
+            },
+            {
+                "id": 14802514,
+                "title_fa": "ساعت هوشمند ورنا مدل T45 Pro max With 7 Bands",
+                "title_en": "",
+                "url": {
+                    "base": null,
+                    "uri": "/product/dkp-14802514/ساعت-هوشمند-ورنا-مدل-t45-pro-max-with-7-bands"
+                },
+                "status": "marketable",
+                "has_quick_view": false,
+                "data_layer": {
+                    "brand": "ورنا",
+                    "category": "[AC,ساعت هوشمند]",
+                    "metric6": 108,
+                    "dimension2": 0,
+                    "dimension6": 0,
+                    "dimension7": "none",
+                    "dimension9": 4.2,
+                    "dimension11": 0,
+                    "dimension20": "marketable",
+                    "item_category2": "کالای دیجیتال",
+                    "item_category3": "ساعت و مچ بند هوشمند",
+                    "item_category4": "ساعت هوشمند",
+                    "item_category5": "",
+                    "dimension19": "carousel-recommendation-trending"
+                },
+                "product_type": "product",
+                "test_title_fa": "ساعت هوشمند ورنا مدل T45 Pro max With 7 Bands، مناسب برای ورزش، روزمره، رسمی، دارای قابلیت‌های صفحه نمایش رنگی و لمسی، کنترل موسیقی، قابلیت مکالمه از طریق بلوتوث، پشتیبانی از زبان فارسی در منو و سیستم‌عامل، بند فلز، فرم صفحه مستطیل",
+                "test_title_en": "",
+                "digiplus": {
+                    "services": [
+                        "۴ ارسال رایگان عادی",
+                        "۲ ارسال سوپرمارکت",
+                        "پشتیبانی اختصاصی"
+                    ],
+                    "services_summary": [
+                        "ارسال رایگان"
+                    ],
+                    "is_jet_eligible": false,
+                    "cash_back": 0,
+                    "is_general_location_jet_eligible": false,
+                    "fast_shipping_text": null
+                },
+                "has_fresh_touchpoint": false,
+                "platforms": [
+                    "digikala"
+                ],
+                "images": {
+                    "main": {
+                        "storage_ids": [],
+                        "url": [
+                            "https://dkstatics-public.digikala.com/digikala-products/6ad158ea8aa2f1fe2918e90d747d2414ac683b1e_1718523210.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80"
+                        ],
+                        "thumbnail_url": null,
+                        "temporary_id": null,
+                        "webp_url": [
+                            "https://dkstatics-public.digikala.com/digikala-products/6ad158ea8aa2f1fe2918e90d747d2414ac683b1e_1718523210.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/format,webp/quality,q_80"
+                        ]
+                    }
+                },
+                "properties": {
+                    "is_fast_shipping": false,
+                    "is_ship_by_seller": false,
+                    "free_shipping_badge": false,
+                    "is_multi_warehouse": false,
+                    "is_fake": false,
+                    "has_gift": false,
+                    "min_price_in_last_month": 11250000,
+                    "is_non_inventory": false,
+                    "is_ad": false,
+                    "ad": [],
+                    "is_jet_eligible": false,
+                    "is_medical_supplement": false
+                },
+                "badges": [],
+                "rating": {
+                    "rate": 83.5185185185185,
+                    "count": 108
+                },
+                "default_variant": {
+                    "id": 61131266,
+                    "lead_time": 1,
+                    "rank": 95.25,
+                    "rate": 0,
+                    "statistics": null,
+                    "status": "marketable",
+                    "properties": {
+                        "is_fast_shipping": false,
+                        "is_ship_by_seller": false,
+                        "is_multi_warehouse": false,
+                        "has_similar_variants": false,
+                        "is_rural": false,
+                        "in_digikala_warehouse": false
+                    },
+                    "digiplus": {
+                        "services": [
+                            "۴ ارسال رایگان عادی",
+                            "۲ ارسال سوپرمارکت",
+                            "پشتیبانی اختصاصی"
+                        ],
+                        "services_summary": [
+                            "ارسال رایگان"
+                        ],
+                        "is_jet_eligible": false,
+                        "cash_back": 0,
+                        "is_general_location_jet_eligible": false,
+                        "fast_shipping_text": null
+                    },
+                    "warranty": {
+                        "id": 8906,
+                        "title_fa": "گارانتی 18 ماهه جهان تجارت کسری",
+                        "title_en": "گارانتی 18 ماهه جهان تجارت کسری"
+                    },
+                    "color": {
+                        "id": 15,
+                        "title": "طلایی",
+                        "hex_code": "#c99212"
+                    },
+                    "seller": {
+                        "id": 1615043,
+                        "title": "آوین فروشگاه",
+                        "code": "GPMTE",
+                        "url": "https://www.digikala.com/seller/GPMTE/",
+                        "rating": {
+                            "total_rate": 0,
+                            "total_count": 0,
+                            "commitment": null,
+                            "no_return": null,
+                            "on_time_shipping": null
+                        },
+                        "properties": {
+                            "is_trusted": false,
+                            "is_official": false,
+                            "is_roosta": false,
+                            "is_new": true
+                        },
+                        "stars": null,
+                        "grade": {
+                            "label": "بدون عملکرد",
+                            "color": "#81858B"
+                        },
+                        "logo": null,
+                        "registration_date": "3 هفته و 4 روز"
+                    },
+                    "digiclub": {
+                        "point": 113
+                    },
+                    "price": {
+                        "selling_price": 11250000,
+                        "rrp_price": 11250000,
+                        "order_limit": 9,
+                        "is_incredible": false,
+                        "is_promotion": false,
+                        "is_locked_for_digiplus": false,
+                        "bnpl_active": false,
+                        "discount_percent": 0,
+                        "is_plus_early_access": false
+                    },
+                    "shipment_methods": {
+                        "description": "موجود در انبار فروشنده",
+                        "has_lead_time": false,
+                        "providers": [
+                            {
+                                "title": "ارسال دیجی‌کالا از 1 روز کاری دیگر",
+                                "description": "این کالا پس از مدت زمان مشخص شده توسط فروشنده در انبار دیجی‌کالا تامین و آماده پردازش می‌گردد و توسط پیک دیجی‌کالا در بازه انتخابی ارسال خواهد شد.",
+                                "has_lead_time": true,
+                                "type": "digikala"
+                            }
+                        ]
+                    },
+                    "has_importer_price": false,
+                    "manufacture_price_not_exist": false,
+                    "has_best_price_in_last_month": false,
+                    "buy_box_notices": [],
+                    "variant_badges": []
+                }
+            },
+            {
+                "id": 16449961,
+                "title_fa": "دوچرخه کوهستان مدل AZT-W سایز طوقه 26",
+                "title_en": "",
+                "url": {
+                    "base": null,
+                    "uri": "/product/dkp-16449961/دوچرخه-کوهستان-مدل-azt-w-سایز-طوقه-26"
+                },
+                "status": "marketable",
+                "has_quick_view": false,
+                "data_layer": {
+                    "brand": "متفرقه",
+                    "category": "[SO,دوچرخه و اسکوتر]",
+                    "metric6": 22,
+                    "dimension2": 0,
+                    "dimension6": 0,
+                    "dimension7": "none",
+                    "dimension9": 3.6,
+                    "dimension11": 0,
+                    "dimension20": "marketable",
+                    "item_category2": "ورزش و سفر",
+                    "item_category3": "لوازم ورزشی",
+                    "item_category4": "ورزش های سواری",
+                    "item_category5": "دوچرخه سواری",
+                    "dimension19": "carousel-recommendation-trending"
+                },
+                "product_type": "product",
+                "test_title_fa": "",
+                "test_title_en": "",
+                "digiplus": {
+                    "services": [],
+                    "services_summary": [],
+                    "is_jet_eligible": false,
+                    "cash_back": 0,
+                    "is_general_location_jet_eligible": false,
+                    "fast_shipping_text": null
+                },
+                "has_fresh_touchpoint": false,
+                "platforms": [
+                    "digikala"
+                ],
+                "images": {
+                    "main": {
+                        "storage_ids": [],
+                        "url": [
+                            "https://dkstatics-public.digikala.com/digikala-products/4202b5905f7407f5e2b23bff10613aa8cfd6660b_1724764599.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80"
+                        ],
+                        "thumbnail_url": null,
+                        "temporary_id": null,
+                        "webp_url": [
+                            "https://dkstatics-public.digikala.com/digikala-products/4202b5905f7407f5e2b23bff10613aa8cfd6660b_1724764599.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/format,webp/quality,q_80"
+                        ]
+                    }
+                },
+                "properties": {
+                    "is_fast_shipping": false,
+                    "is_ship_by_seller": false,
+                    "free_shipping_badge": false,
+                    "is_multi_warehouse": false,
+                    "is_fake": false,
+                    "has_gift": false,
+                    "min_price_in_last_month": 57200000,
+                    "is_non_inventory": false,
+                    "is_ad": false,
+                    "ad": [],
+                    "is_jet_eligible": false,
+                    "is_medical_supplement": false
+                },
+                "badges": [],
+                "rating": {
+                    "rate": 71.81818181818181,
+                    "count": 22
+                },
+                "default_variant": {
+                    "id": 56788692,
+                    "lead_time": 0,
+                    "rank": 99.73,
+                    "rate": 73,
+                    "statistics": {
+                        "totally_satisfied": {
+                            "rate_count": 11,
+                            "rate": 47.83
+                        },
+                        "satisfied": {
+                            "rate_count": 4,
+                            "rate": 17.39
+                        },
+                        "neutral": {
+                            "rate_count": 2,
+                            "rate": 8.7
+                        },
+                        "dissatisfied": {
+                            "rate_count": 1,
+                            "rate": 4.35
+                        },
+                        "totally_dissatisfied": {
+                            "rate_count": 5,
+                            "rate": 21.74
+                        },
+                        "total_count": 23,
+                        "total_rate": 73
+                    },
+                    "status": "marketable",
+                    "properties": {
+                        "is_fast_shipping": false,
+                        "is_ship_by_seller": false,
+                        "is_multi_warehouse": false,
+                        "has_similar_variants": false,
+                        "is_rural": false,
+                        "in_digikala_warehouse": true
+                    },
+                    "digiplus": {
+                        "services": [
+                            "۴ ارسال رایگان عادی",
+                            "۲ ارسال سوپرمارکت",
+                            "پشتیبانی اختصاصی"
+                        ],
+                        "services_summary": [
+                            "ارسال رایگان"
+                        ],
+                        "is_jet_eligible": false,
+                        "cash_back": 0,
+                        "is_general_location_jet_eligible": false,
+                        "fast_shipping_text": null
+                    },
+                    "warranty": {
+                        "id": 272,
+                        "title_fa": "گارانتی اصالت و سلامت فیزیکی کالا",
+                        "title_en": "گارانتی اصالت و سلامت فیزیکی کالا"
+                    },
+                    "size": {
+                        "id": 32582,
+                        "title": "26"
+                    },
+                    "seller": {
+                        "id": 1,
+                        "title": "دیجی‌کالا",
+                        "code": "5A52N",
+                        "url": "https://www.digikala.com/seller/5A52N/",
+                        "rating": {
+                            "total_rate": 0,
+                            "total_count": 0,
+                            "commitment": 100,
+                            "no_return": 99.9,
+                            "on_time_shipping": 100
+                        },
+                        "properties": {
+                            "is_trusted": false,
+                            "is_official": false,
+                            "is_roosta": false,
+                            "is_new": false
+                        },
+                        "stars": 5,
+                        "grade": {
+                            "label": "عالی",
+                            "color": "#00a049"
+                        },
+                        "logo": null,
+                        "registration_date": "8 سال و 4 ماه"
+                    },
+                    "digiclub": {
+                        "point": 150
+                    },
+                    "price": {
+                        "selling_price": 67800000,
+                        "rrp_price": 67800000,
+                        "order_limit": 17,
+                        "is_incredible": false,
+                        "is_promotion": false,
+                        "is_locked_for_digiplus": false,
+                        "bnpl_active": false,
+                        "discount_percent": 0,
+                        "is_plus_early_access": false
+                    },
+                    "shipment_methods": {
+                        "description": "موجود در انبار دیجی‌کالا",
+                        "has_lead_time": true,
+                        "providers": [
+                            {
+                                "title": "باربری توسط دیجی‌کالا",
+                                "description": "این کالا در انبار دیجی‌کالا موجود و آماده پردازش است و توسط پیک دیجی‌کالا در بازه انتخابی ارسال خواهد شد.",
+                                "has_lead_time": false,
+                                "type": "digikala"
+                            }
+                        ]
+                    },
+                    "has_importer_price": false,
+                    "manufacture_price_not_exist": false,
+                    "has_best_price_in_last_month": false,
+                    "buy_box_notices": [],
+                    "variant_badges": []
+                }
+            },
+            {
+                "id": 17085691,
+                "title_fa": "مجموعه ابزار 100 عددی صنعتی اینتیمکث کد 100208",
+                "title_en": "",
+                "url": {
+                    "base": null,
+                    "uri": "/product/dkp-17085691/مجموعه-ابزار-100-عددی-صنعتی-اینتیمکث-کد-100208"
+                },
+                "status": "marketable",
+                "has_quick_view": false,
+                "data_layer": {
+                    "brand": "اینتیمکث",
+                    "category": "[TL,ابزار دستی]",
+                    "metric6": 8,
+                    "dimension2": 0,
+                    "dimension6": 0,
+                    "dimension7": "none",
+                    "dimension9": 2.3,
+                    "dimension11": 0,
+                    "dimension20": "marketable",
+                    "item_category2": "ابزار آلات و تجهیزات",
+                    "item_category3": "ابزار غیر برقی",
+                    "item_category4": "ابزار دستی",
+                    "item_category5": "مجموعه ابزار",
+                    "dimension19": "carousel-recommendation-trending"
+                },
+                "product_type": "product",
+                "test_title_fa": "",
+                "test_title_en": "",
+                "digiplus": {
+                    "services": [
+                        "۴ ارسال رایگان عادی",
+                        "۲ ارسال سوپرمارکت",
+                        "پشتیبانی اختصاصی",
+                        "ارسال فوری برای شهر تهران (رایگان)"
+                    ],
+                    "services_summary": [
+                        "ارسال فوری برای شهر تهران (رایگان)"
+                    ],
+                    "is_jet_eligible": true,
+                    "cash_back": 0,
+                    "is_general_location_jet_eligible": false,
+                    "fast_shipping_text": "ارسال امروز"
+                },
+                "has_fresh_touchpoint": false,
+                "platforms": [
+                    "digikala"
+                ],
+                "images": {
+                    "main": {
+                        "storage_ids": [],
+                        "url": [
+                            "https://dkstatics-public.digikala.com/digikala-products/fc8b73ee449a74cbe50297b1757bfd8c6e604893_1729423229.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80"
+                        ],
+                        "thumbnail_url": null,
+                        "temporary_id": null,
+                        "webp_url": [
+                            "https://dkstatics-public.digikala.com/digikala-products/fc8b73ee449a74cbe50297b1757bfd8c6e604893_1729423229.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/format,webp/quality,q_80"
+                        ]
+                    }
+                },
+                "properties": {
+                    "is_fast_shipping": false,
+                    "is_ship_by_seller": false,
+                    "free_shipping_badge": false,
+                    "is_multi_warehouse": false,
+                    "is_fake": false,
+                    "has_gift": false,
+                    "min_price_in_last_month": 16150000,
+                    "is_non_inventory": false,
+                    "is_ad": false,
+                    "ad": [],
+                    "is_jet_eligible": false,
+                    "is_medical_supplement": false
+                },
+                "badges": [],
+                "rating": {
+                    "rate": 45,
+                    "count": 8
+                },
+                "default_variant": {
+                    "id": 59089700,
+                    "lead_time": 0,
+                    "rank": 99.49,
+                    "rate": 48.6,
+                    "statistics": {
+                        "totally_satisfied": {
+                            "rate_count": 2,
+                            "rate": 28.57
+                        },
+                        "satisfied": {
+                            "rate_count": 0,
+                            "rate": 0
+                        },
+                        "neutral": {
+                            "rate_count": 0,
+                            "rate": 0
+                        },
+                        "dissatisfied": {
+                            "rate_count": 2,
+                            "rate": 28.57
+                        },
+                        "totally_dissatisfied": {
+                            "rate_count": 3,
+                            "rate": 42.86
+                        },
+                        "total_count": 7,
+                        "total_rate": 48.6
+                    },
+                    "status": "marketable",
+                    "properties": {
+                        "is_fast_shipping": false,
+                        "is_ship_by_seller": false,
+                        "is_multi_warehouse": false,
+                        "has_similar_variants": true,
+                        "is_rural": false,
+                        "in_digikala_warehouse": true
+                    },
+                    "digiplus": {
+                        "services": [
+                            "۴ ارسال رایگان عادی",
+                            "۲ ارسال سوپرمارکت",
+                            "پشتیبانی اختصاصی",
+                            "ارسال فوری برای شهر تهران (رایگان)"
+                        ],
+                        "services_summary": [
+                            "ارسال فوری برای شهر تهران (رایگان)"
+                        ],
+                        "is_jet_eligible": true,
+                        "cash_back": 0,
+                        "is_general_location_jet_eligible": false,
+                        "fast_shipping_text": "ارسال امروز"
+                    },
+                    "warranty": {
+                        "id": 272,
+                        "title_fa": "گارانتی اصالت و سلامت فیزیکی کالا",
+                        "title_en": "گارانتی اصالت و سلامت فیزیکی کالا"
+                    },
+                    "color": {
+                        "id": 32,
+                        "title": "چند رنگ",
+                        "hex_code": "#C71585"
+                    },
+                    "seller": {
+                        "id": 1,
+                        "title": "دیجی‌کالا",
+                        "code": "5A52N",
+                        "url": "https://www.digikala.com/seller/5A52N/",
+                        "rating": {
+                            "total_rate": 0,
+                            "total_count": 0,
+                            "commitment": 100,
+                            "no_return": 99.9,
+                            "on_time_shipping": 100
+                        },
+                        "properties": {
+                            "is_trusted": false,
+                            "is_official": false,
+                            "is_roosta": false,
+                            "is_new": false
+                        },
+                        "stars": 5,
+                        "grade": {
+                            "label": "عالی",
+                            "color": "#00a049"
+                        },
+                        "logo": null,
+                        "registration_date": "8 سال و 4 ماه"
+                    },
+                    "digiclub": {
+                        "point": 150
+                    },
+                    "price": {
+                        "selling_price": 17700000,
+                        "rrp_price": 17700000,
+                        "order_limit": 30,
+                        "is_incredible": false,
+                        "is_promotion": false,
+                        "is_locked_for_digiplus": false,
+                        "bnpl_active": false,
+                        "discount_percent": 0,
+                        "is_plus_early_access": false
+                    },
+                    "shipment_methods": {
+                        "description": "موجود در انبار دیجی‌کالا",
+                        "has_lead_time": true,
+                        "providers": [
+                            {
+                                "title": "ارسال دیجی‌کالا",
+                                "description": "این کالا در انبار دیجی‌کالا موجود و آماده پردازش است و توسط پیک دیجی‌کالا در بازه انتخابی ارسال خواهد شد.",
+                                "has_lead_time": false,
+                                "type": "digikala"
+                            },
+                            {
+                                "title": "ارسال امروز (فعلا در شهر تهران و کرج)",
+                                "description": "اگر سفارش را قبل از ساعت ۶ عصر ثبت کنید، همان روز ارسال می‌شود. در صورت ثبت سفارش بعد از ساعت ۶ عصر، فردا ارسال خواهد شد.",
+                                "has_lead_time": false,
+                                "type": "jet"
+                            }
+                        ]
+                    },
+                    "has_importer_price": false,
+                    "manufacture_price_not_exist": false,
+                    "has_best_price_in_last_month": false,
+                    "buy_box_notices": [],
+                    "variant_badges": []
+                }
+            },
+            {
+                "id": 16498877,
+                "title_fa": "تلویزیون ال ای دی هوشمند ایکس ویژن مدل 55XYU785 سایز 55 اینچ",
+                "title_en": "",
+                "url": {
+                    "base": null,
+                    "uri": "/product/dkp-16498877/تلویزیون-ال-ای-دی-هوشمند-ایکس-ویژن-مدل-55xyu785-سایز-55-اینچ"
+                },
+                "status": "marketable",
+                "has_quick_view": false,
+                "data_layer": {
+                    "brand": "ایکس ویژن",
+                    "category": "[LA,تلویزیون]",
+                    "metric6": 75,
+                    "dimension2": 16,
+                    "dimension6": 0,
+                    "dimension7": "none",
+                    "dimension9": 4.3,
+                    "dimension11": 0,
+                    "dimension20": "marketable",
+                    "item_category2": "لوازم خانگی برقی",
+                    "item_category3": "صوتی و تصویری",
+                    "item_category4": "تلویزیون",
+                    "item_category5": "",
+                    "dimension19": "carousel-recommendation-trending"
+                },
+                "product_type": "product",
+                "test_title_fa": "",
+                "test_title_en": "",
+                "digiplus": {
+                    "services": [
+                        "۴ ارسال رایگان عادی",
+                        "۲ ارسال سوپرمارکت",
+                        "پشتیبانی اختصاصی"
+                    ],
+                    "services_summary": [
+                        "ارسال رایگان"
+                    ],
+                    "is_jet_eligible": false,
+                    "cash_back": 0,
+                    "is_general_location_jet_eligible": false,
+                    "fast_shipping_text": null
+                },
+                "has_fresh_touchpoint": false,
+                "platforms": [
+                    "digikala"
+                ],
+                "images": {
+                    "main": {
+                        "storage_ids": [],
+                        "url": [
+                            "https://dkstatics-public.digikala.com/digikala-products/e4d08985d9d9ce853c14f2a4cd683305dabd2a48_1732019841.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80"
+                        ],
+                        "thumbnail_url": null,
+                        "temporary_id": null,
+                        "webp_url": [
+                            "https://dkstatics-public.digikala.com/digikala-products/e4d08985d9d9ce853c14f2a4cd683305dabd2a48_1732019841.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/format,webp/quality,q_80"
+                        ]
+                    }
+                },
+                "properties": {
+                    "is_fast_shipping": false,
+                    "is_ship_by_seller": false,
+                    "free_shipping_badge": false,
+                    "is_multi_warehouse": false,
+                    "is_fake": false,
+                    "has_gift": false,
+                    "min_price_in_last_month": 226990000,
+                    "is_non_inventory": false,
+                    "is_ad": false,
+                    "ad": [],
+                    "is_jet_eligible": false,
+                    "is_medical_supplement": false
+                },
+                "badges": [],
+                "rating": {
+                    "rate": 85.6,
+                    "count": 75
+                },
+                "default_variant": {
+                    "id": 57143750,
+                    "lead_time": 0,
+                    "rank": 99.81,
+                    "rate": 86.6,
+                    "statistics": {
+                        "totally_satisfied": {
+                            "rate_count": 3,
+                            "rate": 50
+                        },
+                        "satisfied": {
+                            "rate_count": 2,
+                            "rate": 33.33
+                        },
+                        "neutral": {
+                            "rate_count": 1,
+                            "rate": 16.67
+                        },
+                        "dissatisfied": {
+                            "rate_count": 0,
+                            "rate": 0
+                        },
+                        "totally_dissatisfied": {
+                            "rate_count": 0,
+                            "rate": 0
+                        },
+                        "total_count": 6,
+                        "total_rate": 86.6
+                    },
+                    "status": "marketable",
+                    "properties": {
+                        "is_fast_shipping": false,
+                        "is_ship_by_seller": false,
+                        "is_multi_warehouse": false,
+                        "has_similar_variants": true,
+                        "is_rural": false,
+                        "in_digikala_warehouse": true
+                    },
+                    "digiplus": {
+                        "services": [
+                            "۴ ارسال رایگان عادی",
+                            "۲ ارسال سوپرمارکت",
+                            "پشتیبانی اختصاصی"
+                        ],
+                        "services_summary": [
+                            "ارسال رایگان"
+                        ],
+                        "is_jet_eligible": false,
+                        "cash_back": 0,
+                        "is_general_location_jet_eligible": false,
+                        "fast_shipping_text": null
+                    },
+                    "warranty": {
+                        "id": 745,
+                        "title_fa": "گارانتی 24 ماهه مادیران",
+                        "title_en": "گارانتی 24 ماهه مادیران"
+                    },
+                    "seller": {
+                        "id": 1317542,
+                        "title": "دلا کالا نوین",
+                        "code": "FRNRZ",
+                        "url": "https://www.digikala.com/seller/FRNRZ/",
+                        "rating": {
+                            "total_rate": 86,
+                            "total_count": 577,
+                            "commitment": 98.8,
+                            "no_return": 99.6,
+                            "on_time_shipping": 98.1
+                        },
+                        "properties": {
+                            "is_trusted": true,
+                            "is_official": false,
+                            "is_roosta": false,
+                            "is_new": false
+                        },
+                        "stars": 4.6,
+                        "grade": {
+                            "label": "عالی",
+                            "color": "#00a049"
+                        },
+                        "logo": null,
+                        "registration_date": "1 سال و 6 ساعت"
+                    },
+                    "digiclub": {
+                        "point": 150
+                    },
+                    "price": {
+                        "selling_price": 245000000,
+                        "rrp_price": 290000000,
+                        "order_limit": 1,
+                        "is_incredible": false,
+                        "is_promotion": false,
+                        "is_locked_for_digiplus": false,
+                        "bnpl_active": false,
+                        "marketable_stock": 3,
+                        "discount_percent": 16,
+                        "is_plus_early_access": false
+                    },
+                    "shipment_methods": {
+                        "description": "موجود در انبار دیجی‌کالا",
+                        "has_lead_time": true,
+                        "providers": [
+                            {
+                                "title": "ارسال دیجی‌کالا",
+                                "description": "این کالا در انبار دیجی‌کالا موجود و آماده پردازش است و توسط پیک دیجی‌کالا در بازه انتخابی ارسال خواهد شد.",
+                                "has_lead_time": false,
+                                "type": "digikala"
+                            }
+                        ]
+                    },
+                    "has_importer_price": false,
+                    "manufacture_price_not_exist": false,
+                    "has_best_price_in_last_month": false,
+                    "buy_box_notices": [],
+                    "variant_badges": [
+                        {
+                            "id": -1,
+                            "type": "simple",
+                            "slot": "pdp_above_add_to_cart",
+                            "priority": 0,
+                            "payload": {
+                                "text": "تنها 3 عدد در انبار باقی مانده",
+                                "text_color": "#d32f2f",
+                                "icon": null,
+                                "svg_icon": "https://dkstatics-public.digikala.com/digikala-static/54419b9303246cde131fcb5b251b86f2ab4aeb71_1716833765.svg"
+                            }
+                        }
+                    ]
+                }
+            },
+            {
+                "id": 12296095,
+                "title_fa": "گوشی موبایل ناتینگ مدل Phone 2 دو سیم کارت ظرفیت 512 گیگابایت و رم 12 گیگابایت",
+                "title_en": "Nothing Phone 2 Dual SIM 512GB And 12GB RAM Mobile Phone",
+                "url": {
+                    "base": null,
+                    "uri": "/product/dkp-12296095/گوشی-موبایل-ناتینگ-مدل-phone-2-دو-سیم-کارت-ظرفیت-512-گیگابایت-و-رم-12-گیگابایت"
+                },
+                "status": "marketable",
+                "has_quick_view": false,
+                "data_layer": {
+                    "brand": "ناتینگ",
+                    "category": "[MO,گوشی موبایل]",
+                    "metric6": 34,
+                    "dimension2": 0,
+                    "dimension6": 0,
+                    "dimension7": "none",
+                    "dimension9": 4.8,
+                    "dimension11": 0,
+                    "dimension20": "marketable",
+                    "item_category2": "موبایل",
+                    "item_category3": "گوشی موبایل",
+                    "item_category4": "",
+                    "item_category5": "",
+                    "dimension19": "carousel-recommendation-trending"
+                },
+                "product_type": "product",
+                "test_title_fa": "",
+                "test_title_en": "",
+                "digiplus": {
+                    "services": [
+                        "۴ ارسال رایگان عادی",
+                        "۲ ارسال سوپرمارکت",
+                        "پشتیبانی اختصاصی",
+                        "ارسال فوری برای شهر تهران (رایگان)"
+                    ],
+                    "services_summary": [
+                        "ارسال فوری برای شهر تهران (رایگان)"
+                    ],
+                    "is_jet_eligible": true,
+                    "cash_back": 0,
+                    "is_general_location_jet_eligible": false,
+                    "fast_shipping_text": "ارسال امروز"
+                },
+                "has_fresh_touchpoint": false,
+                "platforms": [
+                    "digikala"
+                ],
+                "images": {
+                    "main": {
+                        "storage_ids": [],
+                        "url": [
+                            "https://dkstatics-public.digikala.com/digikala-products/e97588f2b7de6aa5ca4dcc8d14a00d608bd11b99_1725971069.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80"
+                        ],
+                        "thumbnail_url": null,
+                        "temporary_id": null,
+                        "webp_url": [
+                            "https://dkstatics-public.digikala.com/digikala-products/e97588f2b7de6aa5ca4dcc8d14a00d608bd11b99_1725971069.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/format,webp/quality,q_80"
+                        ]
+                    }
+                },
+                "properties": {
+                    "is_fast_shipping": false,
+                    "is_ship_by_seller": false,
+                    "free_shipping_badge": false,
+                    "is_multi_warehouse": false,
+                    "is_fake": false,
+                    "has_gift": false,
+                    "min_price_in_last_month": 466390000,
+                    "is_non_inventory": false,
+                    "is_ad": false,
+                    "ad": [],
+                    "is_jet_eligible": false,
+                    "is_medical_supplement": false
+                },
+                "badges": [
+                    {
+                        "icon": {
+                            "storage_ids": [],
+                            "url": [
+                                "https://dkstatics-public.digikala.com/digikala-static/40103386d101974d18b40cee05e8d62823a657fa_1678547065.png"
+                            ],
+                            "thumbnail_url": null,
+                            "temporary_id": null,
+                            "webp_url": null
+                        },
+                        "title": "ارسال رایگان"
+                    }
+                ],
+                "rating": {
+                    "rate": 94.11764705882354,
+                    "count": 34
+                },
+                "default_variant": {
+                    "id": 44942614,
+                    "lead_time": 0,
+                    "rank": 99.96,
+                    "rate": 96.2,
+                    "statistics": {
+                        "totally_satisfied": {
+                            "rate_count": 13,
+                            "rate": 81.25
+                        },
+                        "satisfied": {
+                            "rate_count": 3,
+                            "rate": 18.75
+                        },
+                        "neutral": {
+                            "rate_count": 0,
+                            "rate": 0
+                        },
+                        "dissatisfied": {
+                            "rate_count": 0,
+                            "rate": 0
+                        },
+                        "totally_dissatisfied": {
+                            "rate_count": 0,
+                            "rate": 0
+                        },
+                        "total_count": 16,
+                        "total_rate": 96.2
+                    },
+                    "status": "marketable",
+                    "properties": {
+                        "is_fast_shipping": false,
+                        "is_ship_by_seller": false,
+                        "is_multi_warehouse": false,
+                        "has_similar_variants": false,
+                        "is_rural": false,
+                        "in_digikala_warehouse": true
+                    },
+                    "digiplus": {
+                        "services": [
+                            "۴ ارسال رایگان عادی",
+                            "۲ ارسال سوپرمارکت",
+                            "پشتیبانی اختصاصی",
+                            "ارسال فوری برای شهر تهران (رایگان)"
+                        ],
+                        "services_summary": [
+                            "ارسال فوری برای شهر تهران (رایگان)"
+                        ],
+                        "is_jet_eligible": true,
+                        "cash_back": 0,
+                        "is_general_location_jet_eligible": false,
+                        "fast_shipping_text": "ارسال امروز"
+                    },
+                    "warranty": {
+                        "id": 2926,
+                        "title_fa": "گارانتی 18 ماهه سی تلکام",
+                        "title_en": "گارانتی 18 ماهه سی تلکام"
+                    },
+                    "color": {
+                        "id": 1,
+                        "title": "مشکی",
+                        "hex_code": "#212121"
+                    },
+                    "seller": {
+                        "id": 1,
+                        "title": "دیجی‌کالا",
+                        "code": "5A52N",
+                        "url": "https://www.digikala.com/seller/5A52N/",
+                        "rating": {
+                            "total_rate": 0,
+                            "total_count": 0,
+                            "commitment": 100,
+                            "no_return": 99.9,
+                            "on_time_shipping": 100
+                        },
+                        "properties": {
+                            "is_trusted": false,
+                            "is_official": false,
+                            "is_roosta": false,
+                            "is_new": false
+                        },
+                        "stars": 5,
+                        "grade": {
+                            "label": "عالی",
+                            "color": "#00a049"
+                        },
+                        "logo": null,
+                        "registration_date": "8 سال و 4 ماه"
+                    },
+                    "digiclub": {
+                        "point": 150
+                    },
+                    "insurance": {
+                        "covers": [
+                            {
+                                "description": "جبران ۱۰۰ درصدی خسارات انواع سرقت",
+                                "maxCoverage": null,
+                                "maxUseCount": 1
+                            },
+                            {
+                                "description": "جبران ۱۰۰ درصدی انواع صدمات فیزیکی مانند ضربه دیدگی، شکستگی و آب‌خوردگی غیرعمدی",
+                                "maxCoverage": null,
+                                "maxUseCount": null
+                            },
+                            {
+                                "description": "جبران ۱۰۰ درصدی آتش‌سوزی و انفجار‌های غیرعمدی",
+                                "maxCoverage": null,
+                                "maxUseCount": null
+                            },
+                            {
+                                "description": "جبران ۱۰۰ درصدی سوختگی یا نیم‌سوز شدن، القای الکتریکی، اتصال کوتاه و نوسانات ولتاژ غیرعمدی",
+                                "maxCoverage": null,
+                                "maxUseCount": null
+                            },
+                            {
+                                "description": "همچنین تمام فرایند‌های بیمه دیجی‌پی از خرید تا دریافت خسارت آنلاین است.",
+                                "maxCoverage": null,
+                                "maxUseCount": null
+                            },
+                            {
+                                "description": "هزینه‌های دستگاه صدمه دیده حتی گوشی‌های آیفون در کمتر از ۴۸ ساعت بعد از اعلام خسارت پرداخت می‌شود.",
+                                "maxCoverage": null,
+                                "maxUseCount": null
+                            },
+                            {
+                                "description": "تعمیرات توسط متخصصین دیجی‌کالا سرویس انجام می‌شود و هر تعمیر ۳ ماه و هر قطعه تعمیر شده ۶ ماه گارانتی دارد.",
+                                "maxCoverage": null,
+                                "maxUseCount": null
+                            },
+                            {
+                                "description": "* توجه: برای استفاده از بیمه، بعد از دریافت کالای دیجیتال خود، به سایت دیجی‌پی، بخش بیمه تجهیزات و بعد پنل کاربری مراجعه کنید و بیمه خود را فعال کنید. در غیر این‌صورت امکان دانلود بیمه‌نامه و دریافت خسارت وجود ندارد.",
+                                "maxCoverage": null,
+                                "maxUseCount": null
+                            },
+                            {
+                                "description": "برای اعلام خسارت وارد پنل کاربری خود در سایت دیجی‌پی شوید و اطلاعات خود را تکمیل کنید.",
+                                "maxCoverage": null,
+                                "maxUseCount": null
+                            },
+                            {
+                                "description": "برای رفع مشکلات و سوالات خود می‌توانید در هفت روز هفته با شماره ۰۲۱۶۱۹۳۰۴۰۰ تماس بگیرید.",
+                                "maxCoverage": null,
+                                "maxUseCount": null
+                            }
+                        ],
+                        "base_premium": 7200000,
+                        "discount": 0,
+                        "tax": 648000,
+                        "total_premium": 7848000,
+                        "terms_and_conditions": "بران خسارات ناشی از ضربه خوردگی، شکستگی، آبخوردگی، سرقت با شکست حرز و کلیه حوادث مرتبط با دستگاه خریداری شده با کسورات و فرانشیز حداقل، بدون هزینه استهلاک \r\nارائه خدمات ویژه VIP، بدون هر گونه مراجعه فیزیکی",
+                        "before_discount": 15696000,
+                        "discount_percent": 50
+                    },
+                    "price": {
+                        "selling_price": 479990000,
+                        "rrp_price": 479990000,
+                        "order_limit": 5,
+                        "is_incredible": false,
+                        "is_promotion": false,
+                        "is_locked_for_digiplus": false,
+                        "bnpl_active": false,
+                        "discount_percent": 0,
+                        "is_plus_early_access": false
+                    },
+                    "shipment_methods": {
+                        "description": "موجود در انبار دیجی‌کالا",
+                        "has_lead_time": true,
+                        "providers": [
+                            {
+                                "title": "ارسال دیجی‌کالا",
+                                "description": "این کالا در انبار دیجی‌کالا موجود و آماده پردازش است و توسط پیک دیجی‌کالا در بازه انتخابی ارسال خواهد شد.",
+                                "has_lead_time": false,
+                                "type": "digikala"
+                            },
+                            {
+                                "title": "ارسال امروز (فعلا در شهر تهران و کرج)",
+                                "description": "اگر سفارش را قبل از ساعت ۶ عصر ثبت کنید، همان روز ارسال می‌شود. در صورت ثبت سفارش بعد از ساعت ۶ عصر، فردا ارسال خواهد شد.",
+                                "has_lead_time": false,
+                                "type": "jet"
+                            }
+                        ]
+                    },
+                    "has_importer_price": false,
+                    "manufacture_price_not_exist": false,
+                    "has_best_price_in_last_month": false,
+                    "buy_box_notices": [],
+                    "variant_badges": []
+                }
+            },
+            {
+                "id": 110723,
+                "title_fa": "فن هیتر هاردستون مدل HEP2023",
+                "title_en": "Hardstone HEP2023 Fan Heater",
+                "url": {
+                    "base": null,
+                    "uri": "/product/dkp-110723/فن-هیتر-هاردستون-مدل-hep2023"
+                },
+                "status": "marketable",
+                "has_quick_view": false,
+                "data_layer": {
+                    "brand": "هاردستون",
+                    "category": "[SA,تهویه، سرمایش و گرمایش کوچک]",
+                    "metric6": 429,
+                    "dimension2": 0,
+                    "dimension6": 0,
+                    "dimension7": "none",
+                    "dimension9": 4,
+                    "dimension11": 0,
+                    "dimension20": "marketable",
+                    "item_category2": "لوازم خانگی برقی",
+                    "item_category3": "تهویه، سرمایش و گرمایش",
+                    "item_category4": "بخاری برقی",
+                    "item_category5": "",
+                    "dimension19": "carousel-recommendation-trending"
+                },
+                "product_type": "product",
+                "test_title_fa": "",
+                "test_title_en": "",
+                "digiplus": {
+                    "services": [
+                        "۴ ارسال رایگان عادی",
+                        "۲ ارسال سوپرمارکت",
+                        "پشتیبانی اختصاصی",
+                        "ارسال فوری برای شهر تهران (رایگان)"
+                    ],
+                    "services_summary": [
+                        "ارسال فوری برای شهر تهران (رایگان)"
+                    ],
+                    "is_jet_eligible": true,
+                    "cash_back": 0,
+                    "is_general_location_jet_eligible": false,
+                    "fast_shipping_text": "ارسال امروز"
+                },
+                "has_fresh_touchpoint": false,
+                "platforms": [
+                    "digikala"
+                ],
+                "images": {
+                    "main": {
+                        "storage_ids": [],
+                        "url": [
+                            "https://dkstatics-public.digikala.com/digikala-products/993284.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80"
+                        ],
+                        "thumbnail_url": null,
+                        "temporary_id": null,
+                        "webp_url": [
+                            "https://dkstatics-public.digikala.com/digikala-products/993284.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/format,webp/quality,q_80"
+                        ]
+                    }
+                },
+                "properties": {
+                    "is_fast_shipping": false,
+                    "is_ship_by_seller": false,
+                    "free_shipping_badge": false,
+                    "is_multi_warehouse": false,
+                    "is_fake": false,
+                    "has_gift": false,
+                    "min_price_in_last_month": 21100000,
+                    "is_non_inventory": false,
+                    "is_ad": false,
+                    "ad": [],
+                    "is_jet_eligible": false,
+                    "is_medical_supplement": false
+                },
+                "badges": [],
+                "rating": {
+                    "rate": 78.92773892773893,
+                    "count": 429
+                },
+                "default_variant": {
+                    "id": 120916,
+                    "lead_time": 0,
+                    "rank": 99.77,
+                    "rate": 76.6,
+                    "statistics": {
+                        "totally_satisfied": {
+                            "rate_count": 20,
+                            "rate": 31.75
+                        },
+                        "satisfied": {
+                            "rate_count": 23,
+                            "rate": 36.51
+                        },
+                        "neutral": {
+                            "rate_count": 11,
+                            "rate": 17.46
+                        },
+                        "dissatisfied": {
+                            "rate_count": 7,
+                            "rate": 11.11
+                        },
+                        "totally_dissatisfied": {
+                            "rate_count": 2,
+                            "rate": 3.17
+                        },
+                        "total_count": 63,
+                        "total_rate": 76.6
+                    },
+                    "status": "marketable",
+                    "properties": {
+                        "is_fast_shipping": false,
+                        "is_ship_by_seller": false,
+                        "is_multi_warehouse": false,
+                        "has_similar_variants": false,
+                        "is_rural": false,
+                        "in_digikala_warehouse": true
+                    },
+                    "digiplus": {
+                        "services": [
+                            "۴ ارسال رایگان عادی",
+                            "۲ ارسال سوپرمارکت",
+                            "پشتیبانی اختصاصی",
+                            "ارسال فوری برای شهر تهران (رایگان)"
+                        ],
+                        "services_summary": [
+                            "ارسال فوری برای شهر تهران (رایگان)"
+                        ],
+                        "is_jet_eligible": true,
+                        "cash_back": 0,
+                        "is_general_location_jet_eligible": false,
+                        "fast_shipping_text": "ارسال امروز"
+                    },
+                    "warranty": {
+                        "id": 486,
+                        "title_fa": "گارانتی 18 ماهه جام سرویس",
+                        "title_en": "گارانتی 18 ماهه جام سرویس"
+                    },
+                    "color": {
+                        "id": 2,
+                        "title": "سفید",
+                        "hex_code": "#FFFFFF"
+                    },
+                    "seller": {
+                        "id": 1,
+                        "title": "دیجی‌کالا",
+                        "code": "5A52N",
+                        "url": "https://www.digikala.com/seller/5A52N/",
+                        "rating": {
+                            "total_rate": 0,
+                            "total_count": 0,
+                            "commitment": 100,
+                            "no_return": 99.9,
+                            "on_time_shipping": 100
+                        },
+                        "properties": {
+                            "is_trusted": false,
+                            "is_official": false,
+                            "is_roosta": false,
+                            "is_new": false
+                        },
+                        "stars": 5,
+                        "grade": {
+                            "label": "عالی",
+                            "color": "#00a049"
+                        },
+                        "logo": null,
+                        "registration_date": "8 سال و 4 ماه"
+                    },
+                    "digiclub": {
+                        "point": 150
+                    },
+                    "price": {
+                        "selling_price": 25430000,
+                        "rrp_price": 25430000,
+                        "order_limit": 30,
+                        "is_incredible": false,
+                        "is_promotion": false,
+                        "is_locked_for_digiplus": false,
+                        "bnpl_active": false,
+                        "discount_percent": 0,
+                        "is_plus_early_access": false
+                    },
+                    "shipment_methods": {
+                        "description": "موجود در انبار دیجی‌کالا",
+                        "has_lead_time": true,
+                        "providers": [
+                            {
+                                "title": "ارسال دیجی‌کالا",
+                                "description": "این کالا در انبار دیجی‌کالا موجود و آماده پردازش است و توسط پیک دیجی‌کالا در بازه انتخابی ارسال خواهد شد.",
+                                "has_lead_time": false,
+                                "type": "digikala"
+                            },
+                            {
+                                "title": "ارسال امروز (فعلا در شهر تهران و کرج)",
+                                "description": "اگر سفارش را قبل از ساعت ۶ عصر ثبت کنید، همان روز ارسال می‌شود. در صورت ثبت سفارش بعد از ساعت ۶ عصر، فردا ارسال خواهد شد.",
+                                "has_lead_time": false,
+                                "type": "jet"
+                            }
+                        ]
+                    },
+                    "has_importer_price": false,
+                    "manufacture_price_not_exist": true,
+                    "has_best_price_in_last_month": false,
+                    "buy_box_notices": [
+                        {
+                            "text": "قیمت تولیدکننده: ندارد",
+                            "text_color": "#81858B",
+                            "icon": "cube-alert-info-outline",
+                            "icon_color": "#81858B"
+                        }
+                    ],
+                    "variant_badges": []
+                }
+            },
+            {
+                "id": 12537859,
+                "title_fa": "لامپ ال ای دی 9 وات سایروکس مدل A60 پایه E27 بسته 2 عددی",
+                "title_en": "",
+                "url": {
+                    "base": null,
+                    "uri": "/product/dkp-12537859/لامپ-ال-ای-دی-9-وات-سایروکس-مدل-a60-پایه-e27-بسته-2-عددی"
+                },
+                "status": "marketable",
+                "has_quick_view": false,
+                "data_layer": {
+                    "brand": "سایروکس",
+                    "category": "[TL,نور و روشنایی]",
+                    "metric6": 4191,
+                    "dimension2": 0,
+                    "dimension6": 0,
+                    "dimension7": "none",
+                    "dimension9": 4.3,
+                    "dimension11": 0,
+                    "dimension20": "marketable",
+                    "item_category2": "خانه و آشپزخانه",
+                    "item_category3": "روشنایی و الکتریکی",
+                    "item_category4": "نور و روشنایی",
+                    "item_category5": "لامپ و چراغ",
+                    "dimension19": "carousel-recommendation-trending"
+                },
+                "product_type": "product",
+                "test_title_fa": "",
+                "test_title_en": "",
+                "digiplus": {
+                    "services": [
+                        "۴ ارسال رایگان عادی",
+                        "۲ ارسال سوپرمارکت",
+                        "پشتیبانی اختصاصی",
+                        "ارسال فوری برای شهر تهران (رایگان)"
+                    ],
+                    "services_summary": [
+                        "ارسال فوری برای شهر تهران (رایگان)"
+                    ],
+                    "is_jet_eligible": true,
+                    "cash_back": 0,
+                    "is_general_location_jet_eligible": false,
+                    "fast_shipping_text": "ارسال امروز"
+                },
+                "has_fresh_touchpoint": false,
+                "platforms": [
+                    "digikala"
+                ],
+                "images": {
+                    "main": {
+                        "storage_ids": [],
+                        "url": [
+                            "https://dkstatics-public.digikala.com/digikala-products/6e2cfe872ce2fbe9ebc7db0c2b04d3510b0e35dc_1731418878.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80"
+                        ],
+                        "thumbnail_url": null,
+                        "temporary_id": null,
+                        "webp_url": [
+                            "https://dkstatics-public.digikala.com/digikala-products/6e2cfe872ce2fbe9ebc7db0c2b04d3510b0e35dc_1731418878.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/format,webp/quality,q_80"
+                        ]
+                    }
+                },
+                "properties": {
+                    "is_fast_shipping": false,
+                    "is_ship_by_seller": false,
+                    "free_shipping_badge": false,
+                    "is_multi_warehouse": false,
+                    "is_fake": false,
+                    "has_gift": false,
+                    "min_price_in_last_month": 590000,
+                    "is_non_inventory": false,
+                    "is_ad": false,
+                    "ad": [],
+                    "is_jet_eligible": false,
+                    "is_medical_supplement": false
+                },
+                "badges": [],
+                "rating": {
+                    "rate": 84.90097828680506,
+                    "count": 4191
+                },
+                "default_variant": {
+                    "id": 43482309,
+                    "lead_time": 0,
+                    "rank": 99.85,
+                    "rate": 85,
+                    "statistics": {
+                        "totally_satisfied": {
+                            "rate_count": 1445,
+                            "rate": 44.79
+                        },
+                        "satisfied": {
+                            "rate_count": 1317,
+                            "rate": 40.82
+                        },
+                        "neutral": {
+                            "rate_count": 356,
+                            "rate": 11.04
+                        },
+                        "dissatisfied": {
+                            "rate_count": 56,
+                            "rate": 1.74
+                        },
+                        "totally_dissatisfied": {
+                            "rate_count": 52,
+                            "rate": 1.61
+                        },
+                        "total_count": 3226,
+                        "total_rate": 85
+                    },
+                    "status": "marketable",
+                    "properties": {
+                        "is_fast_shipping": false,
+                        "is_ship_by_seller": false,
+                        "is_multi_warehouse": false,
+                        "has_similar_variants": false,
+                        "is_rural": false,
+                        "in_digikala_warehouse": true
+                    },
+                    "digiplus": {
+                        "services": [
+                            "۴ ارسال رایگان عادی",
+                            "۲ ارسال سوپرمارکت",
+                            "پشتیبانی اختصاصی",
+                            "ارسال فوری برای شهر تهران (رایگان)"
+                        ],
+                        "services_summary": [
+                            "ارسال فوری برای شهر تهران (رایگان)"
+                        ],
+                        "is_jet_eligible": true,
+                        "cash_back": 0,
+                        "is_general_location_jet_eligible": false,
+                        "fast_shipping_text": "ارسال امروز"
+                    },
+                    "warranty": {
+                        "id": 8620,
+                        "title_fa": "گارانتی 12 ماهه سایروکس",
+                        "title_en": "گارانتی 12 ماهه سایروکس"
+                    },
+                    "color": {
+                        "id": 58,
+                        "title": "مهتابی",
+                        "hex_code": "#f4fcff"
+                    },
+                    "seller": {
+                        "id": 1,
+                        "title": "دیجی‌کالا",
+                        "code": "5A52N",
+                        "url": "https://www.digikala.com/seller/5A52N/",
+                        "rating": {
+                            "total_rate": 0,
+                            "total_count": 0,
+                            "commitment": 100,
+                            "no_return": 99.9,
+                            "on_time_shipping": 100
+                        },
+                        "properties": {
+                            "is_trusted": false,
+                            "is_official": false,
+                            "is_roosta": false,
+                            "is_new": false
+                        },
+                        "stars": 5,
+                        "grade": {
+                            "label": "عالی",
+                            "color": "#00a049"
+                        },
+                        "logo": null,
+                        "registration_date": "8 سال و 4 ماه"
+                    },
+                    "digiclub": {
+                        "point": 9
+                    },
+                    "price": {
+                        "selling_price": 820000,
+                        "rrp_price": 820000,
+                        "order_limit": 30,
+                        "is_incredible": false,
+                        "is_promotion": false,
+                        "is_locked_for_digiplus": false,
+                        "bnpl_active": false,
+                        "discount_percent": 0,
+                        "is_plus_early_access": false
+                    },
+                    "shipment_methods": {
+                        "description": "موجود در انبار دیجی‌کالا",
+                        "has_lead_time": true,
+                        "providers": [
+                            {
+                                "title": "ارسال دیجی‌کالا",
+                                "description": "این کالا در انبار دیجی‌کالا موجود و آماده پردازش است و توسط پیک دیجی‌کالا در بازه انتخابی ارسال خواهد شد.",
+                                "has_lead_time": false,
+                                "type": "digikala"
+                            },
+                            {
+                                "title": "ارسال امروز (فعلا در شهر تهران و کرج)",
+                                "description": "اگر سفارش را قبل از ساعت ۶ عصر ثبت کنید، همان روز ارسال می‌شود. در صورت ثبت سفارش بعد از ساعت ۶ عصر، فردا ارسال خواهد شد.",
+                                "has_lead_time": false,
+                                "type": "jet"
+                            }
+                        ]
+                    },
+                    "has_importer_price": false,
+                    "manufacture_price_not_exist": false,
+                    "has_best_price_in_last_month": false,
+                    "buy_box_notices": [],
+                    "variant_badges": []
+                }
+            },
+            {
+                "id": 15966252,
+                "title_fa": "ادو پرفیوم مردانه ایفوریا مدل ساواج حجم 30 میلی لیتر به همراه ادو پرفیوم مردانه ایفوریا مدل پرسیوال Percival حجم 30 میلی لیتر",
+                "title_en": "",
+                "url": {
+                    "base": null,
+                    "uri": "/product/dkp-15966252/ادو-پرفیوم-مردانه-ایفوریا-مدل-ساواج-حجم-30-میلی-لیتر-به-همراه-ادو-پرفیوم-مردانه-ایفوریا-مدل-پرسیوال-percival-حجم-30-میلی-لیتر"
+                },
+                "status": "marketable",
+                "has_quick_view": false,
+                "data_layer": {
+                    "brand": "ایفوریا",
+                    "category": "[PS,عطر و ادوکلن]",
+                    "metric6": 9,
+                    "dimension2": 0,
+                    "dimension6": 0,
+                    "dimension7": "none",
+                    "dimension9": 2.6,
+                    "dimension11": 0,
+                    "dimension20": "marketable",
+                    "item_category2": "زیبایی و سلامت",
+                    "item_category3": "عطر و ادکلن",
+                    "item_category4": "عطر و ادکلن مردانه",
+                    "item_category5": "",
+                    "dimension19": "carousel-recommendation-trending"
+                },
+                "product_type": "product",
+                "test_title_fa": "",
+                "test_title_en": "",
+                "digiplus": {
+                    "services": [
+                        "۴ ارسال رایگان عادی",
+                        "۲ ارسال سوپرمارکت",
+                        "پشتیبانی اختصاصی",
+                        "ارسال فوری برای شهر تهران (رایگان)"
+                    ],
+                    "services_summary": [
+                        "ارسال فوری برای شهر تهران (رایگان)"
+                    ],
+                    "is_jet_eligible": true,
+                    "cash_back": 0,
+                    "is_general_location_jet_eligible": false,
+                    "fast_shipping_text": "ارسال امروز"
+                },
+                "has_fresh_touchpoint": false,
+                "platforms": [
+                    "digikala"
+                ],
+                "images": {
+                    "main": {
+                        "storage_ids": [],
+                        "url": [
+                            "https://dkstatics-public.digikala.com/digikala-products/d151426218aae59f7e4d824efb2e23f41315f122_1725884395.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80"
+                        ],
+                        "thumbnail_url": null,
+                        "temporary_id": null,
+                        "webp_url": [
+                            "https://dkstatics-public.digikala.com/digikala-products/d151426218aae59f7e4d824efb2e23f41315f122_1725884395.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/format,webp/quality,q_80"
+                        ]
+                    }
+                },
+                "properties": {
+                    "is_fast_shipping": false,
+                    "is_ship_by_seller": false,
+                    "free_shipping_badge": false,
+                    "is_multi_warehouse": false,
+                    "is_fake": false,
+                    "has_gift": false,
+                    "min_price_in_last_month": 4970000,
+                    "is_non_inventory": false,
+                    "is_ad": false,
+                    "ad": [],
+                    "is_jet_eligible": false,
+                    "is_medical_supplement": false
+                },
+                "badges": [],
+                "rating": {
+                    "rate": 51.111111111111114,
+                    "count": 9
+                },
+                "default_variant": {
+                    "id": 55020259,
+                    "lead_time": 0,
+                    "rank": 99.55,
+                    "rate": 54.6,
+                    "statistics": {
+                        "totally_satisfied": {
+                            "rate_count": 2,
+                            "rate": 18.18
+                        },
+                        "satisfied": {
+                            "rate_count": 2,
+                            "rate": 18.18
+                        },
+                        "neutral": {
+                            "rate_count": 2,
+                            "rate": 18.18
+                        },
+                        "dissatisfied": {
+                            "rate_count": 1,
+                            "rate": 9.09
+                        },
+                        "totally_dissatisfied": {
+                            "rate_count": 4,
+                            "rate": 36.36
+                        },
+                        "total_count": 11,
+                        "total_rate": 54.6
+                    },
+                    "status": "marketable",
+                    "properties": {
+                        "is_fast_shipping": false,
+                        "is_ship_by_seller": false,
+                        "is_multi_warehouse": false,
+                        "has_similar_variants": false,
+                        "is_rural": false,
+                        "in_digikala_warehouse": true
+                    },
+                    "digiplus": {
+                        "services": [
+                            "۴ ارسال رایگان عادی",
+                            "۲ ارسال سوپرمارکت",
+                            "پشتیبانی اختصاصی",
+                            "ارسال فوری برای شهر تهران (رایگان)"
+                        ],
+                        "services_summary": [
+                            "ارسال فوری برای شهر تهران (رایگان)"
+                        ],
+                        "is_jet_eligible": true,
+                        "cash_back": 0,
+                        "is_general_location_jet_eligible": false,
+                        "fast_shipping_text": "ارسال امروز"
+                    },
+                    "warranty": {
+                        "id": 272,
+                        "title_fa": "گارانتی اصالت و سلامت فیزیکی کالا",
+                        "title_en": "گارانتی اصالت و سلامت فیزیکی کالا"
+                    },
+                    "seller": {
+                        "id": 340091,
+                        "title": "ارنست استور",
+                        "code": "C9MGF",
+                        "url": "https://www.digikala.com/seller/C9MGF/",
+                        "rating": {
+                            "total_rate": 82,
+                            "total_count": 13559,
+                            "commitment": 99.9,
+                            "no_return": 100,
+                            "on_time_shipping": 94.4
+                        },
+                        "properties": {
+                            "is_trusted": true,
+                            "is_official": false,
+                            "is_roosta": false,
+                            "is_new": false
+                        },
+                        "stars": 4.7,
+                        "grade": {
+                            "label": "عالی",
+                            "color": "#00a049"
+                        },
+                        "logo": null,
+                        "registration_date": "4 سال و 7 ماه"
+                    },
+                    "digiclub": {
+                        "point": 144
+                    },
+                    "price": {
+                        "selling_price": 14400000,
+                        "rrp_price": 14400000,
+                        "order_limit": 2,
+                        "is_incredible": false,
+                        "is_promotion": false,
+                        "is_locked_for_digiplus": false,
+                        "bnpl_active": false,
+                        "discount_percent": 0,
+                        "is_plus_early_access": false
+                    },
+                    "shipment_methods": {
+                        "description": "موجود در انبار دیجی‌کالا",
+                        "has_lead_time": true,
+                        "providers": [
+                            {
+                                "title": "ارسال دیجی‌کالا",
+                                "description": "این کالا در انبار دیجی‌کالا موجود و آماده پردازش است و توسط پیک دیجی‌کالا در بازه انتخابی ارسال خواهد شد.",
+                                "has_lead_time": false,
+                                "type": "digikala"
+                            },
+                            {
+                                "title": "ارسال امروز (فعلا در شهر تهران و کرج)",
+                                "description": "اگر سفارش را قبل از ساعت ۶ عصر ثبت کنید، همان روز ارسال می‌شود. در صورت ثبت سفارش بعد از ساعت ۶ عصر، فردا ارسال خواهد شد.",
+                                "has_lead_time": false,
+                                "type": "jet"
+                            }
+                        ]
+                    },
+                    "has_importer_price": false,
+                    "manufacture_price_not_exist": false,
+                    "has_best_price_in_last_month": false,
+                    "buy_box_notices": [],
+                    "variant_badges": []
+                }
+            },
+            {
+                "id": 14498008,
+                "title_fa": "گوشی موبایل ریلمی مدل C67 4G دو سیم کارت ظرفیت 256 گیگابایت رم 8 گیگابایت",
+                "title_en": "Realme C67 4G Dual SIM 256GB and 8GB Ram mobile phone",
+                "url": {
+                    "base": null,
+                    "uri": "/product/dkp-14498008/گوشی-موبایل-ریلمی-مدل-c67-4g-دو-سیم-کارت-ظرفیت-256-گیگابایت-رم-8-گیگابایت"
+                },
+                "status": "marketable",
+                "has_quick_view": false,
+                "data_layer": {
+                    "brand": "ریلمی",
+                    "category": "[MO,گوشی موبایل]",
+                    "metric6": 86,
+                    "dimension2": 0,
+                    "dimension6": 0,
+                    "dimension7": "none",
+                    "dimension9": 4.4,
+                    "dimension11": 0,
+                    "dimension20": "marketable",
+                    "item_category2": "موبایل",
+                    "item_category3": "گوشی موبایل",
+                    "item_category4": "",
+                    "item_category5": "",
+                    "dimension19": "carousel-recommendation-trending"
+                },
+                "product_type": "product",
+                "test_title_fa": "",
+                "test_title_en": "",
+                "digiplus": {
+                    "services": [
+                        "۴ ارسال رایگان عادی",
+                        "۲ ارسال سوپرمارکت",
+                        "پشتیبانی اختصاصی"
+                    ],
+                    "services_summary": [
+                        "ارسال رایگان"
+                    ],
+                    "is_jet_eligible": false,
+                    "cash_back": 0,
+                    "is_general_location_jet_eligible": false,
+                    "fast_shipping_text": null
+                },
+                "has_fresh_touchpoint": false,
+                "platforms": [
+                    "digikala"
+                ],
+                "images": {
+                    "main": {
+                        "storage_ids": [],
+                        "url": [
+                            "https://dkstatics-public.digikala.com/digikala-products/e1761d9b7904e1c9f9443be244cd302eba34ad41_1708360224.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80"
+                        ],
+                        "thumbnail_url": null,
+                        "temporary_id": null,
+                        "webp_url": [
+                            "https://dkstatics-public.digikala.com/digikala-products/e1761d9b7904e1c9f9443be244cd302eba34ad41_1708360224.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/format,webp/quality,q_80"
+                        ]
+                    }
+                },
+                "properties": {
+                    "is_fast_shipping": false,
+                    "is_ship_by_seller": false,
+                    "free_shipping_badge": false,
+                    "is_multi_warehouse": false,
+                    "is_fake": false,
+                    "has_gift": false,
+                    "min_price_in_last_month": 88990000,
+                    "is_non_inventory": false,
+                    "is_ad": false,
+                    "ad": [],
+                    "is_jet_eligible": false,
+                    "is_medical_supplement": false
+                },
+                "badges": [
+                    {
+                        "icon": {
+                            "storage_ids": [],
+                            "url": [
+                                "https://dkstatics-public.digikala.com/digikala-static/40103386d101974d18b40cee05e8d62823a657fa_1678547065.png"
+                            ],
+                            "thumbnail_url": null,
+                            "temporary_id": null,
+                            "webp_url": null
+                        },
+                        "title": "ارسال رایگان"
+                    }
+                ],
+                "rating": {
+                    "rate": 87.90697674418607,
+                    "count": 86
+                },
+                "default_variant": {
+                    "id": 60644955,
+                    "lead_time": 1,
+                    "rank": 100,
+                    "rate": 100,
+                    "statistics": {
+                        "totally_satisfied": {
+                            "rate_count": 2,
+                            "rate": 100
+                        },
+                        "satisfied": {
+                            "rate_count": 0,
+                            "rate": 0
+                        },
+                        "neutral": {
+                            "rate_count": 0,
+                            "rate": 0
+                        },
+                        "dissatisfied": {
+                            "rate_count": 0,
+                            "rate": 0
+                        },
+                        "totally_dissatisfied": {
+                            "rate_count": 0,
+                            "rate": 0
+                        },
+                        "total_count": 2,
+                        "total_rate": 100
+                    },
+                    "status": "marketable",
+                    "properties": {
+                        "is_fast_shipping": false,
+                        "is_ship_by_seller": false,
+                        "is_multi_warehouse": false,
+                        "has_similar_variants": true,
+                        "is_rural": false,
+                        "in_digikala_warehouse": false
+                    },
+                    "digiplus": {
+                        "services": [
+                            "۴ ارسال رایگان عادی",
+                            "۲ ارسال سوپرمارکت",
+                            "پشتیبانی اختصاصی"
+                        ],
+                        "services_summary": [
+                            "ارسال رایگان"
+                        ],
+                        "is_jet_eligible": false,
+                        "cash_back": 0,
+                        "is_general_location_jet_eligible": false,
+                        "fast_shipping_text": null
+                    },
+                    "warranty": {
+                        "id": 8972,
+                        "title_fa": "گارانتی 18 ماهه پیشتازان فناوری سیب طلایی (سی تلکام)",
+                        "title_en": "گارانتی 18 ماهه پیشتازان فناوری سیب طلایی (سی تلکام)"
+                    },
+                    "color": {
+                        "id": 1,
+                        "title": "مشکی",
+                        "hex_code": "#212121"
+                    },
+                    "seller": {
+                        "id": 84498,
+                        "title": "سی تلکام",
+                        "code": "A3X32",
+                        "url": "https://www.digikala.com/seller/A3X32/",
+                        "rating": {
+                            "total_rate": 90,
+                            "total_count": 1088,
+                            "commitment": 99.5,
+                            "no_return": 99.9,
+                            "on_time_shipping": 99.8
+                        },
+                        "properties": {
+                            "is_trusted": true,
+                            "is_official": false,
+                            "is_roosta": false,
+                            "is_new": false
+                        },
+                        "stars": 5,
+                        "grade": {
+                            "label": "عالی",
+                            "color": "#00a049"
+                        },
+                        "logo": null,
+                        "registration_date": "6 سال و 1 ماه"
+                    },
+                    "digiclub": {
+                        "point": 150
+                    },
+                    "insurance": {
+                        "covers": [
+                            {
+                                "description": "جبران ۱۰۰ درصدی خسارات انواع سرقت",
+                                "maxCoverage": null,
+                                "maxUseCount": 1
+                            },
+                            {
+                                "description": "جبران ۱۰۰ درصدی انواع صدمات فیزیکی مانند ضربه دیدگی، شکستگی و آب‌خوردگی غیرعمدی",
+                                "maxCoverage": null,
+                                "maxUseCount": null
+                            },
+                            {
+                                "description": "جبران ۱۰۰ درصدی آتش‌سوزی و انفجار‌های غیرعمدی",
+                                "maxCoverage": null,
+                                "maxUseCount": null
+                            },
+                            {
+                                "description": "جبران ۱۰۰ درصدی سوختگی یا نیم‌سوز شدن، القای الکتریکی، اتصال کوتاه و نوسانات ولتاژ غیرعمدی",
+                                "maxCoverage": null,
+                                "maxUseCount": null
+                            },
+                            {
+                                "description": "همچنین تمام فرایند‌های بیمه دیجی‌پی از خرید تا دریافت خسارت آنلاین است.",
+                                "maxCoverage": null,
+                                "maxUseCount": null
+                            },
+                            {
+                                "description": "هزینه‌های دستگاه صدمه دیده حتی گوشی‌های آیفون در کمتر از ۴۸ ساعت بعد از اعلام خسارت پرداخت می‌شود.",
+                                "maxCoverage": null,
+                                "maxUseCount": null
+                            },
+                            {
+                                "description": "تعمیرات توسط متخصصین دیجی‌کالا سرویس انجام می‌شود و هر تعمیر ۳ ماه و هر قطعه تعمیر شده ۶ ماه گارانتی دارد.",
+                                "maxCoverage": null,
+                                "maxUseCount": null
+                            },
+                            {
+                                "description": "* توجه: برای استفاده از بیمه، بعد از دریافت کالای دیجیتال خود، به سایت دیجی‌پی، بخش بیمه تجهیزات و بعد پنل کاربری مراجعه کنید و بیمه خود را فعال کنید. در غیر این‌صورت امکان دانلود بیمه‌نامه و دریافت خسارت وجود ندارد.",
+                                "maxCoverage": null,
+                                "maxUseCount": null
+                            },
+                            {
+                                "description": "برای اعلام خسارت وارد پنل کاربری خود در سایت دیجی‌پی شوید و اطلاعات خود را تکمیل کنید.",
+                                "maxCoverage": null,
+                                "maxUseCount": null
+                            },
+                            {
+                                "description": "برای رفع مشکلات و سوالات خود می‌توانید در هفت روز هفته با شماره ۰۲۱۶۱۹۳۰۴۰۰ تماس بگیرید.",
+                                "maxCoverage": null,
+                                "maxUseCount": null
+                            }
+                        ],
+                        "base_premium": 1380000,
+                        "discount": 0,
+                        "tax": 124200,
+                        "total_premium": 1504200,
+                        "terms_and_conditions": "بران خسارات ناشی از ضربه خوردگی، شکستگی، آبخوردگی، سرقت با شکست حرز و کلیه حوادث مرتبط با دستگاه خریداری شده با کسورات و فرانشیز حداقل، بدون هزینه استهلاک \r\nارائه خدمات ویژه VIP، بدون هر گونه مراجعه فیزیکی",
+                        "before_discount": 3008400,
+                        "discount_percent": 50
+                    },
+                    "price": {
+                        "selling_price": 91990000,
+                        "rrp_price": 91990000,
+                        "order_limit": 4,
+                        "is_incredible": false,
+                        "is_promotion": false,
+                        "is_locked_for_digiplus": false,
+                        "bnpl_active": false,
+                        "discount_percent": 0,
+                        "is_plus_early_access": false
+                    },
+                    "shipment_methods": {
+                        "description": "موجود در انبار فروشنده",
+                        "has_lead_time": false,
+                        "providers": [
+                            {
+                                "title": "ارسال دیجی‌کالا از 1 روز کاری دیگر",
+                                "description": "این کالا پس از مدت زمان مشخص شده توسط فروشنده در انبار دیجی‌کالا تامین و آماده پردازش می‌گردد و توسط پیک دیجی‌کالا در بازه انتخابی ارسال خواهد شد.",
+                                "has_lead_time": true,
+                                "type": "digikala"
+                            }
+                        ]
+                    },
+                    "has_importer_price": false,
+                    "manufacture_price_not_exist": false,
+                    "has_best_price_in_last_month": false,
+                    "buy_box_notices": [],
+                    "variant_badges": []
+                }
+            },
+            {
+                "id": 2186758,
+                "title_fa": "کابل تبدیل USB به microUSB تسکو مدل TC A70 طول 1 متر ",
+                "title_en": "",
+                "url": {
+                    "base": null,
+                    "uri": "/product/dkp-2186758/کابل-تبدیل-usb-به-microusb-تسکو-مدل-tc-a70-طول-1-متر"
+                },
+                "status": "marketable",
+                "has_quick_view": false,
+                "data_layer": {
+                    "brand": "تسکو",
+                    "category": "[AC,کابل ومبدل]",
+                    "metric6": 8045,
+                    "dimension2": 0,
+                    "dimension6": 0,
+                    "dimension7": "none",
+                    "dimension9": 4.3,
+                    "dimension11": 0,
+                    "dimension20": "marketable",
+                    "item_category2": "کالای دیجیتال",
+                    "item_category3": "لوازم جانبی کالای دیجیتال",
+                    "item_category4": "لوازم جانبی گوشی موبایل",
+                    "item_category5": "کابل شارژ و مبدل",
+                    "dimension19": "carousel-recommendation-trending"
+                },
+                "product_type": "product",
+                "test_title_fa": "",
+                "test_title_en": "",
+                "digiplus": {
+                    "services": [
+                        "۴ ارسال رایگان عادی",
+                        "۲ ارسال سوپرمارکت",
+                        "پشتیبانی اختصاصی",
+                        "ارسال فوری برای شهر تهران (رایگان)"
+                    ],
+                    "services_summary": [
+                        "ارسال فوری برای شهر تهران (رایگان)"
+                    ],
+                    "is_jet_eligible": true,
+                    "cash_back": 0,
+                    "is_general_location_jet_eligible": false,
+                    "fast_shipping_text": "ارسال امروز"
+                },
+                "has_fresh_touchpoint": false,
+                "platforms": [
+                    "digikala"
+                ],
+                "images": {
+                    "main": {
+                        "storage_ids": [],
+                        "url": [
+                            "https://dkstatics-public.digikala.com/digikala-products/0ec9bde5ce97cff355bcde6cb98e8c4cfb394b70_1620722067.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80"
+                        ],
+                        "thumbnail_url": null,
+                        "temporary_id": null,
+                        "webp_url": [
+                            "https://dkstatics-public.digikala.com/digikala-products/0ec9bde5ce97cff355bcde6cb98e8c4cfb394b70_1620722067.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/format,webp/quality,q_80"
+                        ]
+                    }
+                },
+                "properties": {
+                    "is_fast_shipping": false,
+                    "is_ship_by_seller": true,
+                    "free_shipping_badge": false,
+                    "is_multi_warehouse": false,
+                    "is_fake": false,
+                    "has_gift": false,
+                    "min_price_in_last_month": 690000,
+                    "is_non_inventory": false,
+                    "is_ad": false,
+                    "ad": [],
+                    "is_jet_eligible": false,
+                    "is_medical_supplement": false
+                },
+                "badges": [],
+                "rating": {
+                    "rate": 84.99080174021131,
+                    "count": 8045
+                },
+                "default_variant": {
+                    "id": 49049854,
+                    "lead_time": 0,
+                    "rank": 99.85,
+                    "rate": 84.8,
+                    "statistics": {
+                        "totally_satisfied": {
+                            "rate_count": 30,
+                            "rate": 61.22
+                        },
+                        "satisfied": {
+                            "rate_count": 9,
+                            "rate": 18.37
+                        },
+                        "neutral": {
+                            "rate_count": 5,
+                            "rate": 10.2
+                        },
+                        "dissatisfied": {
+                            "rate_count": 2,
+                            "rate": 4.08
+                        },
+                        "totally_dissatisfied": {
+                            "rate_count": 3,
+                            "rate": 6.12
+                        },
+                        "total_count": 49,
+                        "total_rate": 84.8
+                    },
+                    "status": "marketable",
+                    "properties": {
+                        "is_fast_shipping": false,
+                        "is_ship_by_seller": true,
+                        "is_multi_warehouse": false,
+                        "has_similar_variants": false,
+                        "is_rural": false,
+                        "in_digikala_warehouse": false
+                    },
+                    "digiplus": {
+                        "services": [
+                            "۴ ارسال رایگان عادی",
+                            "۲ ارسال سوپرمارکت",
+                            "پشتیبانی اختصاصی",
+                            "ارسال فوری برای شهر تهران (رایگان)"
+                        ],
+                        "services_summary": [
+                            "ارسال فوری برای شهر تهران (رایگان)"
+                        ],
+                        "is_jet_eligible": true,
+                        "cash_back": 0,
+                        "is_general_location_jet_eligible": false,
+                        "fast_shipping_text": "ارسال امروز"
+                    },
+                    "warranty": {
+                        "id": 544,
+                        "title_fa": "گارانتی 12 ماهه توسن سیستم",
+                        "title_en": "گارانتی 12 ماهه توسن سیستم"
+                    },
+                    "color": {
+                        "id": 1,
+                        "title": "مشکی",
+                        "hex_code": "#212121"
+                    },
+                    "seller": {
+                        "id": 717769,
+                        "title": "پخش پویا قم",
+                        "code": "DGWEA",
+                        "url": "https://www.digikala.com/seller/DGWEA/",
+                        "rating": {
+                            "total_rate": 81,
+                            "total_count": 42081,
+                            "commitment": 100,
+                            "no_return": 99.3,
+                            "on_time_shipping": 99.4
+                        },
+                        "properties": {
+                            "is_trusted": false,
+                            "is_official": false,
+                            "is_roosta": false,
+                            "is_new": false
+                        },
+                        "stars": 5,
+                        "grade": {
+                            "label": "عالی",
+                            "color": "#00a049"
+                        },
+                        "logo": null,
+                        "registration_date": "3 سال و 5 ماه"
+                    },
+                    "digiclub": {
+                        "point": 10
+                    },
+                    "price": {
+                        "selling_price": 910000,
+                        "rrp_price": 910000,
+                        "order_limit": 30,
+                        "is_incredible": false,
+                        "is_promotion": false,
+                        "is_locked_for_digiplus": false,
+                        "bnpl_active": false,
+                        "discount_percent": 0,
+                        "is_plus_early_access": false
+                    },
+                    "shipment_methods": {
+                        "description": "موجود در انبار فروشنده و دیجی‌کالا",
+                        "has_lead_time": true,
+                        "providers": [
+                            {
+                                "title": "ارسال دیجی‌کالا",
+                                "description": "این کالا در انبار دیجی‌کالا موجود و آماده پردازش است و توسط پیک دیجی‌کالا در بازه انتخابی ارسال خواهد شد.",
+                                "has_lead_time": false,
+                                "type": "digikala"
+                            },
+                            {
+                                "title": "ارسال فروشنده از 1 روز کاری دیگر",
+                                "description": "این کالا در انبار فروشنده موجود و آماده پردازش است و امکان ارسال مستقیم توسط فروشنده دارد.",
+                                "has_lead_time": true,
+                                "type": "seller"
+                            },
+                            {
+                                "title": "ارسال امروز (فعلا در شهر تهران و کرج)",
+                                "description": "اگر سفارش را قبل از ساعت ۶ عصر ثبت کنید، همان روز ارسال می‌شود. در صورت ثبت سفارش بعد از ساعت ۶ عصر، فردا ارسال خواهد شد.",
+                                "has_lead_time": false,
+                                "type": "jet"
+                            }
+                        ]
+                    },
+                    "has_importer_price": false,
+                    "manufacture_price_not_exist": false,
+                    "has_best_price_in_last_month": false,
+                    "buy_box_notices": [],
+                    "variant_badges": []
+                }
+            },
+            {
+                "id": 14263211,
+                "title_fa": "ژل شستشوی صورت لایف استایل مدل چای سبز حجم 350 میلی لیتر",
+                "title_en": "",
+                "url": {
+                    "base": null,
+                    "uri": "/product/dkp-14263211/ژل-شستشوی-صورت-لایف-استایل-مدل-چای-سبز-حجم-350-میلی-لیتر"
+                },
+                "status": "marketable",
+                "has_quick_view": false,
+                "data_layer": {
+                    "brand": "لایف استایل",
+                    "category": "[BB,لوازم بهداشت آرایشی]",
+                    "metric6": 253,
+                    "dimension2": 6,
+                    "dimension6": 0,
+                    "dimension7": "none",
+                    "dimension9": 4.1,
+                    "dimension11": 0,
+                    "dimension20": "marketable",
+                    "item_category2": "زیبایی و سلامت",
+                    "item_category3": "مراقبت پوست",
+                    "item_category4": "پاک کننده آرایش صورت",
+                    "item_category5": "",
+                    "dimension19": "carousel-recommendation-trending"
+                },
+                "product_type": "product",
+                "test_title_fa": "ژل شست‌وشوی صورت لایف استایل، مناسب پوست‌های چرب، پاک‌کننده و کاهش دهنده چربی اضافی پوست، بدون پارابن، ترکیبات عصاره چای سبز، برای بانوان و آقایان، حجم 350 میلی‌لیتر، مدل چای سبز",
+                "test_title_en": "",
+                "digiplus": {
+                    "services": [
+                        "۴ ارسال رایگان عادی",
+                        "۲ ارسال سوپرمارکت",
+                        "پشتیبانی اختصاصی"
+                    ],
+                    "services_summary": [
+                        "ارسال رایگان"
+                    ],
+                    "is_jet_eligible": false,
+                    "cash_back": 0,
+                    "is_general_location_jet_eligible": false,
+                    "fast_shipping_text": null
+                },
+                "has_fresh_touchpoint": false,
+                "platforms": [
+                    "digikala"
+                ],
+                "images": {
+                    "main": {
+                        "storage_ids": [],
+                        "url": [
+                            "https://dkstatics-public.digikala.com/digikala-products/d7d586fdaf2142313e200fecbb6c7928bb290e76_1706610155.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80"
+                        ],
+                        "thumbnail_url": null,
+                        "temporary_id": null,
+                        "webp_url": [
+                            "https://dkstatics-public.digikala.com/digikala-products/d7d586fdaf2142313e200fecbb6c7928bb290e76_1706610155.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/format,webp/quality,q_80"
+                        ]
+                    }
+                },
+                "properties": {
+                    "is_fast_shipping": false,
+                    "is_ship_by_seller": false,
+                    "free_shipping_badge": false,
+                    "is_multi_warehouse": false,
+                    "is_fake": false,
+                    "has_gift": false,
+                    "min_price_in_last_month": 882000,
+                    "is_non_inventory": false,
+                    "is_ad": false,
+                    "ad": [],
+                    "is_jet_eligible": false,
+                    "is_medical_supplement": false
+                },
+                "badges": [],
+                "rating": {
+                    "rate": 80.9486166007905,
+                    "count": 253
+                },
+                "default_variant": {
+                    "id": 50242183,
+                    "lead_time": 2,
+                    "rank": 99.73,
+                    "rate": 73.4,
+                    "statistics": {
+                        "totally_satisfied": {
+                            "rate_count": 2,
+                            "rate": 66.67
+                        },
+                        "satisfied": {
+                            "rate_count": 0,
+                            "rate": 0
+                        },
+                        "neutral": {
+                            "rate_count": 0,
+                            "rate": 0
+                        },
+                        "dissatisfied": {
+                            "rate_count": 0,
+                            "rate": 0
+                        },
+                        "totally_dissatisfied": {
+                            "rate_count": 1,
+                            "rate": 33.33
+                        },
+                        "total_count": 3,
+                        "total_rate": 73.4
+                    },
+                    "status": "marketable",
+                    "properties": {
+                        "is_fast_shipping": false,
+                        "is_ship_by_seller": false,
+                        "is_multi_warehouse": false,
+                        "has_similar_variants": true,
+                        "is_rural": false,
+                        "in_digikala_warehouse": false
+                    },
+                    "digiplus": {
+                        "services": [
+                            "۴ ارسال رایگان عادی",
+                            "۲ ارسال سوپرمارکت",
+                            "پشتیبانی اختصاصی"
+                        ],
+                        "services_summary": [
+                            "ارسال رایگان"
+                        ],
+                        "is_jet_eligible": false,
+                        "cash_back": 0,
+                        "is_general_location_jet_eligible": false,
+                        "fast_shipping_text": null
+                    },
+                    "warranty": {
+                        "id": 272,
+                        "title_fa": "گارانتی اصالت و سلامت فیزیکی کالا",
+                        "title_en": "گارانتی اصالت و سلامت فیزیکی کالا"
+                    },
+                    "seller": {
+                        "id": 1427133,
+                        "title": "راندامهر",
+                        "code": "FZM7M",
+                        "url": "https://www.digikala.com/seller/FZM7M/",
+                        "rating": {
+                            "total_rate": 82,
+                            "total_count": 151,
+                            "commitment": 94.7,
+                            "no_return": 100,
+                            "on_time_shipping": 80.4
+                        },
+                        "properties": {
+                            "is_trusted": false,
+                            "is_official": false,
+                            "is_roosta": false,
+                            "is_new": false
+                        },
+                        "stars": 3.05,
+                        "grade": {
+                            "label": "خیلی خوب",
+                            "color": "#b1b64d"
+                        },
+                        "logo": null,
+                        "registration_date": "9 ماه و 2 هفته"
+                    },
+                    "digiclub": {
+                        "point": 19
+                    },
+                    "price": {
+                        "selling_price": 1850000,
+                        "rrp_price": 1960000,
+                        "order_limit": 1,
+                        "is_incredible": false,
+                        "is_promotion": false,
+                        "is_locked_for_digiplus": false,
+                        "bnpl_active": false,
+                        "marketable_stock": 2,
+                        "discount_percent": 6,
+                        "is_plus_early_access": false
+                    },
+                    "shipment_methods": {
+                        "description": "موجود در انبار فروشنده",
+                        "has_lead_time": false,
+                        "providers": [
+                            {
+                                "title": "ارسال دیجی‌کالا از 2 روز کاری دیگر",
+                                "description": "این کالا پس از مدت زمان مشخص شده توسط فروشنده در انبار دیجی‌کالا تامین و آماده پردازش می‌گردد و توسط پیک دیجی‌کالا در بازه انتخابی ارسال خواهد شد.",
+                                "has_lead_time": true,
+                                "type": "digikala"
+                            }
+                        ]
+                    },
+                    "has_importer_price": false,
+                    "manufacture_price_not_exist": false,
+                    "has_best_price_in_last_month": false,
+                    "buy_box_notices": [],
+                    "variant_badges": [
+                        {
+                            "id": -1,
+                            "type": "simple",
+                            "slot": "pdp_above_add_to_cart",
+                            "priority": 0,
+                            "payload": {
+                                "text": "تنها 2 عدد در انبار باقی مانده",
+                                "text_color": "#d32f2f",
+                                "icon": null,
+                                "svg_icon": "https://dkstatics-public.digikala.com/digikala-static/54419b9303246cde131fcb5b251b86f2ab4aeb71_1716833765.svg"
+                            }
+                        }
+                    ]
+                }
+            },
+            {
+                "id": 12550589,
+                "title_fa": "    لوستر ام کی ای لایتینگ مدل مدرن کد Ringo-s-b60",
+                "title_en": "",
+                "url": {
+                    "base": null,
+                    "uri": "/product/dkp-12550589/لوستر-ام-کی-ای-لایتینگ-مدل-مدرن-کد-ringo-s-b60"
+                },
+                "status": "marketable",
+                "has_quick_view": false,
+                "data_layer": {
+                    "brand": "ام کی ای لایتینگ",
+                    "category": "[TL,نور و روشنایی]",
+                    "metric6": 62,
+                    "dimension2": 0,
+                    "dimension6": 0,
+                    "dimension7": "none",
+                    "dimension9": 4.7,
+                    "dimension11": 0,
+                    "dimension20": "marketable",
+                    "item_category2": "خانه و آشپزخانه",
+                    "item_category3": "روشنایی و الکتریکی",
+                    "item_category4": "نور و روشنایی",
+                    "item_category5": "چراغ تزئینی",
+                    "dimension19": "carousel-recommendation-trending"
+                },
+                "product_type": "product",
+                "test_title_fa": "",
+                "test_title_en": "",
+                "digiplus": {
+                    "services": [
+                        "۴ ارسال رایگان عادی",
+                        "۲ ارسال سوپرمارکت",
+                        "پشتیبانی اختصاصی"
+                    ],
+                    "services_summary": [
+                        "ارسال رایگان"
+                    ],
+                    "is_jet_eligible": false,
+                    "cash_back": 0,
+                    "is_general_location_jet_eligible": false,
+                    "fast_shipping_text": null
+                },
+                "has_fresh_touchpoint": false,
+                "platforms": [
+                    "digikala"
+                ],
+                "images": {
+                    "main": {
+                        "storage_ids": [],
+                        "url": [
+                            "https://dkstatics-public.digikala.com/digikala-products/622ca9c72bda3443a71de9475de6e6f54e58ceb1_1693551357.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80"
+                        ],
+                        "thumbnail_url": null,
+                        "temporary_id": null,
+                        "webp_url": [
+                            "https://dkstatics-public.digikala.com/digikala-products/622ca9c72bda3443a71de9475de6e6f54e58ceb1_1693551357.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/format,webp/quality,q_80"
+                        ]
+                    }
+                },
+                "properties": {
+                    "is_fast_shipping": false,
+                    "is_ship_by_seller": false,
+                    "free_shipping_badge": false,
+                    "is_multi_warehouse": false,
+                    "is_fake": false,
+                    "has_gift": false,
+                    "min_price_in_last_month": 24500000,
+                    "is_non_inventory": false,
+                    "is_ad": false,
+                    "ad": [],
+                    "is_jet_eligible": false,
+                    "is_medical_supplement": false
+                },
+                "badges": [],
+                "rating": {
+                    "rate": 93.2258064516129,
+                    "count": 62
+                },
+                "default_variant": {
+                    "id": 51542894,
+                    "lead_time": 0,
+                    "rank": 99.92,
+                    "rate": 92.4,
+                    "statistics": {
+                        "totally_satisfied": {
+                            "rate_count": 35,
+                            "rate": 74.47
+                        },
+                        "satisfied": {
+                            "rate_count": 9,
+                            "rate": 19.15
+                        },
+                        "neutral": {
+                            "rate_count": 1,
+                            "rate": 2.13
+                        },
+                        "dissatisfied": {
+                            "rate_count": 1,
+                            "rate": 2.13
+                        },
+                        "totally_dissatisfied": {
+                            "rate_count": 1,
+                            "rate": 2.13
+                        },
+                        "total_count": 47,
+                        "total_rate": 92.4
+                    },
+                    "status": "marketable",
+                    "properties": {
+                        "is_fast_shipping": false,
+                        "is_ship_by_seller": false,
+                        "is_multi_warehouse": false,
+                        "has_similar_variants": true,
+                        "is_rural": false,
+                        "in_digikala_warehouse": true
+                    },
+                    "digiplus": {
+                        "services": [
+                            "۴ ارسال رایگان عادی",
+                            "۲ ارسال سوپرمارکت",
+                            "پشتیبانی اختصاصی"
+                        ],
+                        "services_summary": [
+                            "ارسال رایگان"
+                        ],
+                        "is_jet_eligible": false,
+                        "cash_back": 0,
+                        "is_general_location_jet_eligible": false,
+                        "fast_shipping_text": null
+                    },
+                    "warranty": {
+                        "id": 7566,
+                        "title_fa": "گارانتی 12 ماهه ام کی ا لایتینگ",
+                        "title_en": "گارانتی 12 ماهه ام کی ا لایتینگ"
+                    },
+                    "color": {
+                        "id": 32,
+                        "title": "چند رنگ",
+                        "hex_code": "#C71585"
+                    },
+                    "seller": {
+                        "id": 1,
+                        "title": "دیجی‌کالا",
+                        "code": "5A52N",
+                        "url": "https://www.digikala.com/seller/5A52N/",
+                        "rating": {
+                            "total_rate": 0,
+                            "total_count": 0,
+                            "commitment": 100,
+                            "no_return": 99.9,
+                            "on_time_shipping": 100
+                        },
+                        "properties": {
+                            "is_trusted": false,
+                            "is_official": false,
+                            "is_roosta": false,
+                            "is_new": false
+                        },
+                        "stars": 5,
+                        "grade": {
+                            "label": "عالی",
+                            "color": "#00a049"
+                        },
+                        "logo": null,
+                        "registration_date": "8 سال و 4 ماه"
+                    },
+                    "digiclub": {
+                        "point": 150
+                    },
+                    "price": {
+                        "selling_price": 32000000,
+                        "rrp_price": 32000000,
+                        "order_limit": 12,
+                        "is_incredible": false,
+                        "is_promotion": false,
+                        "is_locked_for_digiplus": false,
+                        "bnpl_active": false,
+                        "discount_percent": 0,
+                        "is_plus_early_access": false
+                    },
+                    "shipment_methods": {
+                        "description": "موجود در انبار دیجی‌کالا",
+                        "has_lead_time": true,
+                        "providers": [
+                            {
+                                "title": "ارسال دیجی‌کالا",
+                                "description": "این کالا در انبار دیجی‌کالا موجود و آماده پردازش است و توسط پیک دیجی‌کالا در بازه انتخابی ارسال خواهد شد.",
+                                "has_lead_time": false,
+                                "type": "digikala"
+                            }
+                        ]
+                    },
+                    "has_importer_price": false,
+                    "manufacture_price_not_exist": false,
+                    "has_best_price_in_last_month": false,
+                    "buy_box_notices": [],
+                    "variant_badges": []
+                }
+            },
+            {
+                "id": 9892799,
+                "title_fa": "کارواش رگنار مدل RG-U110",
+                "title_en": "",
+                "url": {
+                    "base": null,
+                    "uri": "/product/dkp-9892799/کارواش-رگنار-مدل-rg-u110"
+                },
+                "status": "marketable",
+                "has_quick_view": false,
+                "data_layer": {
+                    "brand": "رگنار",
+                    "category": "[TL,ابزار برقی]",
+                    "metric6": 48,
+                    "dimension2": 0,
+                    "dimension6": 0,
+                    "dimension7": "none",
+                    "dimension9": 4.2,
+                    "dimension11": 0,
+                    "dimension20": "marketable",
+                    "item_category2": "خودرو و موتورسیکلت",
+                    "item_category3": "لوازم جانبی خودرو",
+                    "item_category4": "نظافت و نگهداری خودرو",
+                    "item_category5": "کارواش",
+                    "dimension19": "carousel-recommendation-trending"
+                },
+                "product_type": "product",
+                "test_title_fa": "",
+                "test_title_en": "",
+                "digiplus": {
+                    "services": [
+                        "۴ ارسال رایگان عادی",
+                        "۲ ارسال سوپرمارکت",
+                        "پشتیبانی اختصاصی"
+                    ],
+                    "services_summary": [
+                        "ارسال رایگان"
+                    ],
+                    "is_jet_eligible": false,
+                    "cash_back": 0,
+                    "is_general_location_jet_eligible": false,
+                    "fast_shipping_text": null
+                },
+                "has_fresh_touchpoint": false,
+                "platforms": [
+                    "digikala"
+                ],
+                "images": {
+                    "main": {
+                        "storage_ids": [],
+                        "url": [
+                            "https://dkstatics-public.digikala.com/digikala-products/8bdde8fadf203a2f4ed8978b3fe9b3f5b0ca85eb_1668604743.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80"
+                        ],
+                        "thumbnail_url": null,
+                        "temporary_id": null,
+                        "webp_url": [
+                            "https://dkstatics-public.digikala.com/digikala-products/8bdde8fadf203a2f4ed8978b3fe9b3f5b0ca85eb_1668604743.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/format,webp/quality,q_80"
+                        ]
+                    }
+                },
+                "properties": {
+                    "is_fast_shipping": false,
+                    "is_ship_by_seller": false,
+                    "free_shipping_badge": false,
+                    "is_multi_warehouse": false,
+                    "is_fake": false,
+                    "has_gift": false,
+                    "min_price_in_last_month": 29900000,
+                    "is_non_inventory": false,
+                    "is_ad": false,
+                    "ad": [],
+                    "is_jet_eligible": false,
+                    "is_medical_supplement": false
+                },
+                "badges": [],
+                "rating": {
+                    "rate": 82.5,
+                    "count": 48
+                },
+                "default_variant": {
+                    "id": 58455383,
+                    "lead_time": 1,
+                    "rank": 95.34,
+                    "rate": 0,
+                    "statistics": null,
+                    "status": "marketable",
+                    "properties": {
+                        "is_fast_shipping": false,
+                        "is_ship_by_seller": false,
+                        "is_multi_warehouse": false,
+                        "has_similar_variants": true,
+                        "is_rural": false,
+                        "in_digikala_warehouse": false
+                    },
+                    "digiplus": {
+                        "services": [
+                            "۴ ارسال رایگان عادی",
+                            "۲ ارسال سوپرمارکت",
+                            "پشتیبانی اختصاصی"
+                        ],
+                        "services_summary": [
+                            "ارسال رایگان"
+                        ],
+                        "is_jet_eligible": false,
+                        "cash_back": 0,
+                        "is_general_location_jet_eligible": false,
+                        "fast_shipping_text": null
+                    },
+                    "warranty": {
+                        "id": 9156,
+                        "title_fa": "گارانتی 12 ماهه رگنار",
+                        "title_en": "گارانتی 12 ماهه رگنار"
+                    },
+                    "seller": {
+                        "id": 323231,
+                        "title": "ابزارسلیم",
+                        "code": "C6V2E",
+                        "url": "https://www.digikala.com/seller/C6V2E/",
+                        "rating": {
+                            "total_rate": 84,
+                            "total_count": 33833,
+                            "commitment": 99.9,
+                            "no_return": 99.6,
+                            "on_time_shipping": 92.9
+                        },
+                        "properties": {
+                            "is_trusted": true,
+                            "is_official": false,
+                            "is_roosta": false,
+                            "is_new": false
+                        },
+                        "stars": 4.55,
+                        "grade": {
+                            "label": "عالی",
+                            "color": "#00a049"
+                        },
+                        "logo": null,
+                        "registration_date": "4 سال و 8 ماه"
+                    },
+                    "digiclub": {
+                        "point": 150
+                    },
+                    "price": {
+                        "selling_price": 45801300,
+                        "rrp_price": 45801300,
+                        "order_limit": 1,
+                        "is_incredible": false,
+                        "is_promotion": false,
+                        "is_locked_for_digiplus": false,
+                        "bnpl_active": false,
+                        "marketable_stock": 3,
+                        "discount_percent": 0,
+                        "is_plus_early_access": false
+                    },
+                    "shipment_methods": {
+                        "description": "موجود در انبار فروشنده",
+                        "has_lead_time": false,
+                        "providers": [
+                            {
+                                "title": "ارسال دیجی‌کالا از 1 روز کاری دیگر",
+                                "description": "این کالا پس از مدت زمان مشخص شده توسط فروشنده در انبار دیجی‌کالا تامین و آماده پردازش می‌گردد و توسط پیک دیجی‌کالا در بازه انتخابی ارسال خواهد شد.",
+                                "has_lead_time": true,
+                                "type": "digikala"
+                            }
+                        ]
+                    },
+                    "has_importer_price": false,
+                    "manufacture_price_not_exist": false,
+                    "has_best_price_in_last_month": false,
+                    "buy_box_notices": [],
+                    "variant_badges": [
+                        {
+                            "id": -1,
+                            "type": "simple",
+                            "slot": "pdp_above_add_to_cart",
+                            "priority": 0,
+                            "payload": {
+                                "text": "تنها 3 عدد در انبار باقی مانده",
+                                "text_color": "#d32f2f",
+                                "icon": null,
+                                "svg_icon": "https://dkstatics-public.digikala.com/digikala-static/54419b9303246cde131fcb5b251b86f2ab4aeb71_1716833765.svg"
+                            }
+                        }
+                    ]
+                }
+            },
+            {
+                "id": 13247004,
+                "title_fa": "فشارسنج دیجیتال جامپر مدل  JPD-HA101",
+                "title_en": "",
+                "url": {
+                    "base": null,
+                    "uri": "/product/dkp-13247004/فشارسنج-دیجیتال-جامپر-مدل-jpd-ha101"
+                },
+                "status": "marketable",
+                "has_quick_view": false,
+                "data_layer": {
+                    "brand": "جامپر",
+                    "category": "[HP,تجهیزات پزشکی]",
+                    "metric6": 211,
+                    "dimension2": 12,
+                    "dimension6": 0,
+                    "dimension7": "none",
+                    "dimension9": 4.3,
+                    "dimension11": 0,
+                    "dimension20": "marketable",
+                    "item_category2": "زیبایی و سلامت",
+                    "item_category3": "ابزار سلامت",
+                    "item_category4": "تجهیزات پزشکی",
+                    "item_category5": "فشارسنج",
+                    "dimension19": "carousel-recommendation-trending"
+                },
+                "product_type": "product",
+                "test_title_fa": "",
+                "test_title_en": "",
+                "digiplus": {
+                    "services": [
+                        "۴ ارسال رایگان عادی",
+                        "۲ ارسال سوپرمارکت",
+                        "پشتیبانی اختصاصی",
+                        "ارسال فوری برای شهر تهران (رایگان)"
+                    ],
+                    "services_summary": [
+                        "ارسال فوری برای شهر تهران (رایگان)"
+                    ],
+                    "is_jet_eligible": true,
+                    "cash_back": 0,
+                    "is_general_location_jet_eligible": false,
+                    "fast_shipping_text": "ارسال امروز"
+                },
+                "has_fresh_touchpoint": false,
+                "platforms": [
+                    "digikala"
+                ],
+                "images": {
+                    "main": {
+                        "storage_ids": [],
+                        "url": [
+                            "https://dkstatics-public.digikala.com/digikala-products/f61617875c54d6a6d77668f485f2c0f0f4a61d05_1700908431.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80"
+                        ],
+                        "thumbnail_url": null,
+                        "temporary_id": null,
+                        "webp_url": [
+                            "https://dkstatics-public.digikala.com/digikala-products/f61617875c54d6a6d77668f485f2c0f0f4a61d05_1700908431.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/format,webp/quality,q_80"
+                        ]
+                    }
+                },
+                "properties": {
+                    "is_fast_shipping": false,
+                    "is_ship_by_seller": false,
+                    "free_shipping_badge": false,
+                    "is_multi_warehouse": false,
+                    "is_fake": false,
+                    "has_gift": false,
+                    "min_price_in_last_month": 13330000,
+                    "is_non_inventory": false,
+                    "is_ad": false,
+                    "ad": [],
+                    "is_jet_eligible": false,
+                    "is_medical_supplement": false
+                },
+                "badges": [],
+                "rating": {
+                    "rate": 84.83412322274881,
+                    "count": 211
+                },
+                "default_variant": {
+                    "id": 56182419,
+                    "lead_time": 0,
+                    "rank": 99.04,
+                    "rate": 100,
+                    "statistics": {
+                        "totally_satisfied": {
+                            "rate_count": 1,
+                            "rate": 100
+                        },
+                        "satisfied": {
+                            "rate_count": 0,
+                            "rate": 0
+                        },
+                        "neutral": {
+                            "rate_count": 0,
+                            "rate": 0
+                        },
+                        "dissatisfied": {
+                            "rate_count": 0,
+                            "rate": 0
+                        },
+                        "totally_dissatisfied": {
+                            "rate_count": 0,
+                            "rate": 0
+                        },
+                        "total_count": 1,
+                        "total_rate": 100
+                    },
+                    "status": "marketable",
+                    "properties": {
+                        "is_fast_shipping": false,
+                        "is_ship_by_seller": false,
+                        "is_multi_warehouse": false,
+                        "has_similar_variants": true,
+                        "is_rural": false,
+                        "in_digikala_warehouse": true
+                    },
+                    "digiplus": {
+                        "services": [
+                            "۴ ارسال رایگان عادی",
+                            "۲ ارسال سوپرمارکت",
+                            "پشتیبانی اختصاصی",
+                            "ارسال فوری برای شهر تهران (رایگان)"
+                        ],
+                        "services_summary": [
+                            "ارسال فوری برای شهر تهران (رایگان)"
+                        ],
+                        "is_jet_eligible": true,
+                        "cash_back": 0,
+                        "is_general_location_jet_eligible": false,
+                        "fast_shipping_text": "ارسال امروز"
+                    },
+                    "warranty": {
+                        "id": 6186,
+                        "title_fa": "گارانتی 24 ماهه سیناکر",
+                        "title_en": "گارانتی 24 ماهه سیناکر"
+                    },
+                    "seller": {
+                        "id": 1092826,
+                        "title": "درمان طب پارس",
+                        "code": "EYPJY",
+                        "url": "https://www.digikala.com/seller/EYPJY/",
+                        "rating": {
+                            "total_rate": 86,
+                            "total_count": 1972,
+                            "commitment": 100,
+                            "no_return": 98.4,
+                            "on_time_shipping": 100
+                        },
+                        "properties": {
+                            "is_trusted": true,
+                            "is_official": false,
+                            "is_roosta": false,
+                            "is_new": false
+                        },
+                        "stars": 4.55,
+                        "grade": {
+                            "label": "عالی",
+                            "color": "#00a049"
+                        },
+                        "logo": null,
+                        "registration_date": "1 سال و 8 ماه"
+                    },
+                    "digiclub": {
+                        "point": 150
+                    },
+                    "price": {
+                        "selling_price": 19350000,
+                        "rrp_price": 22000000,
+                        "order_limit": 6,
+                        "is_incredible": false,
+                        "is_promotion": false,
+                        "is_locked_for_digiplus": false,
+                        "bnpl_active": false,
+                        "discount_percent": 12,
+                        "is_plus_early_access": false
+                    },
+                    "shipment_methods": {
+                        "description": "موجود در انبار دیجی‌کالا",
+                        "has_lead_time": true,
+                        "providers": [
+                            {
+                                "title": "ارسال دیجی‌کالا",
+                                "description": "این کالا در انبار دیجی‌کالا موجود و آماده پردازش است و توسط پیک دیجی‌کالا در بازه انتخابی ارسال خواهد شد.",
+                                "has_lead_time": false,
+                                "type": "digikala"
+                            },
+                            {
+                                "title": "ارسال امروز (فعلا در شهر تهران و کرج)",
+                                "description": "اگر سفارش را قبل از ساعت ۶ عصر ثبت کنید، همان روز ارسال می‌شود. در صورت ثبت سفارش بعد از ساعت ۶ عصر، فردا ارسال خواهد شد.",
+                                "has_lead_time": false,
+                                "type": "jet"
+                            }
+                        ]
+                    },
+                    "has_importer_price": false,
+                    "manufacture_price_not_exist": false,
+                    "has_best_price_in_last_month": false,
+                    "buy_box_notices": [],
+                    "variant_badges": []
+                }
+            },
+            {
+                "id": 12308944,
+                "title_fa": "ماشین اصلاح موی صورت فیلیپس مدل  QP1424 به همراه تیغ یدک",
+                "title_en": "",
+                "url": {
+                    "base": null,
+                    "uri": "/product/dkp-12308944/ماشین-اصلاح-موی-صورت-فیلیپس-مدل-qp1424-به-همراه-تیغ-یدک"
+                },
+                "status": "marketable",
+                "has_quick_view": false,
+                "data_layer": {
+                    "brand": "فیلیپس",
+                    "category": "[HP,لوازم شخصی برقی]",
+                    "metric6": 38,
+                    "dimension2": 0,
+                    "dimension6": 0,
+                    "dimension7": "none",
+                    "dimension9": 4,
+                    "dimension11": 0,
+                    "dimension20": "marketable",
+                    "item_category2": "زیبایی و سلامت",
+                    "item_category3": "لوازم شخصی برقی",
+                    "item_category4": "اصلاح موی صورت",
+                    "item_category5": "",
+                    "dimension19": "carousel-recommendation-trending"
+                },
+                "product_type": "product",
+                "test_title_fa": "ماشین اصلاح موی صورت فیلیپس مدل QP1424 به همراه تیغ یدک، استفاده به صورت خشک و مرطوب، منبع انرژی باتری، تکنولوژی اصلاح به صورت برش مستقیم، مدت زمان استفاده پس از شارژ 30 دقیقه، به همراه برس تمیزکننده",
+                "test_title_en": "",
+                "digiplus": {
+                    "services": [
+                        "۴ ارسال رایگان عادی",
+                        "۲ ارسال سوپرمارکت",
+                        "پشتیبانی اختصاصی"
+                    ],
+                    "services_summary": [
+                        "ارسال رایگان"
+                    ],
+                    "is_jet_eligible": false,
+                    "cash_back": 0,
+                    "is_general_location_jet_eligible": false,
+                    "fast_shipping_text": null
+                },
+                "has_fresh_touchpoint": false,
+                "platforms": [
+                    "digikala"
+                ],
+                "images": {
+                    "main": {
+                        "storage_ids": [],
+                        "url": [
+                            "https://dkstatics-public.digikala.com/digikala-products/7c5ffa410b5d76434ecf041f90dbbee8bf717a98_1691500050.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80"
+                        ],
+                        "thumbnail_url": null,
+                        "temporary_id": null,
+                        "webp_url": [
+                            "https://dkstatics-public.digikala.com/digikala-products/7c5ffa410b5d76434ecf041f90dbbee8bf717a98_1691500050.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/format,webp/quality,q_80"
+                        ]
+                    }
+                },
+                "properties": {
+                    "is_fast_shipping": false,
+                    "is_ship_by_seller": true,
+                    "free_shipping_badge": false,
+                    "is_multi_warehouse": false,
+                    "is_fake": false,
+                    "has_gift": false,
+                    "min_price_in_last_month": 16000000,
+                    "is_non_inventory": false,
+                    "is_ad": false,
+                    "ad": [],
+                    "is_jet_eligible": false,
+                    "is_medical_supplement": false
+                },
+                "badges": [],
+                "rating": {
+                    "rate": 79.47368421052632,
+                    "count": 38
+                },
+                "default_variant": {
+                    "id": 55584992,
+                    "lead_time": 0,
+                    "rank": 99.79,
+                    "rate": 88,
+                    "statistics": {
+                        "totally_satisfied": {
+                            "rate_count": 3,
+                            "rate": 60
+                        },
+                        "satisfied": {
+                            "rate_count": 1,
+                            "rate": 20
+                        },
+                        "neutral": {
+                            "rate_count": 1,
+                            "rate": 20
+                        },
+                        "dissatisfied": {
+                            "rate_count": 0,
+                            "rate": 0
+                        },
+                        "totally_dissatisfied": {
+                            "rate_count": 0,
+                            "rate": 0
+                        },
+                        "total_count": 5,
+                        "total_rate": 88
+                    },
+                    "status": "marketable",
+                    "properties": {
+                        "is_fast_shipping": false,
+                        "is_ship_by_seller": true,
+                        "is_multi_warehouse": false,
+                        "has_similar_variants": false,
+                        "is_rural": false,
+                        "in_digikala_warehouse": false
+                    },
+                    "digiplus": {
+                        "services": [
+                            "۴ ارسال رایگان عادی",
+                            "۲ ارسال سوپرمارکت",
+                            "پشتیبانی اختصاصی"
+                        ],
+                        "services_summary": [
+                            "ارسال رایگان"
+                        ],
+                        "is_jet_eligible": false,
+                        "cash_back": 0,
+                        "is_general_location_jet_eligible": false,
+                        "fast_shipping_text": null
+                    },
+                    "warranty": {
+                        "id": 2565,
+                        "title_fa": "گارانتی 18 ماهه آریا کیش",
+                        "title_en": "گارانتی 18 ماهه آریا کیش"
+                    },
+                    "color": {
+                        "id": 55,
+                        "title": "مشکی مات",
+                        "hex_code": "#443c3c"
+                    },
+                    "seller": {
+                        "id": 525890,
+                        "title": "بانوسان",
+                        "code": "CV37C",
+                        "url": "https://www.digikala.com/seller/CV37C/",
+                        "rating": {
+                            "total_rate": 79,
+                            "total_count": 3109,
+                            "commitment": 100,
+                            "no_return": 99.1,
+                            "on_time_shipping": 100
+                        },
+                        "properties": {
+                            "is_trusted": false,
+                            "is_official": false,
+                            "is_roosta": false,
+                            "is_new": false
+                        },
+                        "stars": 5,
+                        "grade": {
+                            "label": "عالی",
+                            "color": "#00a049"
+                        },
+                        "logo": null,
+                        "registration_date": "4 سال و 1 هفته"
+                    },
+                    "digiclub": {
+                        "point": 150
+                    },
+                    "price": {
+                        "selling_price": 21390200,
+                        "rrp_price": 21390200,
+                        "order_limit": 1,
+                        "is_incredible": false,
+                        "is_promotion": false,
+                        "is_locked_for_digiplus": false,
+                        "bnpl_active": false,
+                        "marketable_stock": 1,
+                        "discount_percent": 0,
+                        "is_plus_early_access": false
+                    },
+                    "shipment_methods": {
+                        "description": "موجود در انبار فروشنده",
+                        "has_lead_time": true,
+                        "providers": [
+                            {
+                                "title": "ارسال فروشنده",
+                                "description": "این کالا در انبار فروشنده موجود و آماده پردازش است و امکان ارسال مستقیم توسط فروشنده دارد.",
+                                "has_lead_time": false,
+                                "type": "seller"
+                            }
+                        ]
+                    },
+                    "has_importer_price": false,
+                    "manufacture_price_not_exist": false,
+                    "has_best_price_in_last_month": false,
+                    "buy_box_notices": [],
+                    "variant_badges": [
+                        {
+                            "id": -1,
+                            "type": "simple",
+                            "slot": "pdp_above_add_to_cart",
+                            "priority": 0,
+                            "payload": {
+                                "text": "تنها 1 عدد در انبار باقی مانده",
+                                "text_color": "#d32f2f",
+                                "icon": null,
+                                "svg_icon": "https://dkstatics-public.digikala.com/digikala-static/54419b9303246cde131fcb5b251b86f2ab4aeb71_1716833765.svg"
+                            }
+                        }
+                    ]
+                }
+            },
+            {
+                "id": 9996157,
+                "title_fa": "شورت مردانه آوین مدل پادار سوپر نخ پنبه کد 26",
+                "title_en": "",
+                "url": {
+                    "base": null,
+                    "uri": "/product/dkp-9996157/شورت-مردانه-آوین-مدل-پادار-سوپر-نخ-پنبه-کد-26"
+                },
+                "status": "marketable",
+                "has_quick_view": false,
+                "data_layer": {
+                    "brand": "متفرقه",
+                    "category": "[RW,لباس زیر مردانه]",
+                    "metric6": 539,
+                    "dimension2": 0,
+                    "dimension6": 0,
+                    "dimension7": "none",
+                    "dimension9": 4.2,
+                    "dimension11": 0,
+                    "dimension20": "marketable",
+                    "item_category2": "مد و پوشاک",
+                    "item_category3": "مردانه",
+                    "item_category4": "لباس مردانه",
+                    "item_category5": "لباس زیر مردانه",
+                    "dimension19": "carousel-recommendation-trending"
+                },
+                "product_type": "product",
+                "test_title_fa": "",
+                "test_title_en": "",
+                "digiplus": {
+                    "services": [
+                        "۴ ارسال رایگان عادی",
+                        "۲ ارسال سوپرمارکت",
+                        "پشتیبانی اختصاصی",
+                        "ارسال فوری برای شهر تهران (رایگان)"
+                    ],
+                    "services_summary": [
+                        "ارسال فوری برای شهر تهران (رایگان)"
+                    ],
+                    "is_jet_eligible": true,
+                    "cash_back": 0,
+                    "is_general_location_jet_eligible": false,
+                    "fast_shipping_text": "ارسال امروز"
+                },
+                "has_fresh_touchpoint": false,
+                "platforms": [
+                    "digikala"
+                ],
+                "images": {
+                    "main": {
+                        "storage_ids": [],
+                        "url": [
+                            "https://dkstatics-public.digikala.com/digikala-products/5a81f8837ff2686f22e657f9642116800598899e_1669667677.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80"
+                        ],
+                        "thumbnail_url": null,
+                        "temporary_id": null,
+                        "webp_url": [
+                            "https://dkstatics-public.digikala.com/digikala-products/5a81f8837ff2686f22e657f9642116800598899e_1669667677.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/format,webp/quality,q_80"
+                        ]
+                    }
+                },
+                "properties": {
+                    "is_fast_shipping": false,
+                    "is_ship_by_seller": false,
+                    "free_shipping_badge": false,
+                    "is_multi_warehouse": false,
+                    "is_fake": false,
+                    "has_gift": false,
+                    "min_price_in_last_month": 940000,
+                    "is_non_inventory": false,
+                    "is_ad": false,
+                    "ad": [],
+                    "is_jet_eligible": false,
+                    "is_medical_supplement": false
+                },
+                "badges": [],
+                "rating": {
+                    "rate": 83.07977736549165,
+                    "count": 539
+                },
+                "default_variant": {
+                    "id": 36026903,
+                    "lead_time": 0,
+                    "rank": 99.83,
+                    "rate": 83.4,
+                    "statistics": {
+                        "totally_satisfied": {
+                            "rate_count": 63,
+                            "rate": 40.38
+                        },
+                        "satisfied": {
+                            "rate_count": 69,
+                            "rate": 44.23
+                        },
+                        "neutral": {
+                            "rate_count": 16,
+                            "rate": 10.26
+                        },
+                        "dissatisfied": {
+                            "rate_count": 3,
+                            "rate": 1.92
+                        },
+                        "totally_dissatisfied": {
+                            "rate_count": 5,
+                            "rate": 3.21
+                        },
+                        "total_count": 156,
+                        "total_rate": 83.4
+                    },
+                    "status": "marketable",
+                    "properties": {
+                        "is_fast_shipping": false,
+                        "is_ship_by_seller": false,
+                        "is_multi_warehouse": false,
+                        "has_similar_variants": false,
+                        "is_rural": false,
+                        "in_digikala_warehouse": true
+                    },
+                    "digiplus": {
+                        "services": [
+                            "۴ ارسال رایگان عادی",
+                            "۲ ارسال سوپرمارکت",
+                            "پشتیبانی اختصاصی",
+                            "ارسال فوری برای شهر تهران (رایگان)"
+                        ],
+                        "services_summary": [
+                            "ارسال فوری برای شهر تهران (رایگان)"
+                        ],
+                        "is_jet_eligible": true,
+                        "cash_back": 0,
+                        "is_general_location_jet_eligible": false,
+                        "fast_shipping_text": "ارسال امروز"
+                    },
+                    "warranty": {
+                        "id": 272,
+                        "title_fa": "گارانتی اصالت و سلامت فیزیکی کالا",
+                        "title_en": "گارانتی اصالت و سلامت فیزیکی کالا"
+                    },
+                    "size": {
+                        "id": 100174,
+                        "title": "XL"
+                    },
+                    "seller": {
+                        "id": 532230,
+                        "title": " پوشاک ناطقیان",
+                        "code": "CVHVR",
+                        "url": "https://www.digikala.com/seller/CVHVR/",
+                        "rating": {
+                            "total_rate": 82,
+                            "total_count": 21360,
+                            "commitment": 100,
+                            "no_return": 99.9,
+                            "on_time_shipping": 99.4
+                        },
+                        "properties": {
+                            "is_trusted": false,
+                            "is_official": false,
+                            "is_roosta": false,
+                            "is_new": false
+                        },
+                        "stars": 5,
+                        "grade": {
+                            "label": "عالی",
+                            "color": "#00a049"
+                        },
+                        "logo": null,
+                        "registration_date": "4 سال و 1 هفته"
+                    },
+                    "digiclub": {
+                        "point": 12
+                    },
+                    "price": {
+                        "selling_price": 1190000,
+                        "rrp_price": 1190000,
+                        "order_limit": 30,
+                        "is_incredible": false,
+                        "is_promotion": false,
+                        "is_locked_for_digiplus": false,
+                        "bnpl_active": false,
+                        "discount_percent": 0,
+                        "is_plus_early_access": false
+                    },
+                    "shipment_methods": {
+                        "description": "موجود در انبار دیجی‌کالا",
+                        "has_lead_time": true,
+                        "providers": [
+                            {
+                                "title": "ارسال دیجی‌کالا",
+                                "description": "این کالا در انبار دیجی‌کالا موجود و آماده پردازش است و توسط پیک دیجی‌کالا در بازه انتخابی ارسال خواهد شد.",
+                                "has_lead_time": false,
+                                "type": "digikala"
+                            },
+                            {
+                                "title": "ارسال امروز (فعلا در شهر تهران و کرج)",
+                                "description": "اگر سفارش را قبل از ساعت ۶ عصر ثبت کنید، همان روز ارسال می‌شود. در صورت ثبت سفارش بعد از ساعت ۶ عصر، فردا ارسال خواهد شد.",
+                                "has_lead_time": false,
+                                "type": "jet"
+                            }
+                        ]
+                    },
+                    "has_importer_price": false,
+                    "manufacture_price_not_exist": false,
+                    "has_best_price_in_last_month": false,
+                    "buy_box_notices": [],
+                    "variant_badges": []
+                }
+            }
+        ],
+        "background": null,
+        "icon": null,
+        "products_count": null,
+        "data_layer": null
+    }
+}
