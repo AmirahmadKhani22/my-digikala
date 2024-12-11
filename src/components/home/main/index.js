@@ -15,8 +15,9 @@ export default function Main() {
     return <main className="m-auto w-full max-w-[1336px]">
         <DeepLink />
         <AmazingOffer />
-        <FreshIncredibleOfferProducts />
         <MainBanners identifier="banners_home_web_zone_top" aspectRatio={4/3}/>
+        <FreshIncredibleOfferProducts />
+        <MainBanners identifier="banners_home_web_zone_top_second" aspectRatio={4/3}/>
         <MainCategory />
         <MainBanners identifier="banners_home_web_zone_middle" aspectRatio={5/2}/>
         <PopularBrands />

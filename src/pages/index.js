@@ -5,6 +5,7 @@ import Main from '@/components/home/main'
 import {getJsonData} from "@/components/utils/components/hooks/getData"
 
 export default function Home({pageData}) {
+    console.log(pageData.data.widgets)
     return pageData.data && <Provider value={pageData}>
         <Head />
         <Header />
