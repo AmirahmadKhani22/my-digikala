@@ -1,6 +1,7 @@
 import DeepLink from "./deepLink"
 import AmazingOffer from "./amazingOffer"
 import FreshIncredibleOfferProducts from "./freshIncredibleOfferProduts"
+import SuperMarket from "./superMarket"
 import PopularBrands from "./popularBrands"
 import MainBanners from "./banner"
 import MainCategory from "./mainCategory"
@@ -17,6 +18,7 @@ export default function Main() {
         <AmazingOffer />
         <FreshIncredibleOfferProducts />
         <MainBanners identifier="banners_home_web_zone_top" aspectRatio={4/3}/>
+        <SuperMarket />
         <MainCategory />
         <MainBanners identifier="banners_home_web_zone_middle" aspectRatio={5/2}/>
         <PopularBrands />
