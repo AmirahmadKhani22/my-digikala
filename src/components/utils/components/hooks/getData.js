@@ -1,4 +1,4 @@
-const HOSTNAME = "http://localhost:3001"
+const HOSTNAME = "http://localhost:3002"
 
 export async function getJsonData(subPath="") {
     const url = `${HOSTNAME[HOSTNAME.length-1] === "/" ? HOSTNAME.slice(0,-1) : HOSTNAME}${subPath[0] === "/" ? subPath : "/"+subPath}`
